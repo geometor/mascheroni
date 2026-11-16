@@ -1,0 +1,24 @@
+:layout: book
+:type: section
+:order: 2
+:folio: 0032
+:page: 3
+:title: Prefazione (Mascheroni, 1797)
+
+.. _mascheroni-prefazione-orig-it:
+
+==========
+Prefazione
+==========
+
+.. rubric:: Lorenzo Mascheroni (*La Geometria del Compasso*, Pavia 1797, pp. 3–8)
+
+.. folio:: 0032
+
+Il primo pensiero, che mi invitò a tentare le strade nuove di questa *Geometria del Compasso*, fu questo: mentre si trovano tante cose nuove progredendo nelle matematiche, non si potrebbe forse trovare qualche luogo ancora incognito retrocedendo? Finora le più semplici soluzioni della geometria sono state giudicate quelle, che altro non impiegano, che il compasso e la riga; ossia, ciò che è lo stesso, la retta, che è la più semplice tra le linee, e il cerchio, che è la più semplice fra le curve. A questi due stromenti, per così dire, de' problemi, che un tempo determinavano e costituivano la geometria elementare, furono aggiunte in progresso le curve coniche; quindi le superiori al secondo grado e le trascendenti di varie spezie. Si sono continuate ad arricchire queste profonde indagini geometriche coi nuovi soccorsi dell'algebra sì finita, che infinitesima a tale, che ormai que' ritrovati, i quali dapprima parvero maravigliosi agli antichi, e degni de' sagrifizj di Talete e di Pitagora, sono l'appannaggio dei fanciulli dei nostri giorni.
+
+Or dissi: non potresti tu retrocedere dagli elementi, come da una linea di demarcazione, e cercar qualche cosa rimasta addietro a guisa di trascurata? È egli vero che i problemi elementari d'Euclide sieno della più semplice costruzione? O non si potrebbe l'elemento matematico risolvere ne' suoi elementi fondamentali riga e compasso, a guisa di chi ha separata l'acqua in due arie, e qualche aria pure stimata semplice, in due altre sostanze? A questo punto m'avvidi, che non potendosi far uso della riga sola se non per condurre una retta; si poteva però forse far uso del solo compasso non per descrivere solamente un cerchio, o un arco d'esso; ma descrivendone più con più centri, e con diverse aperture, trovare per via delle loro sezioni mutue più punti, che fossero utili, e appunto i cercati di posizione in qualche problema.
+
+Fin qui conobbi, che questo era un ramo finora non coltivato per nulla dai matematici, e che soluzioni di simil genere ottenute per avventura col solo compasso sarebbero state per la loro costruzione più elementari di ogni altra. Ma due cose mi trattennero per poco di accingermi a tentar nulla per questa via. La prima fu il pensiero: qual pro ne verrà se tu arrivi a trovare col solo compasso que' punti, che altri hanno già finora trovati con esso e colla riga? La seconda era il timore, che da principio sembrommi ben ragionevole, che anzi che avere vantaggio da miei tentativi, fossero pure coronati dall'esito; avrei avuto discapito. Le costruzioni col solo compasso per trovare i punti della geometria elementare sarebbero state complicate a più doppj sopra le già conosciute, nelle quali interviene la riga. Avrebbe dunque la teoria mancato d'eleganza, e la pratica di precisione. Sicchè io era al procinto d'abbandonare l'impresa.
+
+Mentre io era così irresoluto, m'accadde di rileggere la maniera colla quale :person:`Graham <graham>` e :person:`Bird <bird>` dividevano in Inghilterra i loro grandi quadranti astronomici (*Encyclop. Method. Articl. quart de cercle mural*). Il quadrante di Graham fatto da lui per Greenwich non solo si dice aver servito di modello alla maggior parte di quelli che si sono fatti dopo; ma vien considerato ancora per la sua precisione dagli astronomi per uno de' migliori, che siansi mai adoperati nell'astronomia, fino all'epoca dei quadranti di :person:`Ramsden <ramsden>`. Ora vidi che la divisione di quella celebre macchina, abbandonata affatto la riga, fu eseguita col solo compasso. È interessante la descrizione del metodo impiegato in quella lunga ed ingegnosa operazione. Io non entrerò qui a dire le ragioni, per le quali la riga ne fu esclusa. Le indovineranno facilmente tutti quelli, che hanno perizia di simil genere di lavori. Per accennare in generale i vantaggi, che ha il compasso sopra la riga, qualora si tratti di una descrizione precisa di linee, che non debbano temere l'esame del microscopio, basta avvertire, che trattandosi specialmente d'una riga alquanto lunga, è quasi impossibile ch'ella sia così diritta, che ne garantisca per tutto il suo tratto della posizione a luogo de' punti, che in essa sono. E sia pur essa rettissima. Sanno i pratici, che il dovere strisciare lungo essa colla punta che segna, porta seco una incertezza di parallelismo nel moto dell'asse di questa punta, o di perfetto adattamento allo spigolo, che rende spesso inutile la sua massima perfezione. A queste due difficoltà non va soggetto il compasso. Qualora esso sia fermo nell'apertura, e finissimo nelle punte; centratane una immobilmente, il che non è difficile, l'altra scorrendo segna da sè un arco così preciso ed esatto, che nulla più.

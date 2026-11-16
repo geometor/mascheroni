@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 360" width="650" height="360" class="euclid-graphic" data-graphic-id="fig_mascheroni_midpoint" data-proposition="Libro-III-66">
+  <defs>
+    <marker id="geom-tick-1" viewBox="-2 -6 4 12" markerWidth="4" markerHeight="12" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" stroke="var(--geom-fg)" stroke-width="1.4" />
+    </marker>
+  </defs>
+  <style>
+    :root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line { stroke: var(--geom-fg); stroke-width: 1.8; stroke-linecap: round; fill: none; }
+    .geom-bold { stroke: var(--geom-fg); stroke-width: 2.3; stroke-linecap: round; fill: none; }
+    .geom-dashed { stroke: var(--geom-fg); stroke-width: 1.35; stroke-dasharray: 5, 3.5; stroke-linecap: round; fill: none; opacity: 0.78; }
+    .geom-accent-line { stroke: var(--geom-accent); stroke-width: 2.15; stroke-linecap: round; fill: none; }
+    .geom-assert-line { stroke: var(--geom-assert); stroke-width: 2.25; stroke-linecap: round; fill: none; }
+    .geom-circle { stroke: var(--geom-fg); stroke-width: 1.55; fill: none; }
+    .geom-arc { stroke: var(--geom-accent); stroke-width: 1.75; stroke-dasharray: 4.5, 3; stroke-linecap: round; fill: none; }
+    .geom-ang-arc { stroke: var(--geom-assert); stroke-width: 1.7; stroke-linecap: round; fill: none; }
+    .geom-polygon { fill: var(--geom-poly-fill); fill-opacity: 0.05; stroke: none; }
+    .geom-point { fill: var(--geom-fg); stroke: var(--geom-point-stroke); stroke-width: 1.15; }
+    .geom-point-accent { fill: var(--geom-accent); stroke: var(--geom-point-stroke); stroke-width: 1.15; }
+    .geom-point-assert { fill: var(--geom-assert); stroke: var(--geom-point-stroke); stroke-width: 1.25; }
+    .geom-label { font-size: 13px; font-weight: 700; fill: var(--geom-fg); user-select: none; }
+    .geom-label-sm { font-size: 10.5px; font-weight: 700; fill: var(--geom-fg); opacity: 0.88; user-select: none; }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #d6cfc5;
+        --geom-bg: #1e1e20;
+        --geom-point-stroke: #1e1e20;
+        --geom-poly-fill: #d6cfc5;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+      }
+    }
+  </style>
+  <g id="elements">
+    <!-- Circle A(AB): center A(300, 180), r=120 -->
+    <circle cx="300.00" cy="180.00" r="120.00" fill="none" class="geom-circle" data-ref="A(AB)" />
+    <!-- Circle E(EB): center E(180, 180), r=240 -->
+    <path d="M 390.00 27.22 A 240.00 240.00 0 0 1 390.00 332.78" fill="none" class="geom-accent-line" data-ref="E(EB)" />
+    <!-- Circle B(BA): center B(420, 180), r=120 -->
+    <circle cx="420.00" cy="180.00" r="120.00" fill="none" class="geom-dashed" data-ref="B(BA)" />
+    <!-- Arc P(PB): center P(390, 63.63), r=120, meeting M(360, 180) -->
+    <path d="M 345.00 170.00 A 120.00 120.00 0 0 0 435.00 190.00" fill="none" class="geom-assert-line" data-ref="P(PB)" />
+    <!-- Arc p(pB): center p(390, 296.37), r=120, meeting M(360, 180) -->
+    <path d="M 345.00 190.00 A 120.00 120.00 0 0 1 435.00 170.00" fill="none" class="geom-assert-line" data-ref="p(pB)" />
+  </g>
+  <g id="graphics">
+    <!-- Virtual baseline (un-drawn straight line shown dashed) -->
+    <path d="M 160.00 180.00 L 300.00 180.00 L 440.00 180.00" fill="none" class="geom-dashed" marker-mid="url(#geom-tick-1)" />
+    <!-- Doubling chords on A(AB) -->
+    <line x1="420.00" y1="180.00" x2="360.00" y2="76.08" class="geom-line" />
+    <line x1="360.00" y1="76.08" x2="240.00" y2="76.08" class="geom-line" />
+    <line x1="240.00" y1="76.08" x2="180.00" y2="180.00" class="geom-line" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+  </g>
+  <g id="points">
+    <circle cx="300.00" cy="180.00" r="3.60" class="geom-point" data-ref="A" />
+    <circle cx="420.00" cy="180.00" r="3.60" class="geom-point" data-ref="B" />
+    <circle cx="180.00" cy="180.00" r="3.60" class="geom-point-accent" data-ref="E" />
+    <circle cx="360.00" cy="76.08" r="3.20" class="geom-point" data-ref="C" />
+    <circle cx="240.00" cy="76.08" r="3.20" class="geom-point" data-ref="D" />
+    <circle cx="390.00" cy="63.63" r="3.50" class="geom-point-accent" data-ref="P" />
+    <circle cx="390.00" cy="296.37" r="3.50" class="geom-point-accent" data-ref="p" />
+    <circle cx="360.00" cy="180.00" r="4.20" class="geom-point-assert" data-ref="M" />
+  </g>
+  <g id="labels">
+    <text x="300.00" y="202.00" text-anchor="middle" class="geom-label">A</text>
+    <text x="432.00" y="202.00" text-anchor="middle" class="geom-label">B</text>
+    <text x="168.00" y="202.00" text-anchor="middle" class="geom-label">E</text>
+    <text x="368.00" y="68.00" text-anchor="middle" class="geom-label">C</text>
+    <text x="232.00" y="68.00" text-anchor="middle" class="geom-label">D</text>
+    <text x="406.00" y="60.00" text-anchor="middle" class="geom-label">P</text>
+    <text x="406.00" y="310.00" text-anchor="middle" class="geom-label">p</text>
+    <text x="360.00" y="165.00" text-anchor="middle" class="geom-label" fill="var(--geom-assert)">M (Midpoint)</text>
+    <text x="325.00" y="25.00" text-anchor="middle" class="geom-label-sm">Mascheroni (1797) Libro III, § 66 (Sol. V) — Midpoint Bisection Without Straightedge</text>
+    <text x="325.00" y="348.00" text-anchor="middle" class="geom-label-sm">Collinear Doubling to E + Circle E(EB) ∩ B(BA) at P, p → Arcs P(PB) ∩ p(PB) at M</text>
+  </g>
+</svg>

@@ -1,0 +1,173 @@
+src.geometor.mascheroni
+=======================
+
+.. py:module:: src.geometor.mascheroni
+
+.. autoapi-nested-parse::
+
+   Public package interface for ``geometor.mascheroni``.
+
+
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 1
+
+   /modules/api/src/geometor/mascheroni/__main__/index
+   /modules/api/src/geometor/mascheroni/app/index
+   /modules/api/src/geometor/mascheroni/compass/index
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   src.geometor.mascheroni.__version__
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   src.geometor.mascheroni.OpCount
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   src.geometor.mascheroni.main
+   src.geometor.mascheroni.run
+   src.geometor.mascheroni.circle_circle_intersection
+   src.geometor.mascheroni.collinear_doubling
+   src.geometor.mascheroni.concentric_fourth_proportional
+   src.geometor.mascheroni.mascheroni_inversion
+   src.geometor.mascheroni.mascheroni_midpoint
+   src.geometor.mascheroni.mascheroni_parallel_point
+   src.geometor.mascheroni.mascheroni_reflect_point
+
+
+Package Contents
+----------------
+
+.. py:function:: main() -> None
+
+   Console-script entry point.
+
+
+.. py:function:: run(argv: collections.abc.Sequence[str] | None = None) -> int
+
+   Execute the command-line workflow.
+
+   :param argv: Optional sequence of CLI arguments (defaults to empty list when ``None``).
+
+   :returns: Exit code (``0`` on success).
+
+
+.. py:class:: OpCount
+
+   Exact Lemoine operational count vector for compass-only geometry.
+
+
+   .. py:attribute:: c1
+      :type:  int
+
+
+   .. py:attribute:: c2
+      :type:  int
+
+
+   .. py:attribute:: c3
+      :type:  int
+
+
+   .. py:attribute:: s
+      :type:  int
+
+
+   .. py:attribute:: e
+      :type:  int
+
+
+   .. py:attribute:: circles
+      :type:  int
+
+
+   .. py:attribute:: symbol
+      :type:  str
+
+
+   .. py:method:: create(c1: int, c2: int, c3: int) -> OpCount
+      :classmethod:
+
+
+      Construct an :class:`OpCount` verifying Mascheroni invariant algebra.
+
+
+
+   .. py:method:: validate() -> list[str]
+
+      Verify Lemoine's exactitude, simplicity, and circle-count invariants.
+
+
+
+.. py:function:: circle_circle_intersection(c1: sympy.Point2D, r1: sympy.Expr, c2: sympy.Point2D, r2: sympy.Expr) -> tuple[sympy.Point2D, sympy.Point2D]
+
+   Compute the two exact symbolic intersection points of circles (c1, r1) and (c2, r2).
+
+   Never introduces floating-point numbers; preserves exact radicals.
+
+
+.. py:function:: collinear_doubling(a: sympy.Point2D, b: sympy.Point2D) -> sympy.Point2D
+
+   Collinear doubling of segment AB past A (Mascheroni Libro III, § 64).
+
+   Returns point E collinear with A and B such that A is the midpoint of BE (EB = 2 AB).
+   In Mascheroni's synthesis, this is executed by stepping three equal chords of radius AB
+   around circle A(AB) from B.
+
+
+.. py:function:: concentric_fourth_proportional(a: sympy.Expr, b: sympy.Expr, c: sympy.Expr) -> sympy.Expr
+
+   Concentric fourth proportional x = (b * c) / a (Mascheroni Libro V, § 93).
+
+
+.. py:function:: mascheroni_inversion(o: sympy.Point2D, r: sympy.Expr, p: sympy.Point2D) -> sympy.Point2D
+
+   Circular inversion of point P across reference circle (O, R) (Adler 1890).
+
+   Maps P to P' along ray OP such that OP · OP' = R^2 in 5C_1 + 3C_3.
+
+
+.. py:function:: mascheroni_midpoint(a: sympy.Point2D, b: sympy.Point2D) -> sympy.Point2D
+
+   Bisect un-drawn segment AB by compass alone (Mascheroni Libro III, § 66, Sol. V).
+
+   1. Double BA past A to E (AE = AB, EB = 2 AB).
+   2. Sweep E(EB) and B(BA), intersecting at P and p.
+   3. Sweep P(BA) and p(BA), intersecting at exact midpoint M = (A + B)/2.
+
+
+.. py:function:: mascheroni_parallel_point(a: sympy.Point2D, b: sympy.Point2D, c: sympy.Point2D) -> sympy.Point2D
+
+   Construct point D through C such that (C, D) || (A, B) (Mascheroni Libro IV, § 80).
+
+   Constructs the fourth vertex D of parallelogram ABDC via B(AC) ∩ C(AB).
+
+
+.. py:function:: mascheroni_reflect_point(a: sympy.Point2D, b: sympy.Point2D, p: sympy.Point2D) -> sympy.Point2D
+
+   Reflect point P orthogonally across virtual line (A, B) (Mascheroni Libro IV, § 78).
+
+   Sweep A(AP) ∩ B(BP) to locate the opposite reflection point P'.
+
+
+.. py:data:: __version__
+   :value: '0.1.0'
+
+
