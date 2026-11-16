@@ -1,0 +1,1 @@
+The mission of this project is to capture a semantic digital library of the works of **Lorenzo Mascheroni** — the Italian geometer whose 1797 La Geometria del Compasso proved that every Euclidean construction can be executed with the compass alone.

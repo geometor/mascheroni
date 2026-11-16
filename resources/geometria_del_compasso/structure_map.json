@@ -1,0 +1,44 @@
+{
+  "edition": "geometria_del_compasso",
+  "title": "La Geometria del Compasso",
+  "author": "Lorenzo Mascheroni",
+  "year": 1797,
+  "tracks": ["it", "en", "summary", "notes"],
+  "sections": [
+    {
+      "slug": "00-prefazione",
+      "title": "Prefazione e Dedica a Bonaparte",
+      "propositions": "Dedica & Prefazione Fazzari 1901"
+    },
+    {
+      "slug": "01-libro-1-preliminari",
+      "title": "Libro I: Preliminari",
+      "propositions": "§§ 1–11"
+    },
+    {
+      "slug": "02-libro-3-distanze",
+      "title": "Libro III: Moltiplicazione e divisione delle distanze",
+      "propositions": "§§ 64–68"
+    },
+    {
+      "slug": "03-libro-4-perpendicolari-parallele",
+      "title": "Libro IV: Perpendicolari e rette parallele",
+      "propositions": "§§ 76–80"
+    },
+    {
+      "slug": "04-libro-5-proporzioni",
+      "title": "Libro V: Distanze proporzionali",
+      "propositions": "§§ 86–96"
+    },
+    {
+      "slug": "05-libro-7-intersezioni",
+      "title": "Libro VII: Intersezione delle rette e dei cerchi",
+      "propositions": "§§ 110–112"
+    },
+    {
+      "slug": "06-libro-10-centri",
+      "title": "Libro X: Determinazione dei centri e problema di Napoleone",
+      "propositions": "§§ 143–147"
+    }
+  ]
+}

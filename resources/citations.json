@@ -1,0 +1,74 @@
+{
+  "mascheroni-1797": {
+    "author": "Lorenzo Mascheroni",
+    "work": "La Geometria del Compasso",
+    "locus": "Libri I–XII, §§ 1–213, 18 plates (Figs. 1–108)",
+    "year": "1797 (Anno V della Repubblica Francese)",
+    "publisher": "Presso gli Eredi di Pietro Galeazzi, Pavia",
+    "note": "Classic compass-only treatise proving constructively across twelve books that every ruler-and-compass point determination can be carried out with the compass alone."
+  },
+  "carette-1798": {
+    "author": "Antoine-Michel Carette (trans.)",
+    "work": "Géométrie du compas, par L. Mascheroni",
+    "locus": "xvi + 263 pp., 14 folding plates",
+    "year": "1798 (An VI)",
+    "publisher": "Duprat, Libraire pour les Mathématiques, Paris",
+    "note": "French translation through which Lemoine and French geometers cited Mascheroni's problem numbering and compass-only methods."
+  },
+  "fazzari-1901": {
+    "author": "Lorenzo Mascheroni (ed. Gaetano Fazzari)",
+    "work": "La Geometria del Compasso: Nuova edizione con prefazione e note",
+    "locus": "Prefazione storica pp. v–xvi; Testo pp. 1–152",
+    "year": "1901",
+    "publisher": "Casa Editrice 'Era Nova', Palermo",
+    "note": "Scholarly Italian edition whose preface (p. xi) explicitly compares Mascheroni's constructions with Euclidean methods via 'il metodo della Geometrografia del Lemoine'."
+  },
+  "mohr-1672": {
+    "author": "Georg Mohr",
+    "work": "Euclides Danicus, Bestaende udi Too Deele",
+    "locus": "Parts I–II, 36 pp. (republished with German translation by J. Hjelmslev, Copenhagen: Høst & Søn, 1928)",
+    "year": "1672",
+    "publisher": "Jacob van Velsen, Amsterdam",
+    "note": "Earliest complete proof of compass-only Euclidean constructibility, anticipating Mascheroni by 125 years."
+  },
+  "adler-1890": {
+    "author": "August Adler",
+    "work": "Zur Theorie der Mascheronischen Constructionen / Theorie der geometrischen Konstruktionen",
+    "locus": "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien, Math.-Naturwiss. Classe, Bd. 99, Abt. IIa, pp. 910–916; Sammlung Göschen Nr. 301",
+    "year": "1890 / 1906",
+    "publisher": "K.-K. Hof- und Staatsdruckerei, Vienna / G. J. Göschen, Leipzig",
+    "note": "Unified proof of Mascheroni's theorem via circle inversion (5C_1 + 3C_3) alongside comparative expositions of Steiner's constructions and Lemoine's Géométrographie."
+  },
+  "lemoine-1902": {
+    "author": "Émile Lemoine",
+    "work": "Géométrographie, ou Art des constructions géométriques",
+    "locus": "Collection Scientia, Série Physico-Mathématique, n° 18, 88 pp.",
+    "year": "1902",
+    "publisher": "C. Naud, Éditeur, Paris",
+    "note": "Definitive monograph formalizing Géométrographie Mascheronienne (§ 2, pp. 66–74) with exact operational symbols m_1 C_1 + m_2 C_2 + m_3 C_3."
+  },
+  "steiner-1833": {
+    "author": "Jakob Steiner",
+    "work": "Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Eines festen Kreises",
+    "locus": "§§ 1–22, [1]–[110]; Ostwald's Klassiker der exakten Wissenschaften Nr. 60 (1895)",
+    "year": "1833",
+    "publisher": "Ferdinand Dümmler, Berlin",
+    "note": "Dual demonstration of straightedge-only constructibility with one fixed circle and its center across eight canonical fundamental problems."
+  },
+  "euclid-heath": {
+    "author": "Euclid (trans. Sir Thomas L. Heath)",
+    "work": "The Thirteen Books of Euclid's Elements",
+    "locus": "3 vols. (Books I–XIII); GEOMETOR Digital Scriptorium Edition",
+    "year": "1908 / 1926",
+    "publisher": "Cambridge University Press",
+    "note": "Standard English philological reference and proposition benchmark for compass-only Euclidean equivalence."
+  },
+  "hilbert-1899": {
+    "author": "David Hilbert",
+    "work": "Grundlagen der Geometrie",
+    "locus": "Siebentes Kapitel: Die geometrischen Konstruktionen auf Grund der Axiome I–IV (§§ 36–39)",
+    "year": "1899",
+    "publisher": "B. G. Teubner, Leipzig",
+    "note": "Algebraic characterization (pythagorean vs. euclidean quadratic fields) of minimal-instrument constructions."
+  }
+}

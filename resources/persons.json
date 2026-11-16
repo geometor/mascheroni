@@ -1,0 +1,80 @@
+{
+  "mascheroni": {
+    "name": "Lorenzo Mascheroni",
+    "dates": "1750–1800",
+    "role": "Italian mathematician, poet, and professor of algebra and geometry at the University of Pavia",
+    "bio": "Author of Adnotationes ad calculum integralem Euleri (1790, introducing the Euler–Mascheroni constant γ) and La Geometria del Compasso (Pavia, 1797), dedicated in verse to Napoléon Bonaparte, proving constructively across twelve books that every ruler-and-compass problem solvable by point determinations can be executed with the compass alone."
+  },
+  "bonaparte": {
+    "name": "Napoléon Bonaparte",
+    "dates": "1769–1821",
+    "role": "French general, statesman, and member of the Institut National (classe des sciences physiques et mathématiques)",
+    "bio": "Met Lorenzo Mascheroni in Pavia and Milan during the 1797 Italian campaign, received the poetic dedication of La Geometria del Compasso, and famously presented Mascheroni's compass-only circle-quadrisection problem to Laplace and Lagrange in Paris, demonstrating that synthetic compass constructions often surpass ruler-and-compass algebra."
+  },
+  "carette": {
+    "name": "Antoine-Michel Carette",
+    "dates": "1772–1855",
+    "role": "French officer of military engineers and translator of Mascheroni",
+    "bio": "Translated Mascheroni's treatise into French as Géométrie du compas (Paris: Duprat, 1798), transmitting compass-only geometry to the École Polytechnique generation of Poncelet, Brianchon, Cauchy, and later Émile Lemoine."
+  },
+  "fazzari": {
+    "name": "Gaetano Fazzari",
+    "dates": "1856–1935",
+    "role": "Italian mathematician and historian of mathematics in Palermo; founder of Il Pitagora",
+    "bio": "Edited the critical 1901 Palermo centenary edition of Mascheroni's La Geometria del Compasso, whose historical preface (p. xi) famously evaluates Mascheroni's constructions through 'il metodo della Geometrografia del Lemoine'."
+  },
+  "mohr": {
+    "name": "Georg Mohr",
+    "dates": "1640–1697",
+    "role": "Danish mathematician; author of Euclides Danicus (1672)",
+    "bio": "Published Euclides Danicus in Dutch and Danish at Amsterdam in 1672—125 years before Mascheroni—proving that all constructions of the first six books of Euclid can be carried out with a compass alone; the work remained overlooked until Johannes Hjelmslev's rediscovery in 1928."
+  },
+  "adler": {
+    "name": "August Adler",
+    "dates": "1863–1923",
+    "role": "Czech-Austrian geometer and professor in Vienna and Prague",
+    "bio": "In Zur Theorie der Mascheronischen Constructionen (1890) and Theorie der geometrischen Konstruktionen (1906), gave the unified modern proof of the Mohr–Mascheroni theorem via circular inversion (5C_1 + 3C_3), reducing line–circle and line–line intersections directly to circle–circle intersections."
+  },
+  "euclid": {
+    "name": "Euclid of Alexandria",
+    "dates": "fl. c. 300 BCE",
+    "role": "Alexandrian mathematician; author of the Elements",
+    "bio": "Codified deductive geometry from three constructive postulates. Mascheroni demonstrated that Postulates 1 and 2 (drawing and extending straight lines) can be dispensed with for all point determinations, requiring only Postulate 3 (compass circle sweep)."
+  },
+  "steiner": {
+    "name": "Jakob Steiner",
+    "dates": "1796–1863",
+    "role": "Swiss synthetic projective geometer; professor of geometry at the University of Berlin",
+    "bio": "Proved the dual minimal-instrument theorem in 1833 (Die geometrischen Constructionen, ausgeführt mittelst der geraden Linie und Eines festen Kreises): a straightedge alone suffices for all Euclidean constructions provided one fixed circle and its center are given in the plane."
+  },
+  "lemoine": {
+    "name": "Émile Michel Hyacinthe Lemoine",
+    "dates": "1840–1912",
+    "role": "French civil engineer, modern triangle geometer, and creator of Géométrographie",
+    "bio": "Formulated Géométrographie in 1888–1902 (Scientia No. 18), providing the formal operation counts (m_1 C_1 + m_2 C_2 + m_3 C_3), simplicity S, and exactitude E measuring Mascheroni's compass-only constructions."
+  },
+  "laplace": {
+    "name": "Pierre-Simon, Marquis de Laplace",
+    "dates": "1749–1827",
+    "role": "French astronomer, mathematician, and member of the Institut National",
+    "bio": "Addressed by General Bonaparte in Paris in December 1797 with Mascheroni's compass-only problems, remarking: 'Nous attendions tout de vous, général, excepté des leçons de géométrie.'"
+  },
+  "lagrange": {
+    "name": "Joseph-Louis Lagrange",
+    "dates": "1736–1813",
+    "role": "Italian-born French mathematician and analytical mechanics pioneer",
+    "bio": "Witnessed Bonaparte's presentation of Mascheroni's methods at the Institut National in Paris and recognized the mathematical elegance of compass-only constructibility."
+  },
+  "hjelmslev": {
+    "name": "Johannes Trolle Hjelmslev",
+    "dates": "1873–1950",
+    "role": "Danish geometer and historian of mathematics; professor at the University of Copenhagen",
+    "bio": "In 1928 examined a seventeenth-century Dutch booklet submitted by a student, identifying Georg Mohr's Euclides Danicus (1672) and establishing Mohr's historical priority for the compass-only theorem."
+  },
+  "phi-architect": {
+    "name": "phi ARCHITECT",
+    "dates": "contemporary",
+    "role": "GEOMETOR Curator & Symbolic Modeler",
+    "bio": "Curator of the GEOMETOR Digital Scriptorium, implementing exact symbolic geometry models and synchronized Book Codices."
+  }
+}

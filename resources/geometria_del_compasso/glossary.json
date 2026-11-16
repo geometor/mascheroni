@@ -1,0 +1,86 @@
+{
+  "geometria-del-compasso": {
+    "headword": "La Geometria del Compasso",
+    "language": "it",
+    "translation": "The Geometry of the Compass (Pavia, 1797)",
+    "definition": "Lorenzo Mascheroni's celebrated 1797 treatise establishing that all problems of Euclidean plane geometry that can be solved by compass and straightedge can be solved by compass alone, dispensing entirely with the ruler."
+  },
+  "geometrographie-mascheronienne": {
+    "headword": "Géométrographie Mascheronienne",
+    "language": "fr",
+    "translation": "Mascheronian (Compass-Only) Geometrography",
+    "definition": "Evaluation of constructions restricted exclusively to the compass (l_1 = l_2 = 0; symbol m_1 C_1 + m_2 C_2 + m_3 C_3) following Lorenzo Mascheroni's La Geometria del Compasso (1797), where straight lines exist implicitly as ordered pairs of points."
+  },
+  "retta-virtuale": {
+    "headword": "Retta data per due punti (Virtual Line)",
+    "language": "it",
+    "translation": "Straight Line Defined by Two Points",
+    "definition": "In compass-only geometry, straight lines cannot be continuously traced; instead, every straight line is represented and uniquely determined by two distinct points (A, B). Intersecting two virtual lines or a virtual line with a circle means finding their intersection points using compass arcs alone."
+  },
+  "c1": {
+    "headword": "Opération C₁",
+    "language": "fr",
+    "translation": "Placing a compass point on a determined point",
+    "definition": "Setting one leg of the compass on a previously determined point (op.: C_1). Taking up the distance AB between two determined points with the two legs of the compass requires placing both points and therefore counts as 2C_1."
+  },
+  "c2": {
+    "headword": "Opération C₂",
+    "language": "fr",
+    "translation": "Placing a compass point at an indeterminate point on a traced locus",
+    "definition": "Setting one leg of the compass at an arbitrary (indeterminate) point lying on an already traced circular arc (op.: C_2), contributing 1 to both simplicity S and exactitude E."
+  },
+  "c3": {
+    "headword": "Opération C₃",
+    "language": "fr",
+    "translation": "Tracing a circle or circular arc",
+    "definition": "Describing a circle (or sufficient arc) with the compass once its center and aperture are established (op.: C_3). In any compass-only construction symbol, the coefficient m_3 of C_3 equals the exact number of circles drawn."
+  },
+  "simplicite": {
+    "headword": "Coefficient de simplicité (S)",
+    "language": "fr",
+    "translation": "Coefficient of Simplicity",
+    "definition": "Total number of elementary operations executed in a compass-only construction: S = m_1 + m_2 + m_3 (with l_1 = l_2 = 0). Lower S signifies greater economy of execution."
+  },
+  "exactitude": {
+    "headword": "Coefficient d'exactitude (E)",
+    "language": "fr",
+    "translation": "Coefficient of Exactitude (Preparatory Precision Cost)",
+    "definition": "Sum of all preparatory point-coincidence operations prior to tracing: E = m_1 + m_2. Because every placement of a compass point introduces a small observational error, fewer preparatory coincidences yield higher graphical precision."
+  },
+  "raddoppiamento": {
+    "headword": "Raddoppiamento della distanza (Libro III, § 64)",
+    "language": "it",
+    "translation": "Collinear Doubling of a Distance",
+    "definition": "Mascheroni's fundamental operation stepping three successive chords equal to radius AB around circle B(BA), producing point E collinear with A and B such that AE = 2 AB in 5C_1 + 4C_3 (S = 9, 4 circles)."
+  },
+  "bisezione-mascheroni": {
+    "headword": "Bisezione d'una distanza al solo compasso (Libro III, § 66, Sol. V)",
+    "language": "it",
+    "translation": "Mascheroni Midpoint Bisection",
+    "definition": "Finding the midpoint M of an un-drawn segment AB without a straightedge: double AB to E (§ 64), sweep arc E(EB) cutting B(BA) at P, p, then arcs P(PB) and p(PB) intersect at the exact midpoint M of AB in 7 circles (10C_1 + 7C_3, S = 17, E = 10)."
+  },
+  "inversione": {
+    "headword": "Inversione circolare (Functor di Adler)",
+    "language": "it",
+    "translation": "Circular Inversion",
+    "definition": "Conformal involution mapping point A to A' such that OA · OA' = R^2; executed in 5C_1 + 3C_3 (S = 8) by compass alone. Discovered by August Adler (1890) to unify Mascheroni's Book VII by transforming straight lines into circles passing through the inversion center."
+  },
+  "quarta-proporzionale": {
+    "headword": "Quarta proporzionale per cerchi concentrici (Libro V, § 93)",
+    "language": "it",
+    "translation": "Concentric Fourth Proportional",
+    "definition": "Given three segments a, b, c, draw concentric circles O(a) and O(b), place chord BC = c in O(a), and step equal arcs BD = CE onto O(b); chord DE = bc/a in just 4 circles (S = 14), celebrated by Gaetano Fazzari (1901) as simpler than Euclidean straightedge constructions."
+  },
+  "problema-di-napoleone": {
+    "headword": "Problema di Napoleone (Libro X, § 143)",
+    "language": "it",
+    "translation": "Napoleon's Problem (Circle Center Determination)",
+    "definition": "Finding the center of a given circle using only the compass. Mascheroni solves this in § 143 by sweeping an arbitrary arc from a point on the circle, finding its antipodal intersections, and inverting through the center."
+  },
+  "geometrographie-steinerienne": {
+    "headword": "Géométrographie Steinerienne",
+    "language": "fr",
+    "translation": "Steinerian (Straightedge-Only with Fixed Circle) Geometrography",
+    "definition": "The exact dual regime to Mascheroni: evaluation of constructions executed by straightedge alone (m_1 = m_2 = m_3 = 0; symbol l_1 R_1 + l_2 R_2) given a single permanently drawn circle with known center M, following Jakob Steiner (1833)."
+  }
+}
