@@ -1,12 +1,12 @@
 .. container:: author-overline
 
-   the works of
+   semantic digital archive • the works of
 
 ==================
 Lorenzo Mascheroni
 ==================
 
-The mission of this project is to capture a semantic digital library of the works of :person:`Lorenzo Mascheroni <mascheroni>` (1750–1800), the Italian mathematician and poet whose 1797 *La Geometria del Compasso* proved that every Euclidean construction can be executed with the compass alone.
+The works of :person:`Lorenzo Mascheroni <mascheroni>` (1750–1800) proved that every Euclidean construction can be executed with the compass alone, establishing the foundations of compass-only geometry in his 1797 masterpiece *La Geometria del Compasso*. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, these foundational texts are liberated from static print bounds into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and exact symbolic models speaking one shared geometric language.
 
 .. collection::
    :type: book
