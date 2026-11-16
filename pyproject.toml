@@ -14,7 +14,9 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
-dependencies = []
+dependencies = [
+    "sympy",
+]
 
 [project.scripts]
 mascheroni = "geometor.mascheroni.__main__:main"
