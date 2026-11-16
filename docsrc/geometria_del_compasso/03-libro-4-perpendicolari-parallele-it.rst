@@ -12,7 +12,7 @@ Libro IV: Perpendicolari e Parallele al Solo Compasso
    :depth: 2
    :backlinks: none
 
-.. folio:: Perpendicolare in un estremo
+.. folio:: 0067
    :page: 42
 
 § 1. Perpendicolare in un Estremo o per un Punto Dato (§§ 76–77)
@@ -31,7 +31,7 @@ Libro IV: Perpendicolari e Parallele al Solo Compasso
 
 *Bilan géométrographique*: :math:`6C_1 + 3C_3` (:math:`S = 9, E = 6`, 3 cerchi, 0 rette).
 
-.. folio:: Piede della perpendicolare
+.. folio:: 0068
    :page: 43
 
 § 2. Perpendicolare da un Punto Esterno e Piede della Perpendicolare (§§ 78–79)
@@ -48,7 +48,7 @@ Libro IV: Perpendicolari e Parallele al Solo Compasso
 * Costruire il punto simmetrico :math:`E` esige :math:`4C_1 + 2C_3` (:math:`S = 6, E = 4`, 2 cerchi).
 * Trovare il piede :math:`M` mediante bisezione (§ 66, Sol. V) su :math:`DE` aggiunge :math:`10C_1 + 7C_3` (:math:`S = 17`), risolvendo interamente la proiezione ortogonale.
 
-.. folio:: Parallela per un punto dato
+.. folio:: 0068
    :page: 43
 
 § 3. Parallela per un Punto Fuori della Retta (§ 80)

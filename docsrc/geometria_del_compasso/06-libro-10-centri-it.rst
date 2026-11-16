@@ -12,7 +12,7 @@ Libro X: Determinazione dei Centri e Problema di Napoleone
    :depth: 2
    :backlinks: none
 
-.. folio:: Problema di Napoleone
+.. folio:: 0107
    :page: 82
 
 § 1. Trovare il Centro d'un Cerchio Dato (Il Problema di Napoleone, § 143)
@@ -30,7 +30,7 @@ Sia data una circonferenza :math:`\Gamma` di cui non sia noto il centro :math:`O
 3. Il punto :math:`D` giace sul diametro passante per :math:`A` ed :math:`O`.
 4. Si trovi col solo compasso l'inverso del punto :math:`D` rispetto al cerchio :math:`A(r)`: esso coincide esattamente col centro :math:`O` della circonferenza :math:`\Gamma`!
 
-.. folio:: Centro per tre punti
+.. folio:: 0108
    :page: 83
 
 § 2. Centro del Cerchio che Passa per Tre Punti Dati (§ 144)
@@ -46,7 +46,7 @@ Dati tre punti non allineati :math:`M, A, B`:
 1. Si determinano le rette virtuali degli assi di :math:`MA` ed :math:`AB` mediante i punti simmetrici (§ 78).
 2. L'intersezione dei due assi ortogonali (§ 112) fornisce il circocentro :math:`O = X(3)` del triangolo :math:`\triangle MAB` al solo compasso!
 
-.. folio:: Dualità con Steiner
+.. folio:: 0109
    :page: 84
 
 § 3. Dualità Fondamentale tra Mascheroni e Steiner (1833)

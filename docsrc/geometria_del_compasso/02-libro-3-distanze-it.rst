@@ -12,7 +12,7 @@ Libro III: Moltiplicazione e Divisione delle Distanze in Linea Retta
    :depth: 2
    :backlinks: none
 
-.. folio:: Raddoppiamento della distanza
+.. folio:: 0057
    :page: 31
 
 § 1. Raddoppiare la Distanza AB in Linea Retta (§ 64)
@@ -31,7 +31,7 @@ Libro III: Moltiplicazione e Divisione delle Distanze in Linea Retta
 
 *Bilan géométrographique*: :math:`5C_1 + 4C_3` (:math:`S = 9, E = 5`, 4 cerchi, 0 rette).
 
-.. folio:: Bisezione d'una distanza al solo compasso
+.. folio:: 0058
    :page: 32
 
 § 2. Dividere per Metà una Distanza Data AB (§ 66, Soluzione V)
@@ -58,7 +58,7 @@ Posto :math:`A = (0, 0)` e :math:`B = (1, 0)` lungo l'asse delle ascisse:
 
 *Bilan géométrographique*: :math:`10C_1 + 7C_3` (:math:`S = 17, E = 10`, 7 cerchi, 0 rette).
 
-.. folio:: Suddivisione e trisezione
+.. folio:: 0060
    :page: 34
 
 § 3. Suddivisione all'Infinito e Trisezione (§§ 67–68)

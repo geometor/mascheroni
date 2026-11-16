@@ -12,7 +12,7 @@ Libro I: Preliminari — Principi e Operazioni Fondamentali del Compasso
    :depth: 2
    :backlinks: none
 
-.. folio:: Libro I: Preliminare
+.. folio:: 0040
    :page: 11
 
 § 1. Dei Punti e delle Rette Virtuali (§§ 1–3)
@@ -24,7 +24,7 @@ Non potendosi perciò tirare una linea retta continua col compasso, una :term:`l
 
 Costruire dunque una retta col solo compasso, o determinare la posizione di essa, significa determinare due punti, pei quali debba passare; e trovare l'intersezione di due rette, ovvero di una retta con una circonferenza di cerchio, significa trovare col solo compasso il punto, o i punti, in cui s'incontrerebbero se fossero tracciate colla riga.
 
-.. folio:: Operazioni elementari del compasso
+.. folio:: 0043
    :page: 14
 
 § 2. Delle Operazioni Elementari del Compasso (§§ 4–11)

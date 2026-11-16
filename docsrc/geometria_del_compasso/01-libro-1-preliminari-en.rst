@@ -12,7 +12,7 @@ Book I: Preliminary Principles — Foundations of Compass-Only Construction
    :depth: 2
    :backlinks: none
 
-.. folio:: Book I: Preliminaries
+.. folio:: 0040
    :page: 11
 
 § 1. Points, Virtual Lines & Compass Postulates (§§ 1–3)
@@ -26,7 +26,7 @@ Because continuous straight lines cannot be drawn without a straightedge, Masche
 2. **Intersecting two straight lines**, or a straight line and a circle, means finding purely by intersecting compass arcs the point or points where the loci would meet if traced with a ruler.
 3. Every geometric figure—triangle, polygon, or conic locus—is resolved into a discrete network of constructible points.
 
-.. folio:: Elementary Compass Operations
+.. folio:: 0043
    :page: 14
 
 § 2. Operational Algebra: The Three Elementary Compass Operations (§§ 4–11)

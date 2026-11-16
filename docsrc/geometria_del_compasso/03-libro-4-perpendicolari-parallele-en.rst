@@ -12,7 +12,7 @@ Book IV: Perpendiculars & Parallels by Compass Alone
    :depth: 2
    :backlinks: none
 
-.. folio:: Perpendicular Lines
+.. folio:: 0067
    :page: 42
 
 § 1. Erecting a Perpendicular at a Given Point (§§ 76–77)
@@ -26,7 +26,7 @@ To erect a perpendicular :math:`DA` to line :math:`(A, B)` at point :math:`A`:
 
 *Operation Count*: :math:`6C_1 + 3C_3` (:math:`S = 9, E = 6`, 3 circles, 0 lines).
 
-.. folio:: Perpendicular Foot from an External Point
+.. folio:: 0068
    :page: 43
 
 § 2. Dropping a Perpendicular & Finding its Foot (§§ 78–79)
@@ -38,7 +38,7 @@ Given line :math:`(A, B)` and an external point :math:`D`:
 2. The virtual line :math:`(D, E)` represents the perpendicular dropped from :math:`D` onto :math:`(A, B)` (:math:`4C_1 + 2C_3, S = 6`).
 3. Bisecting the vertical segment :math:`DE` via Book III, § 66 (Solution V) yields point :math:`M`, the exact orthogonal projection (foot of the perpendicular) of :math:`D` onto :math:`(A, B)`!
 
-.. folio:: Parallel Point Construction
+.. folio:: 0068
    :page: 43
 
 § 3. Constructing a Parallel Through an External Point (§ 80)

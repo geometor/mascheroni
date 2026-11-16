@@ -12,7 +12,7 @@ Book X: Determination of Centers & Napoleon's Problem
    :depth: 2
    :backlinks: none
 
-.. folio:: Napoleon's Problem
+.. folio:: 0107
    :page: 82
 
 § 1. Finding the Center of a Given Circle: Napoleon's Problem (§ 143)
@@ -29,7 +29,7 @@ A circle :math:`\Gamma` is drawn on paper, but its center :math:`O` is unmarked.
 
 *Operation Count*: :math:`9C_1 + 6C_3` (:math:`S = 15, E = 9`, 6 circles, 0 lines).
 
-.. folio:: Center for Three Points
+.. folio:: 0108
    :page: 83
 
 § 2. Finding the Center of a Circle Passing Through Three Points (§ 144)
@@ -40,7 +40,7 @@ Given three non-collinear points :math:`M, A, B`:
 1. Find the orthogonal reflection lines of :math:`MA` and :math:`AB` using Book IV, § 78.
 2. Intersecting the two perpendicular bisectors via Book VII, § 112 yields the circumcenter :math:`O = X(3)` of triangle :math:`\triangle MAB` using compass alone.
 
-.. folio:: Duality with Steiner
+.. folio:: 0109
    :page: 84
 
 § 3. Foundational Duality Between Mascheroni and Poncelet–Steiner

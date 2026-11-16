@@ -12,7 +12,7 @@ Book VII: Intersection of Lines and Circles by Compass Alone
    :depth: 2
    :backlinks: none
 
-.. folio:: Line-Circle Meet
+.. folio:: 0085
    :page: 60
 
 § 1. Intersecting a Virtual Line with a Circle (§§ 110–111)
@@ -28,7 +28,7 @@ To find the points where a virtual line :math:`(P, Q)` intersects circle :math:`
 
 *Operation Count*: :math:`7C_1 + 3C_3` (:math:`S = 10, E = 7`, 3 circles, 0 lines).
 
-.. folio:: Line-Line Meet
+.. folio:: 0086
    :page: 61
 
 § 2. Intersecting Two Virtual Lines (§ 112)
@@ -46,7 +46,7 @@ Given two virtual lines :math:`(A, B)` and :math:`(C, D)`, determine their point
 
 4. Arcs of radius :math:`CS` centered at :math:`C` and :math:`c` intersect at point :math:`S`. Point :math:`S` lies simultaneously on :math:`(C, D)` and on the axis of symmetry :math:`(A, B)`, yielding the exact meet of the two lines!
 
-.. folio:: Adler's Circular Inversion
+.. folio:: 0088
    :page: 63
 
 § 3. August Adler's Inversion Functor (1890)

@@ -12,7 +12,7 @@ Libro V: Delle Distanze Proporzionali al Solo Compasso
    :depth: 2
    :backlinks: none
 
-.. folio:: Terza proporzionale
+.. folio:: 0071
    :page: 46
 
 § 1. Terza Proporzionale a Due Distanze Date (§ 86)
@@ -36,7 +36,7 @@ Libro V: Delle Distanze Proporzionali al Solo Compasso
 
 La corda :math:`ab` è la rigorosa terza proporzionale cercata!
 
-.. folio:: Quarta proporzionale per cerchi concentrici
+.. folio:: 0073
    :page: 48
 
 § 2. Quarta Proporzionale a Tre Distanze Date (§ 93)
@@ -62,7 +62,7 @@ Per la similitudine dei triangoli :math:`\triangle ODE \sim \triangle OBC`:
 
 Questa celebre costruzione compie la quarta proporzionale in appena **4 cerchi** (:math:`S = 14`), celebrata da :person:`Gaetano Fazzari <fazzari>` (1901, p. xi) come notevolmente più rapida e precisa di qualsiasi costruzione euclidea con riga e fascio di rette parallele!
 
-.. folio:: Divisione proporzionale d'un segmento
+.. folio:: 0074
    :page: 49
 
 § 3. Divisione Proporzionale delle Distanze (§ 96)

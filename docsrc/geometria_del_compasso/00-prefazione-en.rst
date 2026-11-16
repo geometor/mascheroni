@@ -12,7 +12,7 @@ Preface & Dedication to Bonaparte: The Genesis of Compass Geometry
    :depth: 2
    :backlinks: none
 
-.. folio:: Dedication to Bonaparte
+.. folio:: 0030
    :page: 1
 
 § 1. Dedication to Bonaparte (Pavia, Anno V / 1797)
@@ -22,8 +22,8 @@ In 1797, following the arrival of the French Army of Italy in Lombardy, :person:
 
 Returning to Paris in December 1797 upon the signing of the Treaty of Campo Formio, Bonaparte took his seat in the *Institut National des Sciences et Arts* (having been elected to the First Class of Physical and Mathematical Sciences). There he presented Mascheroni's compass-only constructions—particularly the quadrisection of a circle using four arcs—to :person:`Pierre-Simon Laplace <laplace>` and :person:`Joseph-Louis Lagrange <lagrange>`, eliciting Laplace's famed reaction: *"General, we expected everything from you except lessons in geometry."*
 
-.. folio:: Fazzari's Historical Preface
-   :page: 11
+.. folio:: 0024
+   :page: xi
 
 § 2. Gaetano Fazzari's Critical Assessment (Palermo, 1901)
 -----------------------------------------------------------

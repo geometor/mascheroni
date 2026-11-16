@@ -12,7 +12,7 @@ Book V: Proportional Distances by Compass Alone
    :depth: 2
    :backlinks: none
 
-.. folio:: Third Proportional
+.. folio:: 0071
    :page: 46
 
 § 1. Third Proportional via Concentric Circles (§ 86)
@@ -31,7 +31,7 @@ To construct the third proportional :math:`x` to two given distances :math:`a` a
 
 The chord :math:`ab` is the required third proportional.
 
-.. folio:: Concentric Fourth Proportional
+.. folio:: 0073
    :page: 48
 
 § 2. The Concentric Fourth Proportional (§ 93)
@@ -50,7 +50,7 @@ Given three segments :math:`a, b, c` (with :math:`c \le 2a`):
 
 As :person:`Gaetano Fazzari <fazzari>` emphasized in his 1901 centenary preface (p. xi), this 4-circle construction (:math:`S = 14`) is dramatically more compact than standard ruler-and-compass Thales configurations, which require drawing multiple secants and parallel lines with high alignment overhead.
 
-.. folio:: Proportional Section
+.. folio:: 0074
    :page: 49
 
 § 3. Dividing a Segment in Given Proportions (§ 96)

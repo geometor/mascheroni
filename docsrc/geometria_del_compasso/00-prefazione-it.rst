@@ -12,7 +12,7 @@ Prefazione e Dedica a Bonaparte: La genesi de La Geometria del Compasso
    :depth: 2
    :backlinks: none
 
-.. folio:: Dedica a Bonaparte
+.. folio:: 0030
    :page: 1
 
 § 1. A Bonaparte l'Italico (Dedica poetica, Pavia 1797)
@@ -29,8 +29,8 @@ Nel 1797, all'arrivo dell'armata d'Italia, :person:`Lorenzo Mascheroni <maschero
 
 Bonaparte, che era stato allievo ufficiale d'artiglieria e che conservava un amore ardente per le matematiche, accolse Mascheroni con somma stima e portò seco a Parigi nel dicembre 1797 i problemi del compasso solo, proponendoli all'Institut National a :person:`Laplace <laplace>` e :person:`Lagrange <lagrange>`.
 
-.. folio:: Prefazione storica di G. Fazzari
-   :page: 11
+.. folio:: 0024
+   :page: xi
 
 § 2. Prefazione storica di Gaetano Fazzari (Palermo, 1901)
 ----------------------------------------------------------

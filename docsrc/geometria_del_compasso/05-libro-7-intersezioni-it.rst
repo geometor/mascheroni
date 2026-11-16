@@ -12,7 +12,7 @@ Libro VII: Intersezione delle Rette cogli Archi di Cerchio e tra Loro
    :depth: 2
    :backlinks: none
 
-.. folio:: Intersezione retta-cerchio
+.. folio:: 0085
    :page: 60
 
 § 1. Intersezione di una Retta con un Cerchio (§§ 110–111)
@@ -31,7 +31,7 @@ Libro VII: Intersezione delle Rette cogli Archi di Cerchio e tra Loro
 4. Poiché :math:`(P, Q)` è l'asse di simmetria ortogonale tra i centri :math:`A` ed :math:`A'`, i punti d'intersezione :math:`X, Y` tra il cerchio dato :math:`\Gamma` e il cerchio riflesso :math:`\Gamma'` giacciono rigorosamente sulla retta :math:`(P, Q)`!
 5. Pertanto :math:`X` e :math:`Y` sono i due punti esatti in cui la retta :math:`(P, Q)` taglia il cerchio :math:`\Gamma`, trovati con soli archi di cerchio!
 
-.. folio:: Intersezione di due rette
+.. folio:: 0086
    :page: 61
 
 § 2. Intersezione di Due Rette tra Loro (§ 112)
@@ -54,7 +54,7 @@ Libro VII: Intersezione delle Rette cogli Archi di Cerchio e tra Loro
 
 4. Gli archi centrati in :math:`C` e :math:`c` col raggio :math:`CS` si tagliano nel punto :math:`S`. Il punto :math:`S` giace contemporaneamente su :math:`(C, D)` e sull'asse di simmetria :math:`(A, B)`, essendo dunque l'esatta intersezione delle due rette!
 
-.. folio:: Functor di inversione di Adler
+.. folio:: 0088
    :page: 63
 
 § 3. Il Functor di Inversione di August Adler (1890)

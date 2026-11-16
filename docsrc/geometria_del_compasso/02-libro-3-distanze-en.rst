@@ -12,7 +12,7 @@ Book III: Collinear Multiplication & Division of Distances
    :depth: 2
    :backlinks: none
 
-.. folio:: Linear Doubling
+.. folio:: 0057
    :page: 31
 
 § 1. Collinear Doubling of Distance AB (§ 64)
@@ -26,7 +26,7 @@ To produce a point :math:`E` collinear with two given points :math:`A` and :math
 
 *Operation Count*: :math:`5C_1 + 4C_3` (:math:`S = 9, E = 5`, 4 circles, 0 lines).
 
-.. folio:: Midpoint Bisection Without Straightedge
+.. folio:: 0058
    :page: 32
 
 § 2. Bisecting an Un-Drawn Segment AB (§ 66, Solution V)
@@ -55,7 +55,7 @@ Taking :math:`A = (0, 0)` and :math:`B = (1, 0)`:
 
 *Operation Count*: :math:`10C_1 + 7C_3` (:math:`S = 17, E = 10`, 7 circles, 0 lines).
 
-.. folio:: Repeated Subdivision & Trisection
+.. folio:: 0060
    :page: 34
 
 § 3. Repeated Subdivision and Trisection (§§ 67–68)
