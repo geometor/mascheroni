@@ -1,18 +1,18 @@
 :layout: book
 :type: section
 :order: 1
-:canonical_id: Prefazione
-:title: Prefazione e Dedica a Bonaparte
-:nav_title: Prefazione
-:breadcrumb_title: Prefazione
+:canonical_id: Preface
+:title: Preface and Dedication to Bonaparte
+:nav_title: Preface
+:breadcrumb_title: Preface
 
 .. _mascheroni-prefazione-container:
 
-================================
-Prefazione e Dedica a Bonaparte
-================================
+===================================
+Preface and Dedication to Bonaparte
+===================================
 
-.. rubric:: The Genesis of *La Geometria del Compasso* (Pavia 1797 / Palermo 1901)
+.. rubric:: *Prefazione e Dedica a Bonaparte* — The Genesis of *La Geometria del Compasso* (Pavia 1797 / Palermo 1901)
 
 .. collection::
    :sort: order
@@ -33,7 +33,7 @@ Prefazione e Dedica a Bonaparte
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Testo Italiano (1797 / 1901)
+   :caption: Italian Edition
 
    01-dedica-bonaparte-it
    02-prefazione-mascheroni-it
