@@ -1,5 +1,5 @@
 :layout: book
-:type: problem
+:type: translation
 :order: 3
 :folio: 0060
 :page: 34
