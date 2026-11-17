@@ -1,18 +1,18 @@
 :layout: book
 :type: section
 :order: 3
-:canonical_id: Libro III
-:title: Libro III: Moltiplicazione e Divisione delle Distanze
-:nav_title: Libro III
-:breadcrumb_title: Libro III
+:canonical_id: Book III
+:title: Book III: Multiplication and Division of Distances
+:nav_title: Book III
+:breadcrumb_title: Book III
 
 .. _mascheroni-libro-3-container:
 
-============================================================
-Libro III: Moltiplicazione e Divisione delle Distanze
-============================================================
+==================================================
+Book III: Multiplication and Division of Distances
+==================================================
 
-.. rubric:: Raddoppiamento, Bisezione, Suddivisione e Trisezione al Solo Compasso (Pavia, 1797, §§ 64–68)
+.. rubric:: *Libro III* — Doubling, Bisection, Subdivision, and Trisection by the Compass Alone (Pavia, 1797, §§ 64–68)
 
 .. collection::
    :sort: order
@@ -35,7 +35,7 @@ Libro III: Moltiplicazione e Divisione delle Distanze
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Testo Italiano (1797)
+   :caption: Italian Edition
 
    sec-64-raddoppiamento-it
    sec-66-bisezione-it

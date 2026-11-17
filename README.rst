@@ -3,6 +3,11 @@ GEOMETOR • mascheroni
 
 **Visit the Online Archive:** https://geometor.github.io/mascheroni/
 
+.. image:: docsrc/_static/figures/fig_mascheroni_inversion.svg
+   :alt: GEOMETOR • mascheroni featured geometric construction
+   :target: https://geometor.github.io/mascheroni/
+   :align: center
+
 **Lorenzo Mascheroni • La Geometria del Compasso • semantic digital archive**
 
 Mission
@@ -13,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`La Geometria del Compasso <https://geometor.github.io/mascheroni/geometria_del_compasso/>`_** — Demonstrating that all Euclidean planar straightedge-and-compass constructions can be executed with compass alone (Pavia, 1797).
+- **`The Geometry of the Compass <https://geometor.github.io/mascheroni/geometria_del_compasso/>`_** — *La Geometria del Compasso*, demonstrating that all Euclidean planar straightedge-and-compass constructions can be executed with compass alone (Pavia, 1797).
 
 Repository Contents
 -------------------

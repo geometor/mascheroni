@@ -1,18 +1,18 @@
 :layout: book
 :type: section
 :order: 2
-:canonical_id: Libro I
-:title: Libro I: Preliminari
-:nav_title: Libro I
-:breadcrumb_title: Libro I
+:canonical_id: Book I
+:title: Book I: Preliminaries
+:nav_title: Book I
+:breadcrumb_title: Book I
 
 .. _mascheroni-libro-1-container:
 
-============================
-Libro I: Preliminari
-============================
+=====================
+Book I: Preliminaries
+=====================
 
-.. rubric:: Principi Fondamentali e Teoria del Compasso Solo (Pavia, 1797, §§ 1–14)
+.. rubric:: *Libro I: Preliminari* — Fundamental Principles and Theory of the Compass Alone (Pavia, 1797, §§ 1–14)
 
 .. collection::
    :sort: order
@@ -31,7 +31,7 @@ Libro I: Preliminari
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Testo Italiano (1797)
+   :caption: Italian Edition
 
    sec-01-definizioni-it
    sec-02-operazioni-it
