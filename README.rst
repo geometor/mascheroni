@@ -20,15 +20,6 @@ Books in This Archive
 
 - `The Geometry of the Compass <https://geometor.github.io/mascheroni/geometria_del_compasso/>`_ — *La Geometria del Compasso*, demonstrating that all Euclidean planar straightedge-and-compass constructions can be executed with compass alone (Pavia, 1797).
 
-Python Package & Modules
-------------------------
-
-The ``geometor-mascheroni`` Python package (``import geometor.mascheroni``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
-
-- ``compass.py`` — Exact symbolic compass-only geometry models for Lorenzo Mascheroni (1797).
-- ``app.py`` — Command-line interface for ``geometor.mascheroni``.
-
-See the `API Reference <https://geometor.github.io/mascheroni/modules/>`_ for full module documentation.
 
 Repository Contents
 -------------------
