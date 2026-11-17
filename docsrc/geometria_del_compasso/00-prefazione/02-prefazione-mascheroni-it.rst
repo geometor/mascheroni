@@ -1,5 +1,5 @@
 :layout: book
-:type: section
+:type: translation
 :order: 2
 :folio: 0032
 :page: 3
