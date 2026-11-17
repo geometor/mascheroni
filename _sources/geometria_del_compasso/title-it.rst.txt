@@ -55,6 +55,6 @@ Indice dell'Opera
 Apparato Critico
 ----------------
 
-* :doc:`Indice dei Nomi </persons>`
+* :doc:`Indice dei Nomi </people/index>`
 * :doc:`Bibliografia </bibliography>`
 * :doc:`Glossario </glossary>`

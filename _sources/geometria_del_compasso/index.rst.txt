@@ -69,7 +69,7 @@ Table of Contents
 Scholarly Apparatus
 -------------------
 
-* :doc:`People </persons>` — Prosopographical register of 13 geometers, translators, and commentators in the compass-only tradition.
+* :doc:`People </people/index>` — Prosopographical register of 13 geometers, translators, and commentators in the compass-only tradition.
 * :doc:`Bibliography </bibliography>` — Primary archival witnesses, Carette's 1798 translation, Fazzari's 1901 centenary edition, and Mohr's 1672 *Euclides Danicus*.
 * :doc:`Glossary </glossary>` — Italian, French, and English operational and structural terms in compass-only geometry.
 * :doc:`About This Edition </about/index>` — Methodological architecture of the GEOMETOR Digital Scriptorium edition.
