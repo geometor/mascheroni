@@ -18,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`The Geometry of the Compass <https://geometor.github.io/mascheroni/geometria_del_compasso/>`_** — *La Geometria del Compasso*, demonstrating that all Euclidean planar straightedge-and-compass constructions can be executed with compass alone (Pavia, 1797).
+- `The Geometry of the Compass <https://geometor.github.io/mascheroni/geometria_del_compasso/>`_ — *La Geometria del Compasso*, demonstrating that all Euclidean planar straightedge-and-compass constructions can be executed with compass alone (Pavia, 1797).
 
 Repository Contents
 -------------------
