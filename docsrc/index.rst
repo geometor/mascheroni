@@ -8,8 +8,7 @@ Lorenzo Mascheroni
 
 The works of :person:`Lorenzo Mascheroni <mascheroni>` (1750–1800) proved that every Euclidean construction can be executed with the compass alone, establishing the foundations of compass-only geometry in his 1797 masterpiece *La Geometria del Compasso*. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, these foundational texts are liberated from static print bounds into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and exact symbolic models speaking one shared geometric language.
 
-.. collection::
-   :type: book
+.. reference-directory::
    :sort: order
 
 .. toctree::
@@ -17,7 +16,7 @@ The works of :person:`Lorenzo Mascheroni <mascheroni>` (1750–1800) proved that
    :hidden:
 
    geometria_del_compasso/index
-   persons
+   people/index
    bibliography
    glossary
    about/index
