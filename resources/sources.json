@@ -1,0 +1,22 @@
+{
+  "repository": "geometor/mascheroni",
+  "rights_category": "public-domain",
+  "sources": [
+    {
+      "id": "mascheroni-1797-compasso",
+      "title": "La Geometria del Compasso (Pavia, 1797)",
+      "author": "Lorenzo Mascheroni",
+      "year": "1797",
+      "era": "Google Books",
+      "languages": [
+        "Italian"
+      ],
+      "site_url": "https://books.google.com/books?q=La+Geometria+del+Compasso+Mascheroni+1797",
+      "local_path": "resources/pdfs/mascheroni_1797_geometria_del_compasso.pdf",
+      "pages": 181,
+      "publisher": "Eredi di Pietro Galeazzi, Pavia",
+      "rights": "Public Domain (1797)",
+      "excerpt": "1797 Pavia editio princeps, 181 pp., Google Books PDF."
+    }
+  ]
+}
