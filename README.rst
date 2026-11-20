@@ -1,13 +1,13 @@
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • mascheroni Medallion
+   :target: https://geometor.github.io/mascheroni/
+   :width: 150px
+   :align: right
+
 GEOMETOR • mascheroni
 =====================
 
 **Visit the Online Archive:** https://geometor.github.io/mascheroni/
-
-.. image:: docsrc/_static/logo.png
-   :alt: GEOMETOR • mascheroni Medallion
-   :target: https://geometor.github.io/mascheroni/
-   :width: 180px
-   :align: center
 
 .. image:: docsrc/_static/figures/fig_mascheroni_inversion.svg
    :alt: GEOMETOR • mascheroni featured geometric construction
