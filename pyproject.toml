@@ -5,7 +5,7 @@ authors = [
   { name = "phiarchitect", email = "github@geometor.com" },
 ]
 description = "the Italian geometer whose 1797 La Geometria del Compasso proved that every Euclidean construction can be executed with the compass alone"
-readme = "README.rst"
+readme = "README.md"
 requires-python = ">=3.13"
 license = { file = "LICENSE" }
 classifiers = [
