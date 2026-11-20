@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 440" width="560" height="440" class="euclid-graphic" data-graphic-id="0132.g1" data-folio="0132" data-graphic="g1">
+  <title>Mascheroni Book XI § 181 (Fig. 91): Right Triangle in Geometric Progression (Kepler Triangle)</title>
+  <style>
+    :root {
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
+      }
+    }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-arc" d="M 368.41 74.79 A 160.69 160.69 0 0 0 254.79 188.41" data-ref="( E N )" />
+    <path class="geom-seg" d="M 150.0 230.0 L 280.0 230.0 L 410.0 230.0" data-ref="/ B E /" />
+    <path class="geom-seg-gold" d="M 199.66 230.0 L 280.0 230.0 L 360.34 230.0" data-ref="/ beta b /" marker-mid="url(#geom-tick-1)" />
+  </g>
+  <g id="graphics">
+    <circle class="geom-arc-solid" cx="280.0" cy="230.0" r="130.0" data-ref="( A B )" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path class="geom-seg-hl" d="M 150.0 230.0 L 230.34 166.84 L 310.69 103.67" data-ref="/ B N /" />
+    <path class="geom-seg-gold" d="M 310.69 103.67 L 360.35 166.84 L 410.0 230.0" data-ref="/ N E /" />
+  </g>
+  <g id="points">
+    <circle class="geom-point" cx="280.0" cy="230.0" r="3.8" data-ref="A" />
+    <circle class="geom-point" cx="150.0" cy="230.0" r="3.8" data-ref="B" />
+    <circle class="geom-point" cx="410.0" cy="230.0" r="3.8" data-ref="E" />
+    <circle class="geom-point" cx="215.0" cy="117.42" r="3.8" data-ref="C" />
+    <circle class="geom-point" cx="345.0" cy="117.42" r="3.8" data-ref="D" />
+    <circle class="geom-point" cx="199.66" cy="230.0" r="3.8" data-ref="beta" />
+    <circle class="geom-point" cx="360.34" cy="230.0" r="3.8" data-ref="b" />
+    <circle class="geom-point-hl" cx="310.69" cy="103.67" r="4.6" data-ref="N" />
+  </g>
+  <g id="labels">
+    <text class="geom-label" x="276.0" y="250.0" data-ref="A">A</text>
+    <text class="geom-label" x="128.0" y="236.0" data-ref="B">B</text>
+    <text class="geom-label" x="420.0" y="236.0" data-ref="E">E</text>
+    <text class="geom-label" x="197.0" y="107.4" data-ref="C">C</text>
+    <text class="geom-label" x="355.0" y="107.4" data-ref="D">D</text>
+    <text class="geom-label" x="191.7" y="218.0" data-ref="beta">β</text>
+    <text class="geom-label" x="356.3" y="218.0" data-ref="b">b</text>
+    <text class="geom-label-hl" x="314.7" y="89.7" data-ref="N">N</text>
+    <text class="geom-caption" x="16" y="424">Book XI, § 181 (Fig. 91): EN = bβ = √5−1, BN = √(2(√5−1)), BE = 2 ⇒ BE : BN :: BN : NE = √φ</text>
+  </g>
+</svg>

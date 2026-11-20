@@ -97,71 +97,149 @@
               <article class="excerpt">
         <div class="content">
           <figure class="excerpt-svg">
-            <a href="../geometria_del_compasso/index.html" aria-label="Mascheroni segment bisection without straightedge (Libro III, § 66, Sol. V)">
-              <svg class="euclid-graphic euclid-thumbnail" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 360" width="650" height="360" data-graphic-id="fig_mascheroni_midpoint" data-proposition="Libro-III-66" data-svg-scope="s-35d0afab">
+            <a href="../geometria_del_compasso/title-it.html" aria-label="Bisezione d'una distanza al solo compasso (Libro III, § 66, Sol. V)">
+              <svg class="euclid-graphic euclid-thumbnail" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420" data-graphic-id="mascheroni.midpoint" data-folio="0058" data-graphic="g1" data-svg-scope="s-35d0afab">
   <style>
-    svg[data-svg-scope="s-35d0afab"] { font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif; font-style: normal; font-weight: 700 }
-    svg[data-svg-scope="s-35d0afab"] .geom-line { stroke: var(--geom-fg); stroke-width: 1.8; stroke-linecap: round; fill: none }
-    svg[data-svg-scope="s-35d0afab"] .geom-bold { stroke: var(--geom-fg); stroke-width: 2.3; stroke-linecap: round; fill: none }
-    svg[data-svg-scope="s-35d0afab"] .geom-dashed { stroke: var(--geom-fg); stroke-width: 1.35; stroke-dasharray: 5, 3.5; stroke-linecap: round; fill: none; opacity: 0.78 }
-    svg[data-svg-scope="s-35d0afab"] .geom-accent-line { stroke: var(--geom-accent); stroke-width: 2.15; stroke-linecap: round; fill: none }
-    svg[data-svg-scope="s-35d0afab"] .geom-assert-line { stroke: var(--geom-assert); stroke-width: 2.25; stroke-linecap: round; fill: none }
-    svg[data-svg-scope="s-35d0afab"] .geom-circle { stroke: var(--geom-fg); stroke-width: 1.55; fill: none }
-    svg[data-svg-scope="s-35d0afab"] .geom-arc { stroke: var(--geom-accent); stroke-width: 1.75; stroke-dasharray: 4.5, 3; stroke-linecap: round; fill: none }
-    svg[data-svg-scope="s-35d0afab"] .geom-ang-arc { stroke: var(--geom-assert); stroke-width: 1.7; stroke-linecap: round; fill: none }
-    svg[data-svg-scope="s-35d0afab"] .geom-polygon { fill: var(--geom-poly-fill); fill-opacity: 0.05; stroke: none }
-    svg[data-svg-scope="s-35d0afab"] .geom-point { fill: var(--geom-fg); stroke: var(--geom-point-stroke); stroke-width: 1.15 }
-    svg[data-svg-scope="s-35d0afab"] .geom-point-accent { fill: var(--geom-accent); stroke: var(--geom-point-stroke); stroke-width: 1.15 }
-    svg[data-svg-scope="s-35d0afab"] .geom-point-assert { fill: var(--geom-assert); stroke: var(--geom-point-stroke); stroke-width: 1.25 }
-    svg[data-svg-scope="s-35d0afab"] .geom-label { font-size: 13px; font-weight: 700; fill: var(--geom-fg); user-select: none }
-    svg[data-svg-scope="s-35d0afab"] .geom-label-sm { font-size: 10.5px; font-weight: 700; fill: var(--geom-fg); opacity: 0.88; user-select: none }
+    svg[data-svg-scope="s-35d0afab"] { --geom-muted: #6c7788; --geom-gold: #b07d1a; --geom-point-fill: #ffffff }
+    body:not(.light-mode):not([data-theme="light"]) svg[data-svg-scope="s-35d0afab"] { --geom-muted: #8b949e; --geom-gold: #f0b849; --geom-point-fill: #0d1117 }
+    svg[data-svg-scope="s-35d0afab"] .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72 }
+    svg[data-svg-scope="s-35d0afab"] .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2 }
+    svg[data-svg-scope="s-35d0afab"] .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2 }
+    svg[data-svg-scope="s-35d0afab"] .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4 }
+    svg[data-svg-scope="s-35d0afab"] .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round }
+    svg[data-svg-scope="s-35d0afab"] .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round }
+    svg[data-svg-scope="s-35d0afab"] .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round }
+    svg[data-svg-scope="s-35d0afab"] .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round }
+    svg[data-svg-scope="s-35d0afab"] .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2 }
+    svg[data-svg-scope="s-35d0afab"] .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8 }
+    svg[data-svg-scope="s-35d0afab"] .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none }
+    svg[data-svg-scope="s-35d0afab"] .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none }
+    svg[data-svg-scope="s-35d0afab"] .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted) }
   </style>
+  <title>Mascheroni Book III § 66 (Sol. V): Midpoint Bisection Without Straightedge</title>
   <defs>
-    <marker viewBox="-2 -6 4 12" markerWidth="4" markerHeight="12" orient="auto">
-      <line x1="0" y1="-4.5" x2="0" y2="4.5" stroke="var(--geom-fg)" stroke-width="1.4" />
+    <marker viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
     </marker>
   </defs>
   <g>
-    <!-- Circle A(AB): center A(300, 180), r=120 -->
-    <circle cx="300.00" cy="180.00" r="120.00" fill="none" class="geom-circle" />
-    <!-- Circle E(EB): center E(180, 180), r=240 -->
-    <path d="M 390.00 27.22 A 240.00 240.00 0 0 1 390.00 332.78" fill="none" class="geom-accent-line" />
-    <!-- Circle B(BA): center B(420, 180), r=120 -->
-    <circle cx="420.00" cy="180.00" r="120.00" fill="none" class="geom-dashed" />
-    <!-- Arc P(PB): center P(390, 63.63), r=120, meeting M(360, 180) -->
-    <path d="M 345.00 170.00 A 120.00 120.00 0 0 0 435.00 190.00" fill="none" class="geom-assert-line" />
-    <!-- Arc p(pB): center p(390, 296.37), r=120, meeting M(360, 180) -->
-    <path d="M 345.00 190.00 A 120.00 120.00 0 0 1 435.00 170.00" fill="none" class="geom-assert-line" />
+    <circle class="geom-arc" cx="300.0" cy="210.0" r="105.0" />
+    <path class="geom-arc" d="M 343.49 358.49 A 210.0 210.0 0 0 0 343.49 61.51" />
+    <path class="geom-arc-hl" d="M 304.5 182.58 A 105.0 105.0 0 0 0 438.98 194.35" />
+    <path class="geom-arc-hl" d="M 438.98 225.65 A 105.0 105.0 0 0 0 304.5 237.42" />
+    <path class="geom-seg-guide" d="M 195.0 210.0 L 247.5 210.0 L 300.0 210.0" />
+    <path class="geom-seg-guide" d="M 378.75 108.33 L 378.75 210.0 L 378.75 311.67" />
   </g>
   <g>
-    <!-- Virtual baseline (un-drawn straight line shown dashed) -->
-    <path d="M 160.00 180.00 L 300.00 180.00 L 440.00 180.00" fill="none" class="geom-dashed" marker-mid="url(#geom-tick-1)" />
-    <!-- Doubling chords on A(AB) -->
-    <line x1="420.00" y1="180.00" x2="360.00" y2="76.08" class="geom-line" />
-    <line x1="360.00" y1="76.08" x2="240.00" y2="76.08" class="geom-line" />
-    <line x1="240.00" y1="76.08" x2="180.00" y2="180.00" class="geom-line" />
+    <circle class="geom-arc-solid" cx="405.0" cy="210.0" r="105.0" />
+    <path class="geom-seg" d="M 300.0 210.0 L 326.25 210.0 L 352.5 210.0" marker-mid="url(#geom-tick-1)" />
   </g>
   <g>
-    <circle cx="300.00" cy="180.00" r="3.60" class="geom-point" />
-    <circle cx="420.00" cy="180.00" r="3.60" class="geom-point" />
-    <circle cx="180.00" cy="180.00" r="3.60" class="geom-point-accent" />
-    <circle cx="360.00" cy="76.08" r="3.20" class="geom-point" />
-    <circle cx="240.00" cy="76.08" r="3.20" class="geom-point" />
-    <circle cx="390.00" cy="63.63" r="3.50" class="geom-point-accent" />
-    <circle cx="390.00" cy="296.37" r="3.50" class="geom-point-accent" />
-    <circle cx="360.00" cy="180.00" r="4.20" class="geom-point-assert" />
+    <circle class="geom-point" cx="195.0" cy="210.0" r="3.8" />
+    <circle class="geom-point" cx="300.0" cy="210.0" r="3.8" />
+    <circle class="geom-point" cx="405.0" cy="210.0" r="3.8" />
+    <circle class="geom-point" cx="378.75" cy="108.33" r="3.8" />
+    <circle class="geom-point" cx="378.75" cy="311.67" r="3.8" />
+    <circle class="geom-point-hl" cx="352.5" cy="210.0" r="4.6" />
   </g>
   <g>
-    <text x="300.00" y="202.00" text-anchor="middle" class="geom-label">A</text>
-    <text x="432.00" y="202.00" text-anchor="middle" class="geom-label">B</text>
-    <text x="168.00" y="202.00" text-anchor="middle" class="geom-label">E</text>
-    <text x="368.00" y="68.00" text-anchor="middle" class="geom-label">C</text>
-    <text x="232.00" y="68.00" text-anchor="middle" class="geom-label">D</text>
-    <text x="406.00" y="60.00" text-anchor="middle" class="geom-label">P</text>
-    <text x="406.00" y="310.00" text-anchor="middle" class="geom-label">p</text>
-    <text x="360.00" y="165.00" text-anchor="middle" class="geom-label" fill="var(--geom-assert)">M (Midpoint)</text>
-    <text x="325.00" y="25.00" text-anchor="middle" class="geom-label-sm">Mascheroni (1797) Libro III, § 66 (Sol. V) — Midpoint Bisection Without Straightedge</text>
-    <text x="325.00" y="348.00" text-anchor="middle" class="geom-label-sm">Collinear Doubling to E + Circle E(EB) ∩ B(BA) at P, p → Arcs P(PB) ∩ p(PB) at M</text>
+    <text class="geom-label" x="173.0" y="216.0">E</text>
+    <text class="geom-label" x="282.0" y="228.0">A</text>
+    <text class="geom-label" x="417.0" y="216.0">B</text>
+    <text class="geom-label" x="386.8" y="98.3">P</text>
+    <text class="geom-label" x="386.8" y="329.7">p</text>
+    <text class="geom-label-hl" x="348.5" y="234.0">M</text>
+    <text class="geom-caption" x="16" y="404">Book III, § 66 (Sol. V): E(EB) ∩ B(BA) = {P, p}; P(BA) ∩ p(BA) = {B, M} (10C₁ + 7C₃, S = 17)</text>
+  </g>
+</svg>
+            </a>
+          </figure>
+          <section>
+            <h2><a href="../geometria_del_compasso/title-it.html">La Geometria del Compasso</a></h2>
+              <p>Questa edizione digitale dello Scriptorium GEOMETOR raccoglie integralmente tutti i <strong>dodici Libri</strong> (§§ 1–280) e l’<strong>Indice</strong> originale del testimone centenario di Palermo (1901), ripartiti in <strong>55 unità atomiche sincronizzate</strong> su quattro tracce (<em>English · Italian · Summary · Notes</em>), con 85 tavole archivistiche ad alta risoluzione (300 DPI) e 16 diagrammi vettoriali calibrati interattivi.</p>
+            <nav class="excerpt-tracks" aria-label="Tracks">
+              <a class="excerpt-track-link" href="../geometria_del_compasso/index.html">English</a>
+              <span class="excerpt-track-sep">&middot;</span>
+              <a class="excerpt-track-link" href="../geometria_del_compasso/title-it.html">Italian</a>
+            </nav>
+          </section>
+        </div>
+        <footer>
+
+        <div class="meta">
+          <span class="author">Lorenzo Mascheroni</span>
+        </div>
+        </footer>
+      </article>
+        
+              <article class="excerpt">
+        <div class="content">
+          <figure class="excerpt-svg">
+            <a href="../geometria_del_compasso/index.html" aria-label="Mascheroni segment bisection without straightedge (Book III, § 66, Sol. V)">
+              <svg class="euclid-graphic euclid-thumbnail" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420" data-graphic-id="mascheroni.midpoint" data-folio="0058" data-graphic="g1" data-svg-scope="s-35d0afab">
+  <style>
+    svg[data-svg-scope="s-35d0afab"] { --geom-muted: #6c7788; --geom-gold: #b07d1a; --geom-point-fill: #ffffff }
+    body:not(.light-mode):not([data-theme="light"]) svg[data-svg-scope="s-35d0afab"] { --geom-muted: #8b949e; --geom-gold: #f0b849; --geom-point-fill: #0d1117 }
+    svg[data-svg-scope="s-35d0afab"] .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72 }
+    svg[data-svg-scope="s-35d0afab"] .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2 }
+    svg[data-svg-scope="s-35d0afab"] .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2 }
+    svg[data-svg-scope="s-35d0afab"] .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4 }
+    svg[data-svg-scope="s-35d0afab"] .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round }
+    svg[data-svg-scope="s-35d0afab"] .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round }
+    svg[data-svg-scope="s-35d0afab"] .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round }
+    svg[data-svg-scope="s-35d0afab"] .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round }
+    svg[data-svg-scope="s-35d0afab"] .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2 }
+    svg[data-svg-scope="s-35d0afab"] .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8 }
+    svg[data-svg-scope="s-35d0afab"] .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none }
+    svg[data-svg-scope="s-35d0afab"] .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none }
+    svg[data-svg-scope="s-35d0afab"] .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted) }
+  </style>
+  <title>Mascheroni Book III § 66 (Sol. V): Midpoint Bisection Without Straightedge</title>
+  <defs>
+    <marker viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g>
+    <circle class="geom-arc" cx="300.0" cy="210.0" r="105.0" />
+    <path class="geom-arc" d="M 343.49 358.49 A 210.0 210.0 0 0 0 343.49 61.51" />
+    <path class="geom-arc-hl" d="M 304.5 182.58 A 105.0 105.0 0 0 0 438.98 194.35" />
+    <path class="geom-arc-hl" d="M 438.98 225.65 A 105.0 105.0 0 0 0 304.5 237.42" />
+    <path class="geom-seg-guide" d="M 195.0 210.0 L 247.5 210.0 L 300.0 210.0" />
+    <path class="geom-seg-guide" d="M 378.75 108.33 L 378.75 210.0 L 378.75 311.67" />
+  </g>
+  <g>
+    <circle class="geom-arc-solid" cx="405.0" cy="210.0" r="105.0" />
+    <path class="geom-seg" d="M 300.0 210.0 L 326.25 210.0 L 352.5 210.0" marker-mid="url(#geom-tick-1)" />
+  </g>
+  <g>
+    <circle class="geom-point" cx="195.0" cy="210.0" r="3.8" />
+    <circle class="geom-point" cx="300.0" cy="210.0" r="3.8" />
+    <circle class="geom-point" cx="405.0" cy="210.0" r="3.8" />
+    <circle class="geom-point" cx="378.75" cy="108.33" r="3.8" />
+    <circle class="geom-point" cx="378.75" cy="311.67" r="3.8" />
+    <circle class="geom-point-hl" cx="352.5" cy="210.0" r="4.6" />
+  </g>
+  <g>
+    <text class="geom-label" x="173.0" y="216.0">E</text>
+    <text class="geom-label" x="282.0" y="228.0">A</text>
+    <text class="geom-label" x="417.0" y="216.0">B</text>
+    <text class="geom-label" x="386.8" y="98.3">P</text>
+    <text class="geom-label" x="386.8" y="329.7">p</text>
+    <text class="geom-label-hl" x="348.5" y="234.0">M</text>
+    <text class="geom-caption" x="16" y="404">Book III, § 66 (Sol. V): E(EB) ∩ B(BA) = {P, p}; P(BA) ∩ p(BA) = {B, M} (10C₁ + 7C₃, S = 17)</text>
   </g>
 </svg>
             </a>
@@ -170,7 +248,7 @@
             <h2><a href="../geometria_del_compasso/index.html">The Geometry of the Compass</a></h2>
               <blockquote class="epigraph">
               <div><p>« Se le sue dimostrazioni, con il continuo richiamo alle proposizioni di Euclide, del resto unico testo allora di Geometria elementare, riescano qualche volta pesanti e potrebbero essere oggidì semplificate, le sue costruzioni sono sempre elegantissime e spesso più semplici di quelle che ordinariamente si fanno adoperando e riga e compasso : di ciò il lettore può facilmente persuadersi adoperando p. es. il metodo della Geometrografia del <span class="person-ref">Lemoine</span> per determinare la semplicità e l’esattezza di una costruzione geometrica. »</p>
-              <p class="attribution">—<span class="person-ref">Gaetano Fazzari</span>, <em>Prefazione storica</em> (<span class="citation-ref">fazzari-1901</span>, p. xi)</p>
+              <p class="attribution">—<span class="person-ref">Gaetano Fazzari</span>, <em>Prefazione storica</em> (<span class="citation-ref">fazzari-1901</span>, p. XI)</p>
               </div></blockquote>
             <nav class="excerpt-tracks" aria-label="Tracks">
               <a class="excerpt-track-link" href="../geometria_del_compasso/index.html">English</a>
@@ -237,13 +315,9 @@
       <h3>Types</h3>
       <ul>
         <li><a href="#" class="is-active" aria-current="page" aria-selected="true">book</a></li>
-        <li><a href="book_title.html">book_title</a></li>
         <li><a href="log.html">log</a></li>
         <li><a href="person.html">person</a></li>
-        <li><a href="problem.html">problem</a></li>
-        <li><a href="section.html">section</a></li>
         <li><a href="source_record.html">source_record</a></li>
-        <li><a href="translation.html">translation</a></li>
       </ul>
     </aside>
   </div>

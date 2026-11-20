@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 340" width="620" height="340" class="euclid-graphic" data-graphic-id="0111.g1" data-folio="0111" data-graphic="g1">
+  <title>Mascheroni (1797) vs. Steiner (1833): Minimal-Instrument Duality</title>
+  <style>
+    :root {
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
+      }
+    }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-seg-guide" d="M 118.75 170.0 L 161.25 170.0 L 203.75 170.0" data-ref="/ A B /" />
+    <path class="geom-seg-guide" d="M 373.75 170.0 L 458.75 170.0 L 543.75 170.0" data-ref="/ D1 D2 /" />
+  </g>
+  <g id="graphics">
+    <circle class="geom-arc-solid" cx="118.75" cy="170.0" r="85.0" data-ref="( A B )" />
+    <circle class="geom-arc" cx="203.75" cy="170.0" r="85.0" data-ref="( B A )" />
+    <circle class="geom-arc-solid" cx="458.75" cy="170.0" r="85.0" data-ref="( M R )" />
+    <path class="geom-seg" d="M 407.75 102.0 L 458.75 170.0 L 509.75 238.0" data-ref="/ U V /" />
+    <path class="geom-seg" d="M 509.75 102.0 L 458.75 170.0 L 407.75 238.0" data-ref="/ W Z /" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path class="geom-seg-hl" d="M 161.25 96.39 L 161.25 170.0 L 161.25 243.61" data-ref="/ P Q /" />
+    <path class="geom-seg-gold" d="M 407.75 102.0 L 458.75 102.0 L 509.75 102.0" data-ref="/ U W /" />
+    <path class="geom-seg-gold" d="M 407.75 238.0 L 458.75 238.0 L 509.75 238.0" data-ref="/ Z V /" />
+  </g>
+  <g id="points">
+    <circle class="geom-point" cx="118.75" cy="170.0" r="3.8" data-ref="A" />
+    <circle class="geom-point" cx="203.75" cy="170.0" r="3.8" data-ref="B" />
+    <circle class="geom-point-hl" cx="161.25" cy="96.39" r="4.6" data-ref="P" />
+    <circle class="geom-point-hl" cx="161.25" cy="243.61" r="4.6" data-ref="Q" />
+    <circle class="geom-point-hl" cx="458.75" cy="170.0" r="4.6" data-ref="M" />
+    <circle class="geom-point" cx="407.75" cy="102.0" r="3.8" data-ref="U" />
+    <circle class="geom-point" cx="509.75" cy="102.0" r="3.8" data-ref="W" />
+    <circle class="geom-point" cx="407.75" cy="238.0" r="3.8" data-ref="Z" />
+    <circle class="geom-point" cx="509.75" cy="238.0" r="3.8" data-ref="V" />
+  </g>
+  <g id="labels">
+    <text class="geom-label" x="98.8" y="176.0" data-ref="A">A</text>
+    <text class="geom-label" x="213.8" y="176.0" data-ref="B">B</text>
+    <text class="geom-label-hl" x="157.2" y="84.4" data-ref="P">P</text>
+    <text class="geom-label-hl" x="157.2" y="265.6" data-ref="Q">Q</text>
+    <text class="geom-label-hl" x="466.8" y="186.0" data-ref="M">M</text>
+    <text class="geom-label" x="389.8" y="94.0" data-ref="U">U</text>
+    <text class="geom-label" x="519.8" y="94.0" data-ref="W">W</text>
+    <text class="geom-label" x="389.8" y="256.0" data-ref="Z">Z</text>
+    <text class="geom-label" x="519.8" y="256.0" data-ref="V">V</text>
+    <text class="geom-caption" x="36" y="322">Mascheroni (1797): Compass only (C₁, C₂, C₃)  ⇄  Steiner (1833): Straightedge + 1 fixed circle (M, R)</text>
+  </g>
+</svg>

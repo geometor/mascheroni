@@ -47,7 +47,7 @@ Glossary
       Given three segments :math:`a, b, c`, draw concentric circles :math:`O(a)` and :math:`O(b)`, place chord :math:`BC = c` in :math:`O(a)`, and step equal arcs :math:`BD = CE` onto :math:`O(b)`; chord :math:`DE = bc/a` in just 4 circles (:math:`S = 14`), celebrated by :person:`Gaetano Fazzari <fazzari>` (1901) as simpler than Euclidean straightedge constructions.
 
    Problema di Napoleone (Libro X, § 143)
-      Finding the center of a given circle using only the compass. Mascheroni solves this in § 143 by sweeping an arbitrary arc from a point on the circle, finding its antipodal intersections, and inverting through the center.
+      Finding the center of a given circle using only the compass. In § 143 (Fig. 71), Mascheroni marks a semicircle BCDE centered on a boundary point A cutting the given circle at M, constructs the third proportional BQ to EM and EA via arcs E(EM) ∩ A(EM) = L and L(LA) ∩ BCDE = Q, and intersects B(BQ) ∩ A(BQ) at center O (later reformulated via circular inversion by August Adler in 1890).
 
    Géométrographie Steinerienne
       The exact dual regime to Mascheroni: evaluation of constructions executed by straightedge alone (:math:`m_1 = m_2 = m_3 = 0`; symbol :math:`l_1 R_1 + l_2 R_2`) given a single permanently drawn circle with known center :math:`M`, following :person:`Jakob Steiner <steiner>` (1833).

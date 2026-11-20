@@ -20,7 +20,7 @@ Primary Archival Editions & Witnesses
 
 * **Author:** :person:`Lorenzo Mascheroni <mascheroni>`
 * **Title:** *La Geometria del Compasso*
-* **Locus:** Libri I–XII, §§ 1–213, pp. 1–152, 18 plates (Figs. 1–108)
+* **Locus:** Libri I–XII, §§ 1–280, pp. 1–151, 14 folding plates (1797) / 108 inline figures (1901)
 * **Year:** 1797 (Anno V della Repubblica Francese)
 * **Publisher:** Presso gli Eredi di Pietro Galeazzi, Pavia
 * **Archival Witness:** 300-DPI archival scan in ``resources/geometria_del_compasso/pdfs/mascheroni_1797_geometria_del_compasso.pdf`` and visual transcription in ``resources/geometria_del_compasso/sources/mascheroni_1797_compasso_it.txt``.

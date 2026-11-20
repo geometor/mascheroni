@@ -1,77 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 300" width="650" height="300" class="euclid-graphic" data-graphic-id="fig_mascheroni_parallel" data-proposition="Libro-IV-80">
-  <defs>
-    <marker id="geom-tick-2" viewBox="-4 -6 8 12" markerWidth="8" markerHeight="12" orient="auto">
-      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" stroke="var(--geom-fg)" stroke-width="1.4" />
-      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" stroke="var(--geom-fg)" stroke-width="1.4" />
-    </marker>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 340" width="540" height="340" class="euclid-graphic" data-graphic-id="mascheroni.parallel" data-folio="0068" data-graphic="g3">
+  <title>Mascheroni Book IV § 80 (Fig. 29): Parallel Through External Point</title>
   <style>
     :root {
-      --geom-fg: #18181b;
-      --geom-bg: #ffffff;
-      --geom-point-stroke: #ffffff;
-      --geom-poly-fill: #000000;
-      --geom-accent: #c88a1e;
-      --geom-assert: #16a34a;
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
     }
-    .euclid-graphic {
-      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
-      font-style: normal;
-      font-weight: 700;
-      background-color: var(--geom-bg);
-    }
-    .geom-line { stroke: var(--geom-fg); stroke-width: 1.8; stroke-linecap: round; fill: none; }
-    .geom-bold { stroke: var(--geom-fg); stroke-width: 2.3; stroke-linecap: round; fill: none; }
-    .geom-dashed { stroke: var(--geom-fg); stroke-width: 1.35; stroke-dasharray: 5, 3.5; stroke-linecap: round; fill: none; opacity: 0.78; }
-    .geom-accent-line { stroke: var(--geom-accent); stroke-width: 2.15; stroke-linecap: round; fill: none; }
-    .geom-assert-line { stroke: var(--geom-assert); stroke-width: 2.25; stroke-linecap: round; fill: none; }
-    .geom-circle { stroke: var(--geom-fg); stroke-width: 1.55; fill: none; }
-    .geom-arc { stroke: var(--geom-accent); stroke-width: 1.75; stroke-dasharray: 4.5, 3; stroke-linecap: round; fill: none; }
-    .geom-point { fill: var(--geom-fg); stroke: var(--geom-point-stroke); stroke-width: 1.15; }
-    .geom-point-accent { fill: var(--geom-accent); stroke: var(--geom-point-stroke); stroke-width: 1.15; }
-    .geom-point-assert { fill: var(--geom-assert); stroke: var(--geom-point-stroke); stroke-width: 1.25; }
-    .geom-label { font-size: 13px; font-weight: 700; fill: var(--geom-fg); user-select: none; }
-    .geom-label-sm { font-size: 10.5px; font-weight: 700; fill: var(--geom-fg); opacity: 0.88; user-select: none; }
     @media (prefers-color-scheme: dark) {
       :root {
-        --geom-fg: #d6cfc5;
-        --geom-bg: #1e1e20;
-        --geom-point-stroke: #1e1e20;
-        --geom-poly-fill: #d6cfc5;
-        --geom-accent: #e8b85a;
-        --geom-assert: #5ec27e;
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
       }
     }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
   </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
   <g id="elements">
-    <!-- Arc B(AC): center B(400, 210), radius AC=224.7 -->
-    <path d="M 430.00 65.00 A 224.72 224.72 0 0 0 490.00 120.00" fill="none" class="geom-accent-line" data-ref="B(AC)" />
-    <!-- Arc C(AB): center C(230, 90), radius AB=240 -->
-    <path d="M 460.00 70.00 A 240.00 240.00 0 0 1 480.00 130.00" fill="none" class="geom-assert-line" data-ref="C(AB)" />
+    <path class="geom-arc" d="M 476.74 181.09 A 139.4 139.4 0 0 0 314.32 105.35" data-ref="( B C )" />
+    <path class="geom-arc" d="M 383.38 220.47 A 180.4 180.4 0 0 0 383.38 13.53" data-ref="( C D )" />
+    <path class="geom-seg-guide" d="M 170.0 240.0 L 202.8 178.5 L 235.6 117.0" data-ref="/ A C /" marker-mid="url(#geom-tick-2)" />
+    <path class="geom-seg-guide" d="M 350.4 240.0 L 383.2 178.5 L 416.0 117.0" data-ref="/ B D /" marker-mid="url(#geom-tick-2)" />
   </g>
   <g id="graphics">
-    <!-- Base virtual line AB -->
-    <path d="M 120.00 210.00 L 160.00 210.00 L 400.00 210.00 L 440.00 210.00" fill="none" class="geom-dashed" />
-    <!-- Constructed parallel virtual line CD -->
-    <path d="M 190.00 90.00 L 230.00 90.00 L 470.00 90.00 L 510.00 90.00" fill="none" class="geom-assert-line" marker-mid="url(#geom-tick-2)" />
-    <!-- Parallelogram sides -->
-    <line x1="160.00" y1="210.00" x2="230.00" y2="90.00" class="geom-dashed" />
-    <line x1="400.00" y1="210.00" x2="470.00" y2="90.00" class="geom-dashed" />
+    <path class="geom-seg" d="M 170.0 240.0 L 260.2 240.0 L 350.4 240.0" data-ref="/ A B /" marker-mid="url(#geom-tick-1)" />
   </g>
   <g id="highlights" style="pointer-events: none;">
+    <path class="geom-seg-hl" d="M 235.6 117.0 L 325.8 117.0 L 416.0 117.0" data-ref="/ C D /" marker-mid="url(#geom-tick-1)" />
   </g>
   <g id="points">
-    <circle cx="160.00" cy="210.00" r="3.60" class="geom-point" data-ref="A" />
-    <circle cx="400.00" cy="210.00" r="3.60" class="geom-point" data-ref="B" />
-    <circle cx="230.00" cy="90.00" r="3.60" class="geom-point-accent" data-ref="C" />
-    <circle cx="470.00" cy="90.00" r="4.20" class="geom-point-assert" data-ref="D" />
+    <circle class="geom-point" cx="170.0" cy="240.0" r="3.8" data-ref="A" />
+    <circle class="geom-point" cx="350.4" cy="240.0" r="3.8" data-ref="B" />
+    <circle class="geom-point" cx="235.6" cy="117.0" r="3.8" data-ref="C" />
+    <circle class="geom-point-hl" cx="416.0" cy="117.0" r="4.6" data-ref="D" />
   </g>
   <g id="labels">
-    <text x="148.00" y="228.00" text-anchor="middle" class="geom-label">A</text>
-    <text x="412.00" y="228.00" text-anchor="middle" class="geom-label">B</text>
-    <text x="218.00" y="80.00" text-anchor="middle" class="geom-label">C</text>
-    <text x="485.00" y="80.00" text-anchor="middle" class="geom-label" fill="var(--geom-assert)">D</text>
-    <text x="325.00" y="30.00" text-anchor="middle" class="geom-label-sm">Mascheroni (1797) Libro IV, § 80 — Parallel Line by Compass Alone (2 Circles)</text>
-    <text x="325.00" y="280.00" text-anchor="middle" class="geom-label-sm">Given A, B and external C: Sweep B(AC) ∩ C(AB) → D; then (C, D) ∥ (A, B) in 5C₁ + 2C₃ (S = 7, E = 5)</text>
+    <text class="geom-label" x="150.0" y="256.0" data-ref="A">A</text>
+    <text class="geom-label" x="360.4" y="256.0" data-ref="B">B</text>
+    <text class="geom-label" x="215.6" y="109.0" data-ref="C">C</text>
+    <text class="geom-label-hl" x="426.0" y="109.0" data-ref="D">D</text>
+    <text class="geom-caption" x="16" y="324">Book IV, § 80 (Fig. 29): B(AC) ∩ C(AB) = D ⇒ (C, D) ∥ (A, B) in 2 circles (6C₁ + 2C₃, S = 8)</text>
   </g>
 </svg>
