@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 340" width="540" height="340" class="euclid-graphic" data-graphic-id="0057.g1" data-folio="0057" data-graphic="g1">
+  <title>Mascheroni Book III § 64: Collinear Doubling by Compass Alone</title>
+  <style>
+    :root {
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
+      }
+    }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-arc" d="M 251.01 129.77 A 105.0 105.0 0 0 0 174.15 85.4" data-ref="( B C )" />
+    <path class="geom-arc" d="M 312.66 143.44 A 105.0 105.0 0 0 0 312.66 54.69" data-ref="( C D )" />
+    <path class="geom-arc" d="M 331.65 203.67 A 105.0 105.0 0 0 0 408.51 159.29" data-ref="( D E )" />
+    <path class="geom-seg-guide" d="M 165.0 190.0 L 191.25 144.53 L 217.5 99.07" data-ref="/ B C /" marker-mid="url(#geom-tick-1)" />
+    <path class="geom-seg-guide" d="M 217.5 99.07 L 270.0 99.07 L 322.5 99.07" data-ref="/ C D /" marker-mid="url(#geom-tick-1)" />
+    <path class="geom-seg-guide" d="M 322.5 99.07 L 348.75 144.53 L 375.0 190.0" data-ref="/ D E /" marker-mid="url(#geom-tick-1)" />
+  </g>
+  <g id="graphics">
+    <circle class="geom-arc-solid" cx="270.0" cy="190.0" r="105.0" data-ref="( A B )" />
+    <path class="geom-seg" d="M 165.0 190.0 L 217.5 190.0 L 270.0 190.0" data-ref="/ B A /" marker-mid="url(#geom-tick-1)" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path class="geom-seg-hl" d="M 270.0 190.0 L 322.5 190.0 L 375.0 190.0" data-ref="/ A E /" marker-mid="url(#geom-tick-1)" />
+  </g>
+  <g id="points">
+    <circle class="geom-point" cx="165.0" cy="190.0" r="3.8" data-ref="B" />
+    <circle class="geom-point" cx="270.0" cy="190.0" r="3.8" data-ref="A" />
+    <circle class="geom-point" cx="217.5" cy="99.07" r="3.8" data-ref="C" />
+    <circle class="geom-point" cx="322.5" cy="99.07" r="3.8" data-ref="D" />
+    <circle class="geom-point-hl" cx="375.0" cy="190.0" r="4.6" data-ref="E" />
+  </g>
+  <g id="labels">
+    <text class="geom-label" x="143.0" y="196.0" data-ref="B">B</text>
+    <text class="geom-label" x="266.0" y="212.0" data-ref="A">A</text>
+    <text class="geom-label" x="199.5" y="89.1" data-ref="C">C</text>
+    <text class="geom-label" x="332.5" y="89.1" data-ref="D">D</text>
+    <text class="geom-label-hl" x="387.0" y="196.0" data-ref="E">E</text>
+    <text class="geom-caption" x="16" y="324">Book III, § 64: BC = CD = DE = AB → E collinear with B, A and BE = 2·AB (5C₁ + 4C₃, S = 9)</text>
+  </g>
+</svg>

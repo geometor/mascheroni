@@ -1,44 +1,867 @@
 {
   "edition": "geometria_del_compasso",
-  "title": "La Geometria del Compasso",
+  "title": "The Geometry of the Compass",
+  "title_original": "La Geometria del Compasso",
   "author": "Lorenzo Mascheroni",
   "year": 1797,
-  "tracks": ["it", "en", "summary", "notes"],
+  "witness": "Palermo 1901 Centenary Edition (ed. Gaetano Fazzari, 181 scans, §§ 1–280, 108 figures)",
+  "tracks": [
+    "index",
+    "it",
+    "summary",
+    "notes"
+  ],
+  "books_count": 14,
+  "leaves_count": 55,
   "sections": [
     {
-      "slug": "00-prefazione",
-      "title": "Prefazione e Dedica a Bonaparte",
-      "propositions": "Dedica & Prefazione Fazzari 1901"
+      "id": "00-preface",
+      "title": "Preface & Dedication to Bonaparte",
+      "title_it": "Prefazione e Dedica a Bonaparte",
+      "path": "geometria_del_compasso/00-preface/index",
+      "folio_start": "0013",
+      "folio_end": "0039",
+      "leaves": [
+        {
+          "id": "01-portrait-title",
+          "title": "Portrait & Centenary Title Page",
+          "title_it": "Ritratto e Frontespizio (Palermo, 1901)",
+          "path": "geometria_del_compasso/00-preface/01-portrait-title/index",
+          "folio_start": "0001",
+          "folio_end": "0015",
+          "plates": [
+            "0013.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "02-fazzari-biography",
+          "title": "Fazzari's Biographical Preface (pp. III–IX)",
+          "title_it": "Lorenzo Mascheroni e le sue opere matematiche (pp. III–IX)",
+          "path": "geometria_del_compasso/00-preface/02-fazzari-biography/index",
+          "folio_start": "0016",
+          "folio_end": "0022",
+          "plates": [],
+          "svgs": []
+        },
+        {
+          "id": "03-fazzari-critical-note",
+          "title": "Fazzari on Geometrography & Legacy (pp. X–XVI)",
+          "title_it": "Fazzari sulla Geometrografia e la fortuna dell'opera (pp. X–XVI)",
+          "path": "geometria_del_compasso/00-preface/03-fazzari-critical-note/index",
+          "folio_start": "0023",
+          "folio_end": "0029",
+          "plates": [],
+          "svgs": []
+        },
+        {
+          "id": "04-dedication-bonaparte",
+          "title": "Dedication to Bonaparte",
+          "title_it": "A Bonaparte l'Italico",
+          "path": "geometria_del_compasso/00-preface/04-dedication-bonaparte/index",
+          "folio_start": "0030",
+          "folio_end": "0031",
+          "plates": [],
+          "svgs": []
+        },
+        {
+          "id": "05-mascheroni-preface-i",
+          "title": "Mascheroni's Preface: Purpose & Precision",
+          "title_it": "Prefazione dell'Autore: Scopo e precisione del compasso (pp. 3–6)",
+          "path": "geometria_del_compasso/00-preface/05-mascheroni-preface-i/index",
+          "folio_start": "0032",
+          "folio_end": "0035",
+          "plates": [],
+          "svgs": []
+        },
+        {
+          "id": "06-mascheroni-preface-ii",
+          "title": "Mascheroni's Preface: Architecture of the Twelve Books",
+          "title_it": "Prefazione dell'Autore: Disegno dei dodici Libri (pp. 7–9)",
+          "path": "geometria_del_compasso/00-preface/06-mascheroni-preface-ii/index",
+          "folio_start": "0036",
+          "folio_end": "0039",
+          "plates": [],
+          "svgs": []
+        }
+      ]
     },
     {
-      "slug": "01-libro-1-preliminari",
-      "title": "Libro I: Preliminari",
-      "propositions": "§§ 1–11"
+      "id": "01-book-01",
+      "title": "Book I: Preliminaries",
+      "title_it": "Libro Primo: Preliminare (§§ 1–26)",
+      "path": "geometria_del_compasso/01-book-01/index",
+      "folio_start": "0040",
+      "folio_end": "0047",
+      "leaves": [
+        {
+          "id": "01-sec-01-definitions",
+          "title": "§§ 1–5: Principles & Fundamental Compass Operations",
+          "title_it": "§§ 1–5: Principî e operazioni fondamentali del compasso",
+          "path": "geometria_del_compasso/01-book-01/01-sec-01-definitions/index",
+          "folio_start": "0040",
+          "folio_end": "0041",
+          "plates": [
+            "0040.g1.png"
+          ],
+          "svgs": [
+            "0040.g1.svg"
+          ]
+        },
+        {
+          "id": "02-sec-06-notation",
+          "title": "§§ 6–14: Compass Notation & Symmetry Lemmas",
+          "title_it": "§§ 6–14: Notazioni del compasso e lemmi di simmetria",
+          "path": "geometria_del_compasso/01-book-01/02-sec-06-notation/index",
+          "folio_start": "0042",
+          "folio_end": "0044",
+          "plates": [
+            "0043.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "03-sec-15-metric-lemmas",
+          "title": "§§ 15–22: Isosceles & Chord Metric Identities",
+          "title_it": "§§ 15–22: Identità metriche dei triangoli isosceli e delle corde",
+          "path": "geometria_del_compasso/01-book-01/03-sec-15-metric-lemmas/index",
+          "folio_start": "0045",
+          "folio_end": "0046",
+          "plates": [
+            "0045.g1.png",
+            "0046.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "04-sec-23-parallelograms",
+          "title": "§§ 23–26: Parallelograms & Apollonius's Theorem",
+          "title_it": "§§ 23–26: Parallelogrammi e teorema della mediana (Apollonio)",
+          "path": "geometria_del_compasso/01-book-01/04-sec-23-parallelograms/index",
+          "folio_start": "0046",
+          "folio_end": "0047",
+          "plates": [
+            "0046.g2.png",
+            "0047.g1.png",
+            "0047.g2.png"
+          ],
+          "svgs": []
+        }
+      ]
     },
     {
-      "slug": "02-libro-3-distanze",
-      "title": "Libro III: Moltiplicazione e divisione delle distanze",
-      "propositions": "§§ 64–68"
+      "id": "02-book-02",
+      "title": "Book II: Division of the Circumference",
+      "title_it": "Libro Secondo: Della divisione della circonferenza e degli archi del cerchio (§§ 27–63)",
+      "path": "geometria_del_compasso/02-book-02/index",
+      "folio_start": "0048",
+      "folio_end": "0056",
+      "leaves": [
+        {
+          "id": "01-sec-27-quadrisection",
+          "title": "§§ 27–29: Quadrisection of the Circumference",
+          "title_it": "§§ 27–29: Divisione della circonferenza in quattro parti eguali",
+          "path": "geometria_del_compasso/02-book-02/01-sec-27-quadrisection/index",
+          "folio_start": "0048",
+          "folio_end": "0049",
+          "plates": [
+            "0048.g1.png"
+          ],
+          "svgs": [
+            "0048.g1.svg"
+          ]
+        },
+        {
+          "id": "02-sec-30-octants",
+          "title": "§§ 30–35: Division into 8, 12, and 24 Parts",
+          "title_it": "§§ 30–35: Divisione in 8, 12 e 24 parti eguali",
+          "path": "geometria_del_compasso/02-book-02/02-sec-30-octants/index",
+          "folio_start": "0049",
+          "folio_end": "0050",
+          "plates": [],
+          "svgs": []
+        },
+        {
+          "id": "03-sec-36-chords-48",
+          "title": "§§ 36–39: Chord Lemmas & 48-Part Division",
+          "title_it": "§§ 36–39: Lemmi sulle corde e divisione in 48 parti",
+          "path": "geometria_del_compasso/02-book-02/03-sec-36-chords-48/index",
+          "folio_start": "0051",
+          "folio_end": "0052",
+          "plates": [
+            "0051.g1.png",
+            "0051.g2.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "04-sec-40-pentagon",
+          "title": "§§ 40–44: Regular Pentagon, Decagon & 120-Part Circle",
+          "title_it": "§§ 40–44: Pentagono regolare, decagono e divisione in 120 parti",
+          "path": "geometria_del_compasso/02-book-02/04-sec-40-pentagon/index",
+          "folio_start": "0053",
+          "folio_end": "0054",
+          "plates": [
+            "0053.g1.png"
+          ],
+          "svgs": [
+            "0053.g1.svg"
+          ]
+        },
+        {
+          "id": "05-sec-45-golden-arc",
+          "title": "§§ 45–63: Golden Ratio Proof, 240-Part Circle & Arc Bisection",
+          "title_it": "§§ 45–63: Estrema e media ragione, divisione in 240 parti e bisezione d'arco",
+          "path": "geometria_del_compasso/02-book-02/05-sec-45-golden-arc/index",
+          "folio_start": "0055",
+          "folio_end": "0056",
+          "plates": [],
+          "svgs": []
+        }
+      ]
     },
     {
-      "slug": "03-libro-4-perpendicolari-parallele",
-      "title": "Libro IV: Perpendicolari e rette parallele",
-      "propositions": "§§ 76–80"
+      "id": "03-book-03",
+      "title": "Book III: Multiplication & Division of Straight Distances",
+      "title_it": "Libro Terzo: Della moltiplicazione e divisione delle distanze in linea retta (§§ 64–70)",
+      "path": "geometria_del_compasso/03-book-03/index",
+      "folio_start": "0057",
+      "folio_end": "0064",
+      "leaves": [
+        {
+          "id": "01-sec-64-doubling",
+          "title": "§§ 64–65: Collinear Doubling & Integer Multiples",
+          "title_it": "§§ 64–65: Raddoppiamento e moltiplicazione d'una distanza in linea retta",
+          "path": "geometria_del_compasso/03-book-03/01-sec-64-doubling/index",
+          "folio_start": "0057",
+          "folio_end": "0057",
+          "plates": [],
+          "svgs": [
+            "0057.g1.svg"
+          ]
+        },
+        {
+          "id": "02-sec-66-bisection",
+          "title": "§ 66: Segment Bisection Without Straightedge",
+          "title_it": "§ 66: Dividere per metà una distanza data (Soluzioni I–V)",
+          "path": "geometria_del_compasso/03-book-03/02-sec-66-bisection/index",
+          "folio_start": "0057",
+          "folio_end": "0059",
+          "plates": [
+            "0058.g1.png"
+          ],
+          "svgs": [
+            "0058.g1.svg"
+          ]
+        },
+        {
+          "id": "03-sec-67-binary",
+          "title": "§ 67: Repeated Binary Subdivision",
+          "title_it": "§ 67: Suddivisione binaria in 4, 8, 16 parti eguali",
+          "path": "geometria_del_compasso/03-book-03/03-sec-67-binary/index",
+          "folio_start": "0059",
+          "folio_end": "0060",
+          "plates": [
+            "0060.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "04-sec-68-trisection",
+          "title": "§ 68: Exact Distance Trisection",
+          "title_it": "§ 68: Dividere in tre parti eguali una distanza data (Fig. 20)",
+          "path": "geometria_del_compasso/03-book-03/04-sec-68-trisection/index",
+          "folio_start": "0061",
+          "folio_end": "0062",
+          "plates": [
+            "0061.g1.png"
+          ],
+          "svgs": [
+            "0061.g1.svg"
+          ]
+        },
+        {
+          "id": "05-sec-69-n-division",
+          "title": "§§ 69–70: Division into Any Number of Equal Parts",
+          "title_it": "§§ 69–70: Divisione d'una distanza in un numero qualunque di parti eguali",
+          "path": "geometria_del_compasso/03-book-03/05-sec-69-n-division/index",
+          "folio_start": "0062",
+          "folio_end": "0064",
+          "plates": [
+            "0062.g1.png",
+            "0063.g1.png",
+            "0063.g2.png"
+          ],
+          "svgs": []
+        }
+      ]
     },
     {
-      "slug": "04-libro-5-proporzioni",
-      "title": "Libro V: Distanze proporzionali",
-      "propositions": "§§ 86–96"
+      "id": "04-book-04",
+      "title": "Book IV: Addition, Perpendiculars & Parallels",
+      "title_it": "Libro Quarto: Dell'addizione e sottrazione delle distanze; delle perpendicolari e delle parallele (§§ 71–85)",
+      "path": "geometria_del_compasso/04-book-04/index",
+      "folio_start": "0065",
+      "folio_end": "0071",
+      "leaves": [
+        {
+          "id": "01-sec-71-add-sub",
+          "title": "§§ 71–75: Addition & Subtraction of Distances",
+          "title_it": "§§ 71–75: Addizione e sottrazione delle distanze in linea retta",
+          "path": "geometria_del_compasso/04-book-04/01-sec-71-add-sub/index",
+          "folio_start": "0065",
+          "folio_end": "0066",
+          "plates": [
+            "0065.g1.png",
+            "0066.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "02-sec-76-perpendiculars",
+          "title": "§§ 76–77: Erecting a Perpendicular at an Endpoint",
+          "title_it": "§§ 76–77: Alzare una perpendicolare all'estremo di una distanza",
+          "path": "geometria_del_compasso/04-book-04/02-sec-76-perpendiculars/index",
+          "folio_start": "0067",
+          "folio_end": "0068",
+          "plates": [
+            "0067.g1.png",
+            "0068.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "03-sec-78-drop-perp",
+          "title": "§§ 78–79: Dropping a Perpendicular & Orthogonal Reflection",
+          "title_it": "§§ 78–79: Abbassare una perpendicolare e riflessione ortogonale",
+          "path": "geometria_del_compasso/04-book-04/03-sec-78-drop-perp/index",
+          "folio_start": "0068",
+          "folio_end": "0068",
+          "plates": [
+            "0068.g2.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "04-sec-80-parallels",
+          "title": "§§ 80–81: Parallels Through an External Point",
+          "title_it": "§§ 80–81: Condurre una parallela per un punto dato (Fig. 29–30)",
+          "path": "geometria_del_compasso/04-book-04/04-sec-80-parallels/index",
+          "folio_start": "0068",
+          "folio_end": "0069",
+          "plates": [
+            "0068.g3.png",
+            "0069.g1.png"
+          ],
+          "svgs": [
+            "0068.g3.svg"
+          ]
+        },
+        {
+          "id": "05-sec-82-tests",
+          "title": "§§ 82–85: Collinearity, Right-Angle & Parallel Tests",
+          "title_it": "§§ 82–85: Esaminare collinearità, perpendicolarità e parallelismo",
+          "path": "geometria_del_compasso/04-book-04/05-sec-82-tests/index",
+          "folio_start": "0069",
+          "folio_end": "0071",
+          "plates": [
+            "0069.g2.png",
+            "0070.g1.png",
+            "0070.g2.png",
+            "0071.g1.png"
+          ],
+          "svgs": []
+        }
+      ]
     },
     {
-      "slug": "05-libro-7-intersezioni",
-      "title": "Libro VII: Intersezione delle rette e dei cerchi",
-      "propositions": "§§ 110–112"
+      "id": "05-book-05",
+      "title": "Book V: Proportional Distances",
+      "title_it": "Libro Quinto: Delle distanze proporzionali (§§ 86–99)",
+      "path": "geometria_del_compasso/05-book-05/index",
+      "folio_start": "0071",
+      "folio_end": "0075",
+      "leaves": [
+        {
+          "id": "01-sec-86-third-prop",
+          "title": "§§ 86–92: Third Proportional & Iterative Doubling",
+          "title_it": "§§ 86–92: Terza proporzionale e casi di raddoppiamento iterativo",
+          "path": "geometria_del_compasso/05-book-05/01-sec-86-third-prop/index",
+          "folio_start": "0071",
+          "folio_end": "0073",
+          "plates": [
+            "0071.g2.png",
+            "0072.g1.png",
+            "0072.g2.png",
+            "0072.g3.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "02-sec-93-fourth-prop",
+          "title": "§§ 93–95: Concentric Fourth Proportional",
+          "title_it": "§§ 93–95: Quarta proporzionale per cerchi concentrici (Fig. 39)",
+          "path": "geometria_del_compasso/05-book-05/02-sec-93-fourth-prop/index",
+          "folio_start": "0073",
+          "folio_end": "0074",
+          "plates": [
+            "0073.g1.png"
+          ],
+          "svgs": [
+            "0073.g1.svg"
+          ]
+        },
+        {
+          "id": "03-sec-96-div-ratio",
+          "title": "§ 96: Dividing a Segment in a Given Ratio",
+          "title_it": "§ 96: Dividere una distanza in una ragione data (Fig. 40)",
+          "path": "geometria_del_compasso/05-book-05/03-sec-96-div-ratio/index",
+          "folio_start": "0074",
+          "folio_end": "0074",
+          "plates": [
+            "0074.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "04-sec-97-golden-section",
+          "title": "§§ 97–98: Golden Section by Compass Alone",
+          "title_it": "§§ 97–98: Dividere una distanza in estrema e media ragione (Fig. 41)",
+          "path": "geometria_del_compasso/05-book-05/04-sec-97-golden-section/index",
+          "folio_start": "0075",
+          "folio_end": "0075",
+          "plates": [
+            "0075.g1.png"
+          ],
+          "svgs": [
+            "0075.g1.svg"
+          ]
+        },
+        {
+          "id": "05-sec-99-mean-prop",
+          "title": "§ 99: Mean Proportional by Compass Alone",
+          "title_it": "§ 99: Trovare la media proporzionale tra due distanze (Fig. 42)",
+          "path": "geometria_del_compasso/05-book-05/05-sec-99-mean-prop/index",
+          "folio_start": "0075",
+          "folio_end": "0075",
+          "plates": [
+            "0075.g2.png"
+          ],
+          "svgs": []
+        }
+      ]
     },
     {
-      "slug": "06-libro-10-centri",
-      "title": "Libro X: Determinazione dei centri e problema di Napoleone",
-      "propositions": "§§ 143–147"
+      "id": "06-book-06",
+      "title": "Book VI: Square Roots",
+      "title_it": "Libro Sesto: Delle radici (§§ 100–109)",
+      "path": "geometria_del_compasso/06-book-06/index",
+      "folio_start": "0076",
+      "folio_end": "0085",
+      "leaves": [
+        {
+          "id": "01-sec-100-roots-1-10",
+          "title": "§§ 100–103: Square Roots √1 through √10 & √36",
+          "title_it": "§§ 100–103: Radici dei numeri interi da 1 fino a 10 e fino a 36",
+          "path": "geometria_del_compasso/06-book-06/01-sec-100-roots-1-10/index",
+          "folio_start": "0076",
+          "folio_end": "0077",
+          "plates": [
+            "0076.g1.png",
+            "0077.g1.png"
+          ],
+          "svgs": [
+            "0076.g1.svg"
+          ]
+        },
+        {
+          "id": "02-sec-104-half-roots",
+          "title": "§§ 104–107: Half-Roots ½√1 through ½√25",
+          "title_it": "§§ 104–107: Mezze radici ½√1 fino a ½√25 (Fig. 45)",
+          "path": "geometria_del_compasso/06-book-06/02-sec-104-half-roots/index",
+          "folio_start": "0078",
+          "folio_end": "0082",
+          "plates": [
+            "0078.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "03-sec-108-precision-roots",
+          "title": "§§ 108–109: Acute-Angle Refinement & Alternative Root Scheme",
+          "title_it": "§§ 108–109: Miglioramento degli angoli d'intersezione della Fig. 45",
+          "path": "geometria_del_compasso/06-book-06/03-sec-108-precision-roots/index",
+          "folio_start": "0083",
+          "folio_end": "0085",
+          "plates": [],
+          "svgs": []
+        }
+      ]
+    },
+    {
+      "id": "07-book-07",
+      "title": "Book VII: Intersections of Lines & Circles",
+      "title_it": "Libro Settimo: Della intersezione delle rette cogli archi di cerchio e tra loro (§§ 110–112)",
+      "path": "geometria_del_compasso/07-book-07/index",
+      "folio_start": "0085",
+      "folio_end": "0088",
+      "leaves": [
+        {
+          "id": "01-sec-110-line-circle",
+          "title": "§ 110: Line–Circle Intersection (Non-Diametral)",
+          "title_it": "§ 110: Intersezione di una retta con un cerchio (caso generale, Fig. 46–47)",
+          "path": "geometria_del_compasso/07-book-07/01-sec-110-line-circle/index",
+          "folio_start": "0085",
+          "folio_end": "0086",
+          "plates": [
+            "0085.g1.png",
+            "0086.g1.png"
+          ],
+          "svgs": [
+            "0085.g1.svg"
+          ]
+        },
+        {
+          "id": "02-sec-111-diametral",
+          "title": "§ 111: Line–Circle Intersection Through the Center",
+          "title_it": "§ 111: Intersezione di un diametro virtuale col cerchio (Fig. 48)",
+          "path": "geometria_del_compasso/07-book-07/02-sec-111-diametral/index",
+          "folio_start": "0086",
+          "folio_end": "0086",
+          "plates": [
+            "0086.g2.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "03-sec-112-line-line",
+          "title": "§ 112: Intersection of Two Virtual Lines & Circular Inversion",
+          "title_it": "§ 112: Intersezione di due rette virtuali e inversione circolare (Fig. 49–50)",
+          "path": "geometria_del_compasso/07-book-07/03-sec-112-line-line/index",
+          "folio_start": "0086",
+          "folio_end": "0088",
+          "plates": [
+            "0087.g1.png",
+            "0087.g2.png"
+          ],
+          "svgs": [
+            "0087.g1.svg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08-book-08",
+      "title": "Book VIII: Angles & Trigonometric Lines",
+      "title_it": "Libro Ottavo: Della costruzione, moltiplicazione e divisione degli angoli e delle linee trigonometriche (§§ 113–123)",
+      "path": "geometria_del_compasso/08-book-08/index",
+      "folio_start": "0088",
+      "folio_end": "0093",
+      "leaves": [
+        {
+          "id": "01-sec-113-angle-copy",
+          "title": "§§ 113–117: Copying, Multiplying & Testing Angles",
+          "title_it": "§§ 113–117: Trasporto, moltiplicazione e verifica degli angoli (Fig. 51–53)",
+          "path": "geometria_del_compasso/08-book-08/01-sec-113-angle-copy/index",
+          "folio_start": "0088",
+          "folio_end": "0089",
+          "plates": [
+            "0088.g1.png",
+            "0089.g1.png",
+            "0089.g2.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "02-sec-118-trig-lines",
+          "title": "§§ 118–123: Angle Bisection & Trigonometric Lines",
+          "title_it": "§§ 118–123: Bisezione dell'angolo e linee trigonometriche (Fig. 54–57)",
+          "path": "geometria_del_compasso/08-book-08/02-sec-118-trig-lines/index",
+          "folio_start": "0090",
+          "folio_end": "0093",
+          "plates": [
+            "0090.g1.png",
+            "0090.g2.png",
+            "0091.g1.png",
+            "0092.g1.png"
+          ],
+          "svgs": []
+        }
+      ]
+    },
+    {
+      "id": "09-book-09",
+      "title": "Book IX: Similar Figures & Regular Polygons",
+      "title_it": "Libro Nono: Delle figure simili e dei poligoni regolari (§§ 124–142)",
+      "path": "geometria_del_compasso/09-book-09/index",
+      "folio_start": "0093",
+      "folio_end": "0106",
+      "leaves": [
+        {
+          "id": "01-sec-124-similar",
+          "title": "§§ 124–127: Similar Figures & Area Ratios",
+          "title_it": "§§ 124–127: Costruzione di figure simili in data ragione di aree (Fig. 58)",
+          "path": "geometria_del_compasso/09-book-09/01-sec-124-similar/index",
+          "folio_start": "0093",
+          "folio_end": "0095",
+          "plates": [
+            "0093.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "02-sec-128-inscribed",
+          "title": "§§ 128–134: Inscribed & Circumscribed Regular Polygons",
+          "title_it": "§§ 128–134: Poligoni regolari inscritti e circoscritti al cerchio (Fig. 59–62)",
+          "path": "geometria_del_compasso/09-book-09/02-sec-128-inscribed/index",
+          "folio_start": "0095",
+          "folio_end": "0099",
+          "plates": [
+            "0097.g1.png",
+            "0097.g2.png",
+            "0098.g1.png",
+            "0098.g2.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "03-sec-135-given-side",
+          "title": "§§ 135–142: Regular Polygons on a Given Side",
+          "title_it": "§§ 135–142: Costruire poligoni regolari sopra un dato lato (Fig. 63–70)",
+          "path": "geometria_del_compasso/09-book-09/03-sec-135-given-side/index",
+          "folio_start": "0099",
+          "folio_end": "0106",
+          "plates": [
+            "0099.g1.png",
+            "0101.g1.png",
+            "0101.g2.png",
+            "0105.g1.png"
+          ],
+          "svgs": []
+        }
+      ]
+    },
+    {
+      "id": "10-book-10",
+      "title": "Book X: Determination of Centers & Napoleon's Problem",
+      "title_it": "Libro Decimo: Dei centri (§§ 143–150)",
+      "path": "geometria_del_compasso/10-book-10/index",
+      "folio_start": "0107",
+      "folio_end": "0111",
+      "leaves": [
+        {
+          "id": "01-sec-143-napoleon",
+          "title": "§§ 143–145: Center of a Given Circle (Napoleon's Problem)",
+          "title_it": "§§ 143–145: Trovare il centro d'un cerchio dato — Problema di Napoleone (Fig. 71)",
+          "path": "geometria_del_compasso/10-book-10/01-sec-143-napoleon/index",
+          "folio_start": "0107",
+          "folio_end": "0108",
+          "plates": [
+            "0107.g1.png"
+          ],
+          "svgs": [
+            "0107.g1.svg"
+          ]
+        },
+        {
+          "id": "02-sec-146-polygon-centers",
+          "title": "§§ 146–149: Inscribing & Circumscribing Circles to Polygons",
+          "title_it": "§§ 146–149: Cerchi circoscritti ed inscritti ai poligoni regolari (Fig. 72–74)",
+          "path": "geometria_del_compasso/10-book-10/02-sec-146-polygon-centers/index",
+          "folio_start": "0108",
+          "folio_end": "0110",
+          "plates": [
+            "0108.g1.png",
+            "0109.g1.png",
+            "0110.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "03-sec-150-three-points",
+          "title": "§ 150: Circumcenter Through Three Points & Steiner Duality",
+          "title_it": "§ 150: Centro del cerchio per tre punti e dualità Mascheroni–Steiner (Fig. 75)",
+          "path": "geometria_del_compasso/10-book-10/03-sec-150-three-points/index",
+          "folio_start": "0111",
+          "folio_end": "0111",
+          "plates": [
+            "0111.g1.png"
+          ],
+          "svgs": [
+            "0111.g1.svg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11-book-11",
+      "title": "Book XI: Miscellaneous Problems & Platonic Solids",
+      "title_it": "Libro Undecimo: Problemi varj (§§ 151–192)",
+      "path": "geometria_del_compasso/11-book-11/index",
+      "folio_start": "0111",
+      "folio_end": "0144",
+      "leaves": [
+        {
+          "id": "01-sec-151-trigonometry",
+          "title": "§§ 151–160: Compass Proofs of Trigonometric Identities",
+          "title_it": "§§ 151–160: Dimostrazioni geometriche delle identità trigonometriche (Fig. 76–78)",
+          "path": "geometria_del_compasso/11-book-11/01-sec-151-trigonometry/index",
+          "folio_start": "0111",
+          "folio_end": "0114",
+          "plates": [
+            "0111.g2.png",
+            "0112.g1.png",
+            "0113.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "02-sec-161-inscribed-polygons",
+          "title": "§§ 161–169: Inscribed Squares, Octagons & Area Scaling",
+          "title_it": "§§ 161–169: Quadrato nel triangolo equilatero e ottagoni di area doppia o tripla (Fig. 79–83)",
+          "path": "geometria_del_compasso/11-book-11/02-sec-161-inscribed-polygons/index",
+          "folio_start": "0115",
+          "folio_end": "0123",
+          "plates": [
+            "0115.g1.png",
+            "0120.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "03-sec-170-ovals-tangents",
+          "title": "§§ 170–179: Four-Center Ovals, Tangents & Architectural Arches",
+          "title_it": "§§ 170–179: Ovali a quattro centri, archi tangenti e applicazioni architettoniche (Fig. 86–88)",
+          "path": "geometria_del_compasso/11-book-11/03-sec-170-ovals-tangents/index",
+          "folio_start": "0124",
+          "folio_end": "0130",
+          "plates": [
+            "0126.g1.png",
+            "0128.g1.png"
+          ],
+          "svgs": []
+        },
+        {
+          "id": "04-sec-180-kepler-platonic",
+          "title": "§§ 180–185: Kepler Triangle & Platonic Solid Circumradii",
+          "title_it": "§§ 180–185: Triangolo rettangolo aureo (Keplero) e raggi dei cinque poliedri regolari (Fig. 91–93)",
+          "path": "geometria_del_compasso/11-book-11/04-sec-180-kepler-platonic/index",
+          "folio_start": "0131",
+          "folio_end": "0137",
+          "plates": [
+            "0132.g1.png",
+            "0134.g1.png"
+          ],
+          "svgs": [
+            "0132.g1.svg"
+          ]
+        },
+        {
+          "id": "05-sec-186-tessellations",
+          "title": "§§ 186–192: Five-Square Cross & Seven-Hexagon Flower",
+          "title_it": "§§ 186–192: Cinque quadrati e sette esagoni regolari inscritti nel cerchio (Fig. 96, 100)",
+          "path": "geometria_del_compasso/11-book-11/05-sec-186-tessellations/index",
+          "folio_start": "0138",
+          "folio_end": "0144",
+          "plates": [
+            "0138.g1.png",
+            "0143.g1.png"
+          ],
+          "svgs": []
+        }
+      ]
+    },
+    {
+      "id": "12-book-12",
+      "title": "Book XII: Problems by Approximation",
+      "title_it": "Libro Duodecimo: Problemi per approssimazione (§§ 193–280)",
+      "path": "geometria_del_compasso/12-book-12/index",
+      "folio_start": "0145",
+      "folio_end": "0176",
+      "leaves": [
+        {
+          "id": "01-sec-193-approx-equations",
+          "title": "§§ 193–214: Fundamental Chord Equations & Sexagesimal Degrees",
+          "title_it": "§§ 193–214: Equazioni fondamentali delle corde e divisione in gradi (pp. 120–126)",
+          "path": "geometria_del_compasso/12-book-12/01-sec-193-approx-equations/index",
+          "folio_start": "0145",
+          "folio_end": "0151",
+          "plates": [],
+          "svgs": []
+        },
+        {
+          "id": "02-sec-215-twelve-equations",
+          "title": "§§ 215–235: The Twelve Logarithmic Graduation Equations",
+          "title_it": "§§ 215–235: Le dodici equazioni logaritmiche per la graduazione del cerchio (pp. 127–133)",
+          "path": "geometria_del_compasso/12-book-12/02-sec-215-twelve-equations/index",
+          "folio_start": "0152",
+          "folio_end": "0158",
+          "plates": [],
+          "svgs": []
+        },
+        {
+          "id": "03-sec-236-minutes-decimal",
+          "title": "§§ 236–266: Arc-Minutes & French 400-Grad Decimal Circle",
+          "title_it": "§§ 236–266: Minuti d'arco e divisione decimale francese in 400 gradi (pp. 134–142)",
+          "path": "geometria_del_compasso/12-book-12/03-sec-236-minutes-decimal/index",
+          "folio_start": "0159",
+          "folio_end": "0167",
+          "plates": [],
+          "svgs": []
+        },
+        {
+          "id": "04-sec-267-rectification-squaring",
+          "title": "§§ 267–272: Circle Rectification, Radian Arc & Squaring (√π)",
+          "title_it": "§§ 267–272: Rettificazione del quadrante, arco radiante e quadratura del cerchio (Fig. 101–104)",
+          "path": "geometria_del_compasso/12-book-12/04-sec-267-rectification-squaring/index",
+          "folio_start": "0168",
+          "folio_end": "0171",
+          "plates": [
+            "0168.g1.png",
+            "0169.g1.png",
+            "0169.g2.png",
+            "0170.g1.png"
+          ],
+          "svgs": [
+            "0168.g1.svg"
+          ]
+        },
+        {
+          "id": "05-sec-273-sphere-cube",
+          "title": "§§ 273–280: Sphere Cubature & Cube Duplication (∛2 through ∛8)",
+          "title_it": "§§ 273–280: Cubatura della sfera e duplicazione fino all'ottuplicazione del cubo (Fig. 105–108)",
+          "path": "geometria_del_compasso/12-book-12/05-sec-273-sphere-cube/index",
+          "folio_start": "0172",
+          "folio_end": "0176",
+          "plates": [
+            "0172.g1.png",
+            "0172.g2.png",
+            "0173.g1.png",
+            "0174.g1.png"
+          ],
+          "svgs": []
+        }
+      ]
+    },
+    {
+      "id": "13-index",
+      "title": "Index of the Twelve Books",
+      "title_it": "Indice dei Libri",
+      "path": "geometria_del_compasso/13-index/index",
+      "folio_start": "0177",
+      "folio_end": "0181",
+      "leaves": [
+        {
+          "id": "01-indice",
+          "title": "Archival Table of Contents (Indice)",
+          "title_it": "Indice generale dell'edizione centenaria (1901)",
+          "path": "geometria_del_compasso/13-index/01-indice/index",
+          "folio_start": "0177",
+          "folio_end": "0181",
+          "plates": [],
+          "svgs": []
+        }
+      ]
     }
   ]
 }

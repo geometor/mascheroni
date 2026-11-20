@@ -75,7 +75,7 @@
     "headword": "Problema di Napoleone (Libro X, § 143)",
     "language": "it",
     "translation": "Napoleon's Problem (Circle Center Determination)",
-    "definition": "Finding the center of a given circle using only the compass. Mascheroni solves this in § 143 by sweeping an arbitrary arc from a point on the circle, finding its antipodal intersections, and inverting through the center."
+    "definition": "Finding the center of a given circle using only the compass. In § 143 (Fig. 71), Mascheroni marks a semicircle BCDE centered on a boundary point A cutting the given circle at M, constructs the third proportional BQ to EM and EA via arcs E(EM) ∩ A(EM) = L and L(LA) ∩ BCDE = Q, and intersects B(BQ) ∩ A(BQ) at center O (later reformulated via circular inversion by August Adler in 1890)."
   },
   "geometrographie-steinerienne": {
     "headword": "Géométrographie Steinerienne",

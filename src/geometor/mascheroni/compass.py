@@ -7,7 +7,6 @@ with zero floating-point arithmetic, along with Lemoine's operational calculus.
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Any
 
 import sympy as sp
 
@@ -140,7 +139,10 @@ def mascheroni_inversion(o: sp.Point2D, r: sp.Expr, p: sp.Point2D) -> sp.Point2D
     """
     op_sq = (p.x - o.x) ** 2 + (p.y - o.y) ** 2
     factor = r**2 / op_sq
-    return sp.Point2D(sp.simplify(o.x + factor * (p.x - o.x)), sp.simplify(o.y + factor * (p.y - o.y)))
+    return sp.Point2D(
+        sp.simplify(o.x + factor * (p.x - o.x)),
+        sp.simplify(o.y + factor * (p.y - o.y)),
+    )
 
 
 def concentric_fourth_proportional(a: sp.Expr, b: sp.Expr, c: sp.Expr) -> sp.Expr:
