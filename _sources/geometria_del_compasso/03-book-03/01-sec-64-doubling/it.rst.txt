@@ -17,12 +17,7 @@
 .. folio:: 0057
    :page: 32
 
-**§ 64. Prob.** Raddoppiare in linea retta una distanza data :g:`/ B A /` col solo compasso.
-
-*Sol.* Fatto centro in :g:`A` e col raggio :g:`/ B A /` si descriva il cerchio :g:`( A B )`, e nella sua circonferenza si riporti tre volte il medesimo raggio, facendo :eq:`/ B C / = / C D / = / D E /`. Sarà :g:`E` diametralmente opposto a :g:`B` sulla retta virtuale :math:`(B, A)`, e dunque :eq:`/ A E / = / B A /` e :math:`BE = 2\,AB`.
-
-**§ 65.** Ripetendo il medesimo passo si moltiplica la distanza per qualsivoglia numero intero.
+*[Lacuna nel testimone digitalizzato: l'apertura del Libro Terzo e i §§ 64–65, originariamente stampati a p. 31, mancano nella copia digitalizzata di Harvard tra i fogli 0056 e 0057; per la ricostruzione matematica si vedano le tracce Summary e Notes.]*
 
 .. picture:: 0057.g1.svg
    :alt: Calibrated 5-layer vector diagram of Book III § 64: collinear doubling BE = 2·AB via three hexagon steps
-

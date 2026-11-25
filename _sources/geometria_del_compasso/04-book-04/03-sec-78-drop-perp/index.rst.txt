@@ -16,14 +16,20 @@
 .. folio:: 0068
    :page: 43
 
-**§ 78. Problem (Fig. 28, folio 0068, p. 43).** From an external point :math:`P`, drop a perpendicular onto virtual line :math:`(A, B)`.
-
-*Construction:* Sweep arcs :math:`A(AP)` and :math:`B(BP)`. Their second intersection :math:`P'` is the **exact orthogonal reflection** of :math:`P` across :math:`(A, B)` in just 2 circles (:math:`6 C_1 + 2 C_3`, :math:`S = 8`). The virtual line :math:`(P, P')` is strictly perpendicular to :math:`(A, B)` (§ 14).
-
-**§ 79.** To find the exact **foot** :math:`H` of the perpendicular on :math:`(A, B)`, simply bisect segment :math:`PP'` using Book III § 66! This two-circle reflection primitive becomes the cornerstone of Book VII (§ 110–112).
+**78.** *Prob.* Given the two endpoints of a straight line :math:`AB` and a point :math:`D` outside it, to find another point :math:`E` (fig. 28) which determines the position of :math:`DE` perpendicular to :math:`AB`, and the point :math:`M` where it cuts it.
 
 .. picture:: 0068.g2.png
    :alt: Archival Fig. 28 (folio 0068, p. 43): Reflecting point P across virtual line (A, B) to locate perpendicular foot
+
+*Sol.* Make :math:`AD = AE`, and :math:`BD = BE` (§ 11). Then :math:`E` will be the first point sought. Bisect :math:`DE` at :math:`M` (§ 66). Then :math:`M` will be the second.
+
+*Dem.* This Solution remains demonstrated by § 14.
+
+**79.** *Prob.* To find two points of a straight line which shall be perpendicular to the middle of :math:`DE` (fig. 28).
+
+*Sol.* Taking an arbitrary radius, make :math:`= DA = EA` with it. Taking the same radius, or another arbitrary one, make :math:`= DB = EB` on the other side. Then :math:`A` and :math:`B` will be the two points sought.
+
+*Dem.* This Solution remains demonstrated by § 14.
 
 
 .. toctree::

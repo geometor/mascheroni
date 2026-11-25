@@ -16,11 +16,12 @@
 .. folio:: 0111
    :page: 86
 
-**§ 150. Problem (Fig. 75, folio 0111, p. 86).** Through three arbitrary non-collinear points :math:`A, B, C`, construct the exact circumcenter :math:`O` and circumcircle using the compass alone.
+**150.** *Problem. To find the center* :math:`S` *of a circle (fig. 75) passing through three given points* :math:`PQR`.
 
-Closing Book X, Mascheroni reduces the general triangle circumcenter to intersecting the perpendicular bisectors of two sides via Book VII § 112 (or inverting two points across a circle centered at the third vertex).
+*Solution.* Taking centers at :math:`P` and :math:`Q`, with an arbitrary radius mark two arcs intersecting at :math:`A` and :math:`B`. Taking centers at :math:`Q` and :math:`R`, mark likewise with an arbitrary radius two arcs intersecting at :math:`C` and :math:`D`.
+Find the point :math:`S` where the two lines :math:`AB`, :math:`CD` intersect (§ 112). :math:`S` will be the center sought.
 
-*Minimal-Instrument Duality (Mascheroni 1797 ⇄ Steiner 1833):* Together with Book X § 143 (recovering a circle's center by compass alone), § 150 frames the exact architectural duality between :term:`Mascheronian Geometrography <geometrographie-mascheronienne>` (compass alone, circles :g:`( A B )` and :g:`( B A )` intersecting at :g:`P, Q`) and :person:`Jakob Steiner <steiner>`'s :term:`Steinerian Geometrography <geometrographie-steinerienne>` (:cite:`steiner-1833`: straightedge alone plus a single fixed circle :g:`( M R )` with known center :g:`M`, using harmonic chords :g:`/ U V /` and :g:`/ W Z /`).
+*Demonstration.* See Prop. 25, Book III.
 
 .. picture:: 0111.g1.svg
    :alt: Calibrated 5-layer vector diagram of minimal-instrument duality: Mascheroni (compass only, 1797) vs. Steiner (straightedge + 1 fixed circle, 1833)

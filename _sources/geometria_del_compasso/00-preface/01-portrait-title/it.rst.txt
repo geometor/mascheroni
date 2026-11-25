@@ -16,10 +16,21 @@ Ritratto e Frontespizio (Palermo, 1901)
 .. folio:: 0013
    :page: frontispiece
 
-*LORENZO MASCHERONI — LA GEOMETRIA DEL COMPASSO — Nuova edizione* (Palermo, Prem. Casa Editrice «Era Nova», 1901; esemplare della Biblioteca di Harvard ``Math 5409.01``).
-
-L'antiporta (folio 0013) reca il medaglione con il ritratto di :person:`Lorenzo Mascheroni <mascheroni>`, seguito dal frontespizio dell'edizione centenaria (folio 0014) curata da :person:`Gaetano Fazzari <fazzari>` nel centenario della scomparsa del geometra bergamasco.
-
 .. picture:: 0013.g1.png
    :alt: Medallion portrait of Lorenzo Mascheroni (1750–1800), frontispiece of the 1901 Palermo centenary edition
 
+| **Lorenzo Mascheroni**
+| (1750–1800)
+
+.. folio:: 0014
+   :page: title
+
+| **LORENZO MASCHERONI**
+|
+| **La Geometria del Compasso**
+|
+| *(Nuova edizione)*
+|
+| PALERMO
+| PREM. CASA ED. «ERA NOVA»
+| 1901
