@@ -16,8 +16,17 @@
 .. folio:: 0074
    :page: 49
 
-**§ 96. Prob. (Fig. 40, folio 0074, p. 49).** Dividere una distanza data :math:`PQ` nella stessa ragione nella quale è divisa la :math:`MN` in :math:`P`. Applicazione diretta della quarta proporzionale (§ 93) e del riporto collineare (§ 71).
+**96.** *Prob.* Dividere la :math:`MN` in :math:`P` in parti proporzionali alle due distanze date :math:`PQ, RS` (fig. 40).
+
+*Sol.* Alla :math:`PQ` si aggiunga in linea retta la :math:`QV` eguale alla :math:`RS` (§ 73).
+Alle tre :math:`PV, MN, PQ` si trovi la quarta proporzionale (§ 93), la quale si collochi sulla :math:`MN` in :math:`MP`, il che si fa sottraendola dalla :math:`MN` (§ 72). Sarà fatto.
 
 .. picture:: 0074.g1.png
    :alt: Archival Fig. 40 (folio 0074, p. 49): Dividing segment PQ in the ratio MP : PN
 
+*Dim.* Essendo :math:`PV : MN :: PQ : MP`, sarà ancora :math:`PV : MN :: QV : PN` (5, lib. V). Sarà dunque :math:`PQ :`
+
+.. folio:: 0075
+   :page: 50
+
+:math:`MP :: QV : PN`. Quindi (16, lib. V) :math:`PQ : QV :: MP : PN`; ossia :math:`PQ : RS :: MP : PN`.

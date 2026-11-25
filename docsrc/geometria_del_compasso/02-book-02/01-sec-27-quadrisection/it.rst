@@ -16,9 +16,11 @@
 .. folio:: 0048
    :page: 19
 
-**§ 27. Prob. (Fig. 9, folio 0048, p. 19).** Dividere la circonferenza del cerchio di centro :g:`A` e raggio :g:`/ A B /` in quattro parti eguali col solo compasso.
+**LIBRO SECONDO**
 
-*Sol.* Nella circonferenza :g:`( A B )` si faccia :math:`AB = BC = CD = DE`, determinando il punto diametralmente opposto :g:`E`. Col raggio :g:`/ B D /` (:math:`= \sqrt{3}`) e coi centri :g:`B` ed :g:`E` si descrivano gli archi :g:`( B D )` ed :g:`( E C )`, che si taglino in :g:`a`: sarà :g:`/ A a /` :math:`= \sqrt{2}`, lato del quadrato inscritto. Col raggio :g:`/ A a /` e centro :g:`B` si tagli la circonferenza in :g:`F` ed :g:`f`: i quattro punti :g:`B`, :g:`F`, :g:`E`, :g:`f` dividono la circonferenza in quattro parti eguali (:eq:`/ B F / = / F E / = / E f / = / f B /`).
+**DELLA DIVISIONE DELLA CIRCONFERENZA E DEGLI ARCHI DEL CERCHIO.**
+
+**27.** *Prob.* Dividere la circonferenza del cerchio :math:`BDd` in quattro parti eguali (fig. 9).
 
 .. picture:: 0048.g1.svg
    :alt: Calibrated 5-layer vector diagram of Book II § 27 (Fig. 9): compass-only circle quadrisection BFEf
@@ -26,3 +28,19 @@
 .. picture:: 0048.g1.png
    :alt: Archival Fig. 9 (folio 0048, p. 19): Quadrisection and multi-division of the circumference
 
+*Sol.* Nella stessa circonferenza di faccia al raggio :math:`AB = Bc = BC = CD = DE = Ed` col primo compasso (§ 10, 8). Sarà :math:`dc =`
+
+.. folio:: 0049
+   :page: 20
+
+:math:`cB = BA` (15, lib. IV). Si faccia a :math:`BD = Ba = Ea` col 2° compasso; ad :math:`Aa = BF = Bf` col 3° compasso.
+Si avrà divisa la circonferenza in quattro parti eguali :math:`BF`, :math:`FE`, :math:`Ff`, :math:`fB`.
+
+*Dim.* Essendo :math:`BAE` un diametro (15, lib. IV); e avendo i triangoli :math:`aAB`, :math:`aAE` tutti i lati eguali, e però eguali gli angoli :math:`aAB`, :math:`aAE` (8, lib. I); questi saranno retti (13, lib. I).
+Dunque :math:`(aB)^2 = (AB)^2 + (aA)^2` (47, lib. I); e sottraendo :math:`(AB)^2` da tutte due le parti, si ha :math:`(aB)^2 - (AB)^2 = (aA)^2`. Si faccia per brevità :math:`AB = 1`; sarà :math:`(aB)^2 = (BD)^2 = 3` (§ 2). Sarà dunque :math:`(aA)^2 = 3 - 1 = 2`, e quindi anche :math:`(BF)^2 = (aA)^2 = 2 = 1 + 1 = (AB)^2 + (AF^2)`.
+Dunque nel triangolo :math:`FAB` l'angolo :math:`FAB` sarà retto (48, lib. I), e però anche l'angolo :math:`FAE` (13, lib. I). Saranno dunque gli archi :math:`BF`, :math:`FE` eguali tra loro, e quarti di cerchio, come pure gli archi :math:`Bf`, :math:`fE`.
+
+**28.** *Cor.* Essendo retti gli angoli :math:`BAa`, :math:`BAF`; i tre punti :math:`A`, :math:`F`, :math:`a` saranno nella stessa retta.
+
+**29.** Abbiamo dunque già la circonferenza divisa in due parti eguali per esempio nei punti :math:`B` ed :math:`E`; in tre parti, come ne' punti :math:`B`, :math:`D`, :math:`d` (15, lib. IV);
+in quattro parti ne' punti :math:`B`, :math:`F`, :math:`E`, :math:`f` (§ 27); in sei parti nei punti :math:`B`, :math:`C`, :math:`D`, :math:`E`, :math:`d`, :math:`c` (15, lib. IV).

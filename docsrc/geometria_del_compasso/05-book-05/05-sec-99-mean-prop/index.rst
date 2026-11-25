@@ -16,12 +16,15 @@
 .. folio:: 0075
    :page: 50
 
-**§ 99. Problem (Fig. 42, folio 0075, p. 50).** Find the mean proportional :math:`BM = \sqrt{AB \cdot CD}` between two given distances :math:`AB` and :math:`CD`.
+**99.** *Prob.* Between the two given distances :math:`AB` and :math:`CD` (fig. 42) to find the mean proportional.
 
-*Construction:* Add :math:`CD` collinearly onto :math:`AB` past :math:`B` to :math:`H` (§ 73), bisect total diameter :math:`AH` at :math:`f` (§ 66), double :math:`Bf` past :math:`B` to :math:`F` (§ 64), and intersect circles :math:`F(fA)` and :math:`f(fA)` at :math:`M`. Since :math:`MB \perp HA` (§ 14) and :math:`M` lies on semicircle :math:`HMA`, Euclid VI.13 gives :math:`AB : BM :: BM : BH = CD`, hence :math:`BM = \sqrt{AB \cdot CD}`.
+*Sol.* On :math:`AB` add to it :math:`CD` from :math:`B` to :math:`H` (§ 73). Divide :math:`AH` in half at :math:`f` (§ 66).
+To :math:`Bf` add in a straight line the equal :math:`BF` (§ 64). With centers :math:`F, f`, and with radius :math:`fA`, describe two circles intersecting at :math:`M`. Then :math:`BM` will be the mean proportional.
 
 .. picture:: 0075.g2.png
    :alt: Archival Fig. 42 (folio 0075, p. 50): Mean proportional BM = sqrt(AB · CD)
+
+*Dem.* Since the points :math:`f, B, F` lie on the same straight line :math:`HA`, and the sides of the two triangles :math:`MBf, MBF` are respectively equal, the angle :math:`MBf = MBF` (I.8), and therefore both are right angles (I.13). Thus :math:`MB` will be perpendicular to the diameter :math:`HA` of the semicircle :math:`HMA`. Hence (VI.13) :math:`AB : BM :: BM : BH`, that is, :math:`AB : BM :: BM : CD`.
 
 
 .. toctree::

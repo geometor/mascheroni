@@ -16,8 +16,11 @@
 .. folio:: 0086
    :page: 61
 
-**§ 111. Prob. (Fig. 48, folio 0086, p. 61).** Caso in cui la retta virtuale passa pel centro :math:`C` del cerchio dato. Con un arco di centro :math:`A` che tagli la circonferenza in :math:`P, Q`, la bisezione dell'arco :math:`PQ` (§ 60) fornisce gli estremi esatti del diametro.
+**111. Prob.** Dato un arco :math:`BCD` descritto col centro :math:`A` (fig. 48); trovare i due punti, dove taglia la circonferenza la retta, che passa per :math:`A` e per un altro punto dato :math:`L`.
+
+*Sol.* Col centro :math:`L`, e con un raggio arbitrario :math:`LP` si descriva un arco, che tagli l'arco :math:`BCD` in :math:`P` e :math:`Q`. Si divida l'arco :math:`PQ` per metà in :math:`m` (§ 60). Si determini la semicirconferenza :math:`mDn` (§ 64). Saranno :math:`m` ed :math:`n` i due punti cercati.
+
+*Dim.* Essendo nella stessa distanza dai due punti :math:`P` e :math:`Q` i tre punti :math:`A, m` ed :math:`L`, saranno nella stessa retta (§ 13). Ma nella retta :math:`mA` si trova anche il punto :math:`n` estremo del diametro :math:`mn` (15, lib. IV). Dunque ecc.
 
 .. picture:: 0086.g2.png
    :alt: Archival Fig. 48 (folio 0086, p. 61): Intersecting a circle with a virtual line passing through its center
-

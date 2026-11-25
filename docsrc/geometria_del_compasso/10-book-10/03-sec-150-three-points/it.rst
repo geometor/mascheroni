@@ -16,11 +16,15 @@
 .. folio:: 0111
    :page: 86
 
-**§ 150. Prob. (Fig. 75, folio 0111, p. 86).** *Trovare il centro del cerchio che passa per tre punti dati qualsiasi non allineati.* Chiusura del Libro X, che definisce il ponte concettuale con la dualità degli strumenti minimi tra :person:`Lorenzo Mascheroni <mascheroni>` (solo compasso, 1797: :g:`( A B )`, :g:`( B A )`) e :person:`Jakob Steiner <steiner>` (sola riga e un cerchio fisso :g:`( M R )` di centro noto :g:`M`, 1833).
+**150.** *Prob. Trovare il centro* :math:`S` *d'un cerchio (fig. 75), che passi per tre punti dati* :math:`PQR`.
+
+*Sol.* Fatto centro in :math:`P` e :math:`Q`, con un raggio arbitrario si segnino due archi, che si taglino in :math:`A` e :math:`B`.
+Fatto centro in :math:`Q` ed :math:`R`, si segnino pure con un raggio arbitrario due archi, che si taglino in :math:`C` e :math:`D`. Si trovi il punto :math:`S`, dove le due :math:`AB`, :math:`CD` si tagliano (§ 112). Sarà :math:`S` il centro cercato.
+
+*Dim.* Vedi la 25, lib. III.
 
 .. picture:: 0111.g1.svg
    :alt: Calibrated 5-layer vector diagram of minimal-instrument duality: Mascheroni (compass only, 1797) vs. Steiner (straightedge + 1 fixed circle, 1833)
 
 .. picture:: 0111.g1.png
    :alt: Archival Fig. 75 (folio 0111, p. 86): Finding the center of the circle passing through three arbitrary points
-

@@ -16,8 +16,13 @@
 .. folio:: 0075
    :page: 50
 
-**§ 99. Prob. (Fig. 42, folio 0075, p. 50).** Tra le due distanze date :math:`AB` e :math:`CD` trovare la media proporzionale. Aggiunta :math:`CD` sulla :math:`AB` in :math:`H` (§ 73), dimezzata :math:`AH` in :math:`f` (§ 66) e raddoppiata :math:`Bf` in :math:`F` (§ 64), i cerchi :math:`F(fA)` ed :math:`f(fA)` si tagliano in :math:`M`, dando :math:`AB : BM :: BM : CD` (Euclide VI.13).
+**99.** *Prob.* Tra le due distanze date :math:`AB` e :math:`CD` (fig. 42) trovare la media proporzionale.
+
+*Sol.* Sulla :math:`AB` si aggiunga ad essa la :math:`CD` da :math:`B` in :math:`H` (§ 73). Si divida per metà la :math:`AH` in :math:`f` (§ 66).
+Alla :math:`Bf` si aggiunga in linea retta l'eguale :math:`BF` (§ 64). Coi centri :math:`F, f`, e col raggio :math:`fA` si descrivano due cerchj, che si taglino in :math:`M`. Sarà :math:`BM` la media proporzionale.
 
 .. picture:: 0075.g2.png
    :alt: Archival Fig. 42 (folio 0075, p. 50): Mean proportional BM = sqrt(AB · CD)
 
+*Dim.* Essendo i punti :math:`f, B, F` sulla stessa retta :math:`HA`, ed essendo eguali rispettivamente i lati dei due triangoli :math:`MBf, MBF`, sarà l'angolo :math:`MBf = MBF` (8, lib. I), e però entrambi retti (13, lib. I).
+Sarà dunque la :math:`MB` perpendicolare al diametro :math:`HA` del semicerchio :math:`HMA`. Quindi (13, lib. VI) :math:`AB : BM :: BM : BH`, ossia :math:`AB : BM :: BM : CD`.

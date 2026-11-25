@@ -17,13 +17,22 @@ Dedication to Bonaparte
 .. folio:: 0030
    :page: 1
 
-On page 1 (folio 0030), :person:`Lorenzo Mascheroni <mascheroni>` opens his 1797 Pavia treatise with an Italian verse dedication *To Bonaparte the Italic* (*A Bonaparte l'italico*), celebrating the young general of the Army of Italy who had just entered Milan and Pavia and taken a personal interest in pure mathematics:
+**TO BONAPARTE THE ITALIC**
 
-   *Peace to the conquered, and to Italy a new life; while you measure realms with the sword, accept this compass that traces every figure of Euclid without the aid of a straightedge.*
-
-The dedication immortalized the bond between Napoleon and compass-only geometry, giving rise to the enduring name :term:`Napoleon's Problem <problema-di-napoleone>` for Book X, § 143.
-
-
+| *I too beheld you with that unconquered hand*
+| *Which parcels kingdoms and dictated peace to Vienna*
+| *Divide beside me with an attentive gaze*
+| *The curved circuit of the faithful compass.*
+| *And you too I beheld unlock the hidden signs*
+| *Of arduous problems with the prowess of an ancient*
+| *Master Geometer; and I recalled*
+| *When you crossed the Alps, a new Hannibal,*
+| *To set free your beloved Italy, and all*
+| *Rapidly passed before my eyes—*
+| *The year of your victories, a year that shines*
+| *Within the abyss of centuries like a sun.*
+| *Pursue the enterprise, and with your unconquered hand*
+| *Lead forth free days for your Italy.*
 
 .. toctree::
    :hidden:

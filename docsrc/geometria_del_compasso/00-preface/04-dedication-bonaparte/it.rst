@@ -17,8 +17,19 @@ A Bonaparte l'Italico
 .. folio:: 0030
    :page: 1
 
-**A BONAPARTE L'ITALICO** (folio 0030, p. 1)
+**A BONAPARTE L'ITALICO**
 
-In apertura della *Geometria del Compasso* (Pavia, Anno V / 1797), :person:`Lorenzo Mascheroni <mascheroni>` dedica in versi sciolti la propria scoperta geometrica al generale :person:`Napoléon Bonaparte <bonaparte>`, esaltandone la passione matematica durante la campagna d'Italia e affidandogli il nuovo strumento del solo compasso.
-
-
+| *Io pur ti vidi coll' invitta mano,*
+| *Che parte i regni, e a Vienna intimò pace,*
+| *Meco divider con attento guardo*
+| *Il curvo giro del fedel compasso.*
+| *E te pur vidi aprir le arcane cifre*
+| *D' ardui problemi col valor d'antico*
+| *Geometra Maestro, e mi sovvenne*
+| *Quando l'alpi varcasti Annibal novo*
+| *Per liberar tua cara Italia, e tutto*
+| *Rapidamente mi passò davanti*
+| *L'anno di tue vittorie, anno che splende*
+| *Nell'abisso de' secoli qual sole.*
+| *Segui l' impresa, e coll' invitta mano*
+| *Guida all' Italia tua liberi giorni.*

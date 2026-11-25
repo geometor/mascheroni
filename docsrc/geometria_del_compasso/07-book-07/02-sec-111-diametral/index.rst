@@ -16,9 +16,11 @@
 .. folio:: 0086
    :page: 61
 
-**§ 111. Problem (Fig. 48, folio 0086, p. 61).** Find the intersection of circle :math:`(C, r)` with a virtual line :math:`(A, C)` that passes directly through the center :math:`C` (where the reflection method of § 110 degenerates because :math:`c = C`).
+**111. Problem.** Given an arc :math:`BCD` described with center :math:`A` (fig. 48); to find the two points where the straight line passing through :math:`A` and another given point :math:`L` cuts the circumference.
 
-*Construction:* With center :math:`A` and any radius cutting circle :math:`(C, r)` at two symmetric points :math:`P, Q`, bisect arc :math:`PQ` via Book II § 60 to obtain exact diameter endpoints :math:`M` and :math:`N` on :math:`(A, C)`—completing every possible line–circle case.
+*Solution.* With center :math:`L`, and with an arbitrary radius :math:`LP`, describe an arc cutting arc :math:`BCD` at :math:`P` and :math:`Q`. Bisect arc :math:`PQ` at :math:`m` (§ 60). Determine the semicircumference :math:`mDn` (§ 64). Then :math:`m` and :math:`n` will be the two points sought.
+
+*Demonstration.* Since the three points :math:`A, m`, and :math:`L` are at the same distance from the two points :math:`P` and :math:`Q`, they will lie on the same straight line (§ 13). But on the straight line :math:`mA` also lies the point :math:`n`, extremity of the diameter :math:`mn` (IV.15). Therefore, etc.
 
 .. picture:: 0086.g2.png
    :alt: Archival Fig. 48 (folio 0086, p. 61): Intersecting a circle with a virtual line passing through its center

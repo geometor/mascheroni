@@ -16,19 +16,20 @@
 .. folio:: 0075
    :page: 50
 
-**§ 97. Problem (Fig. 41, folio 0075, p. 50).** Divide a given distance :math:`AB` in extreme and mean ratio (the Golden Section) using the compass alone.
+**97.** *Prob.* To divide :math:`AB` (fig. 41) in extreme and mean ratio.
 
-*Construction:* With center :g:`A` and radius :math:`AB`, draw circle :g:`( A B )` and step :math:`AB = BC = CD = DE = Ed`. With radius :math:`BD = \sqrt{3}\,AB`, sweep arcs :g:`( B D )` and :g:`( E C )` intersecting at :g:`a` (:math:`Aa = \sqrt{2}\,AB`). Finally, with radius :math:`Aa = \sqrt{2}\,AB` and centers :g:`D` and :g:`d`, sweep arcs :g:`( D b )` and :g:`( d b )` intersecting at :g:`b` on :math:`AB`.
+*Sol.* With center :math:`A` and radius :math:`AB`, describe the circle :math:`BDd`. Make :math:`AB = BC = CD = DE = Ed` along its circumference.
+Make :math:`BD = Ba = Ea`. Make :math:`Aa = Db = db`. Then :math:`AB` will be divided at :math:`b` in extreme and mean ratio, and we shall have :math:`BA : Ab :: Ab : bB`.
 
-*Result:* Point :g:`b` divides :math:`AB` in exact Golden Ratio (:math:`BA : Ab :: Ab : bB = \phi`), with :g:`/ A b /` :math:`= \frac{\sqrt{5} - 1}{2}\,AB` and :g:`/ B b /` :math:`= \frac{3 - \sqrt{5}}{2}\,AB`.
-
-**§ 98.** Mascheroni explicitly celebrates this gem: *«This problem too (§ 97) is one of those which are solved far more simply with the compass alone than with compass and straightedge together»* (cf. Euclid II.11 and VI.30).
+*Dem.* See § 46.
 
 .. picture:: 0075.g1.svg
    :alt: Calibrated 5-layer vector diagram of Book V § 97 (Fig. 41): Golden Section Ab = φ⁻¹·AB
 
 .. picture:: 0075.g1.png
    :alt: Archival Fig. 41 (folio 0075, p. 50): Compass-only division of AB in extreme and mean ratio
+
+**98.** This last problem (§ 97) is also one of those which are solved far more simply with the compass alone than with compass and straightedge together, as may be seen by comparing this solution with the known geometric solutions. Its demonstration, however, turns out to be more complicated.
 
 
 .. toctree::
