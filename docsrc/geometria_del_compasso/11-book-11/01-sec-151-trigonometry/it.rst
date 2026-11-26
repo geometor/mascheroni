@@ -23,6 +23,9 @@
 *Sol.* Si faccia a :math:`AB = Ba`; a :math:`DA = Da` (§ 11).
 Si portino sulla scala :math:`LS` le distanze :math:`Aa` e :math:`BD` prese sul compasso, e si trovi essere per esempio :math:`Aa = 7`, :math:`BD = 8`. Si moltiplichino tra loro questi due numeri, e si pigli il quarto del prodotto :math:`= 14`. Questo numero esprimerà l'area del triangolo :math:`ABD`.
 
+.. picture:: 0111.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 152 (Fig. 76): Trigonometric Scale & Triangle Solution
+
 .. picture:: 0111.g2.png
    :alt: Archival Fig. 76 (folio 0111, p. 86): Opening trigonometric circle figure of Book XI (§ 151)
 
@@ -43,6 +46,9 @@ coll'immaginarvi delle linee rette. Si potrebbero proporre anche altre maniere d
 
 *Sol.* Sia il triangolo :math:`ABC` la base di questa piramide tetraedra, e sieno :math:`AEC`, :math:`BDC`, :math:`AFB` i piani triangolari, che vanno al suo vertice.
 
+.. picture:: 0112.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 155 (Fig. 77): Dihedral & Spherical Angle Construction
+
 .. picture:: 0112.g1.png
    :alt: Archival Fig. 77 (folio 0112, p. 87): Sine and cosine sum/difference diagram (§§ 154–155)
 
@@ -62,6 +68,9 @@ Sarà dunque questo la sezione delle due rette :math:`\delta d`, :math:`\varepsi
 
 Essendo poi i due triangoli :math:`CPS`, (fig. 78,) :math:`CpE` (fig. 77) rettangoli in :math:`P` e :math:`p` il primo per supposizione e il secondo per la 31, lib. III, ed essendo :math:`CS` la stessa :math:`CE` e la :math:`CP = Cp`;
 sarà ancora :math:`PS = pE`. Poichè (Fig. 78) :math:`(CS)^2 - (CP)^2 = (PS)^2` (47, lib. I). Egualmente (Fig. 77) :math:`(CE)^2 - (Cp)^2 = (pE)^2`. Ma :math:`(CS)^2 - (CP)^2 = (CE)^2 - (Cp)^2`. Dunque :math:`(PS)^2 = (pE)^2`. Quindi :math:`PS = pE`. È dunque :math:`pE` l'altezza della piramide.
+
+.. picture:: 0113.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 158 (Fig. 78): Tetrahedral Altitude & Spherical Triangle
 
 .. picture:: 0113.g1.png
    :alt: Archival Fig. 78 (folio 0113, p. 88): Half-angle and chord conversion lemmas (§§ 156–160)

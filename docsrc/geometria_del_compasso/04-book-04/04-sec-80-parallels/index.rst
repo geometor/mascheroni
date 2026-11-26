@@ -35,6 +35,9 @@
 
 :math:`C` outside it, to place at this point :math:`C` a distance :math:`CE` (fig. 30) such that the straight line :math:`CE` is parallel to :math:`AB` and equal to a given :math:`MN`.
 
+.. picture:: 0069.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 81 (Fig. 30): Parallel Lines and Equal Segments
+
 .. picture:: 0069.g1.png
    :alt: Archival Fig. 30 (folio 0069, p. 44): Parallel at a prescribed length
 

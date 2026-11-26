@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 410" width="560" height="410" class="euclid-graphic" data-graphic-id="0101.g2" data-folio="0101" data-graphic="g2">
+  <title>Mascheroni Book IX § 138 (Fig. 66): Regular Octagon on Given Side AB</title>
+  <style>
+    :root {
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
+      }
+    }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-arc" d="M 362.28 345.00 A 127.28 127.28 0 0 0 107.72 345.00" data-ref="( B H )" />
+    <path class="geom-arc" d="M 452.28 345.00 A 127.28 127.28 0 0 0 197.72 345.00" data-ref="( A h )" />
+    <path class="geom-seg-guide" d="M 235.00 345.00 L 235.00 236.36 L 235.00 127.72" data-ref="/ B f /" />
+    <path class="geom-seg-guide" d="M 325.00 345.00 L 325.00 236.36 L 325.00 127.72" data-ref="/ A F /" />
+    <path class="geom-seg-guide" d="M 235.00 217.72 L 280.00 217.72 L 325.00 217.72" data-ref="/ e a /" />
+  </g>
+  <g id="graphics">
+    <path class="geom-seg" d="M 235.00 345.00 L 280.00 345.00 L 325.00 345.00" data-ref="/ B A /" marker-mid="url(#geom-tick-1)" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path class="geom-seg-hl" d="M 325.00 345.00 L 356.82 313.18 L 388.64 281.36" data-ref="/ A H /" marker-mid="url(#geom-tick-1)" />
+    <path class="geom-seg-hl" d="M 388.64 281.36 L 388.64 236.36 L 388.64 191.36" data-ref="/ H G /" marker-mid="url(#geom-tick-1)" />
+    <path class="geom-seg-hl" d="M 388.64 191.36 L 356.82 159.54 L 325.00 127.72" data-ref="/ G F /" marker-mid="url(#geom-tick-1)" />
+    <path class="geom-seg-hl" d="M 325.00 127.72 L 280.00 127.72 L 235.00 127.72" data-ref="/ F f /" marker-mid="url(#geom-tick-1)" />
+    <path class="geom-seg-hl" d="M 235.00 127.72 L 203.18 159.54 L 171.36 191.36" data-ref="/ f g /" marker-mid="url(#geom-tick-1)" />
+    <path class="geom-seg-hl" d="M 171.36 191.36 L 171.36 236.36 L 171.36 281.36" data-ref="/ g h /" marker-mid="url(#geom-tick-1)" />
+    <path class="geom-seg-hl" d="M 171.36 281.36 L 203.18 313.18 L 235.00 345.00" data-ref="/ h B /" marker-mid="url(#geom-tick-1)" />
+  </g>
+  <g id="points">
+    <circle class="geom-point" cx="235.00" cy="345.00" r="3.8" data-ref="B" />
+    <circle class="geom-point" cx="325.00" cy="345.00" r="3.8" data-ref="A" />
+    <circle class="geom-point-hl" cx="388.64" cy="281.36" r="4.6" data-ref="H" />
+    <circle class="geom-point-hl" cx="388.64" cy="191.36" r="4.6" data-ref="G" />
+    <circle class="geom-point-hl" cx="325.00" cy="127.72" r="4.6" data-ref="F" />
+    <circle class="geom-point-hl" cx="235.00" cy="127.72" r="4.6" data-ref="f" />
+    <circle class="geom-point-hl" cx="171.36" cy="191.36" r="4.6" data-ref="g" />
+    <circle class="geom-point-hl" cx="171.36" cy="281.36" r="4.6" data-ref="h" />
+    <circle class="geom-point" cx="325.00" cy="217.72" r="3.8" data-ref="a" />
+    <circle class="geom-point" cx="235.00" cy="217.72" r="3.8" data-ref="e" />
+  </g>
+  <g id="labels">
+    <text class="geom-label" x="213.0" y="341.0" data-ref="B">B</text>
+    <text class="geom-label" x="303.0" y="341.0" data-ref="A">A</text>
+    <text class="geom-label-hl" x="400.6" y="285.4" data-ref="H">H</text>
+    <text class="geom-label-hl" x="400.6" y="195.4" data-ref="G">G</text>
+    <text class="geom-label-hl" x="319.0" y="113.7" data-ref="F">F</text>
+    <text class="geom-label-hl" x="229.0" y="113.7" data-ref="f">f</text>
+    <text class="geom-label-hl" x="149.4" y="195.4" data-ref="g">g</text>
+    <text class="geom-label-hl" x="149.4" y="285.4" data-ref="h">h</text>
+    <text class="geom-label" x="307.0" y="211.7" data-ref="a">a</text>
+    <text class="geom-label" x="243.0" y="211.7" data-ref="e">e</text>
+    <text class="geom-caption" x="16" y="394">Book IX, § 138 (Fig. 66): Regular octagon BAHGFfgh on given side BA</text>
+  </g>
+</svg>

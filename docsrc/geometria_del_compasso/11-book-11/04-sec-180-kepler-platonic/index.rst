@@ -80,6 +80,9 @@ Therefore, setting the edge of the icosahedron :math:`= 1`, we have :math:`BD` (
 With center :math:`\alpha` and radius :math:`\alpha a`, describe arc :math:`aP`. With the same center :math:`\alpha` and radius :math:`\alpha B`, describe arc :math:`Bpqs`. With the same center :math:`\alpha` and radius :math:`AB`, describe arc :math:`grt`. With the same center :math:`\alpha` and radius :math:`BE`, describe arc :math:`MQRST`. With radius :math:`Aa` and centers :math:`D, d`, describe two arcs intersecting at :math:`b`.
 With radius :math:`Ab` and center :math:`E`, cut the circumference at :math:`L`. Make :math:`AB = aP = MQ`, then
 
+.. picture:: 0134.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 183 (Fig. 93): Platonic Polyhedra & Spherical Subdivisions
+
 .. picture:: 0134.g1.png
    :alt: Archival Fig. 93 (folio 0134, p. 109): Compass construction of Platonic polyhedron sphere radii (§§ 182–185)
 

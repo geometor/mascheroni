@@ -53,6 +53,9 @@ equal terms :math:`(AQ)^2`, :math:`(pQ)^2`, and adding on both sides :math:`pP \
 
 **20.** *Lemma.* The same things remaining (§ 13), if angle :math:`RpQ` be right; let then angle :math:`RpS = RpA`, and :math:`pS = pR = pA`; :math:`AS` will be parallel and equal to :math:`Pp`, and :math:`(AQ)^2 = (RQ)^2 - AS \cdot pQ`.
 
+.. picture:: 0045.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book I § 15 (Fig. 4): Metric Relations on Perpendiculars
+
 .. picture:: 0045.g1.png
    :alt: Archival Fig. 3 (folio 0045, p. 16): Collinear cevian and Stewart-type distance identity
 
@@ -78,6 +81,9 @@ Moreover angle :math:`ApB`, which is the sum of the two, is also equal to the su
 
 to one another because triangle :math:`ApS` is isosceles (I.5), each of them will be equal to angle :math:`ApQ = pAQ` (I.5).
 Therefore triangle :math:`pAS` is similar to triangle :math:`QpA` (I.32, VI.4); and hence :math:`pQ : Ap :: Ap : AS`, and :math:`AS \cdot pQ = (Ap)^2` (VI.17).
+
+.. picture:: 0046.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book I § 21 (Fig. 5): Metric Lemma on Quadrilateral ABCD
 
 .. picture:: 0046.g1.png
    :alt: Archival Fig. 4 (folio 0046, p. 17): Isosceles secant-chord proportion

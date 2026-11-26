@@ -39,6 +39,9 @@ If the circle :math:`EFG` described with radius :math:`AB` (fig. 47) and center 
 For if we conceive the straight line :math:`VA` cutting the circles at :math:`C` and :math:`F`, and :math:`CF` bisected at :math:`m`, we shall have :math:`Vm = mA`. Therefore :math:`LM` will cut :math:`VA` perpendicularly at :math:`m` (§ 14) outside the circle :math:`BCD`.
 If any other point :math:`P` is taken on the straight line :math:`LM`, in the right triangle :math:`PmA` the side :math:`PA` will be greater than :math:`mA`, because opposite to a greater angle (I.32 and 18). Therefore point :math:`P` will lie much further outside the circle than point :math:`m`. Hence at no point will the straight line :math:`LM` cut the circle :math:`BCD`.
 
+.. picture:: 0086.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VII § 110 (Fig. 47): Line–Circle Intersection (Reflected Circle)
+
 .. picture:: 0086.g1.png
    :alt: Archival Fig. 47 (folio 0086, p. 61): Auxiliary configuration for non-diametral line–circle intersection
 

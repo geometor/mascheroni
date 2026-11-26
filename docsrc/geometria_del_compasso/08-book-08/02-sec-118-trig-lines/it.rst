@@ -23,6 +23,9 @@ Si divida l'arco :math:`BM` per metà in :math:`N`. Sarà l'angolo :math:`BAN` l
 
 *Dim.* Essendo l'angolo :math:`BAD` duplo di :math:`BAC` (§ 116) e duplo parimente di :math:`BAM` (33, lib. VI); sarà l'angolo :math:`BAC` lo stesso che :math:`BAM`. Ma l'angolo :math:`BAN` è la metà di :math:`BAM`. Dunque ecc.
 
+.. picture:: 0090.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 118 (Fig. 54): Arc Subdivision and Trigonometric Lines
+
 .. picture:: 0090.g1.png
    :alt: Archival Fig. 54 (folio 0090, p. 65): Bisecting angle BAC when AB ≠ AC (§ 118)
 
@@ -34,6 +37,9 @@ Col centro :math:`M`, raggio :math:`MA` si descriva un arco, che tagli, se può,
 
 *Dim.* La :math:`BA` taglia la :math:`Cc` ad angoli retti per metà in :math:`M` (§ 14). Dunque :math:`CM` è il seno, :math:`MA` è il coseno dell'arco :math:`BC`. La :math:`SB` è perpendicolare alla :math:`AB` (§ 83). La :math:`D\delta` è terza proporzionale alle due :math:`AM, AC` (§ 87); quindi anche la sua eguale :math:`AS`.
 Dunque nei due triangoli rettangoli :math:`AMC, ABS` si ha la proporzione :math:`AM : AC :: AB : AS`, ed invertendo (4, lib. V) :math:`AC : AM :: AS : AB`. Quindi (35, lib. V) :math:`(AC)^2 : (AM)^2 :: (AS)^2 : (AB)^2`. E sostituendo ad :math:`(AC)^2` e ad :math:`(AS)^2` i loro valori tratti dalla 47, lib. I, si avrà :math:`(AM)^2 + (MC)^2 : (AM)^2 :: (AB)^2 + (BS)^2 : (AB)^2`.
+
+.. picture:: 0090.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 119 (Fig. 55): Sine and Cosine Segments
 
 .. picture:: 0090.g2.png
    :alt: Archival Fig. 55 (folio 0090, p. 65): Constructing sine, cosine, tangent, and secant of arc BC (§ 119)
@@ -48,6 +54,9 @@ Se il cerchio descritto col centro :math:`M`, raggio :math:`MA`, non tagliasse l
 
 *Altra Sol. per aver la tangente e la secante.* Si determini la semicirconferenza :math:`BCE` (fig. 56) (§ 64). Col raggio :math:`BC`, centro :math:`E` si tagli questa in :math:`Q`. Col raggio :math:`CQ`, e coi centri :math:`A` e :math:`B` si segnino due archi, che si taglino in :math:`V`. Collo stesso raggio :math:`CQ`, centro :math:`V` si tagli la circonferenza in :math:`e`.
 Col raggio :math:`Ee`, e coi centri :math:`A` e :math:`B` si segnino due archi, che si taglino in :math:`m`. Collo stesso raggio :math:`Ee`, centro :math:`m` si descriva la semicirconferenza :math:`ABS` (§ 64). Sarà :math:`SB` la tangente, :math:`SA` la secante.
+
+.. picture:: 0091.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 120 (Fig. 56): Tangent and Secant by Compass
 
 .. picture:: 0091.g1.png
    :alt: Archival Fig. 56 (folio 0091, p. 66): Finding an arc from its given sine (§ 120)
@@ -66,6 +75,9 @@ Quindi :math:`\cos BC : AB :: AB : AS` (17, lib. VI). Sarà dunque :math:`AS` te
 in qualche punto :math:`C` della circonferenza si descriva un arco, che la tagli in :math:`c`. Si divida l'arco :math:`Cc` per metà in :math:`B` (§ 60). Sarà :math:`BC` l'arco cercato.
 
 *Dim.* Il seno dell'arco :math:`BC` per la definizione trigonometrica è la metà della corda dell'arco doppio di :math:`BC`. Dunque ecc.
+
+.. picture:: 0092.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 122 (Fig. 57): Right Triangle in Circle for Secant/Tangent
 
 .. picture:: 0092.g1.png
    :alt: Archival Fig. 57 (folio 0092, p. 67): Finding an arc from its given cosine (§ 121)

@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 480" width="540" height="480" class="euclid-graphic" data-graphic-id="0078.g1" data-folio="0078" data-graphic="g1">
+  <title>Mascheroni Book VI § 104 (Fig. 45): Half-Roots and Derived Radical Loci</title>
+  <style>
+    :root {
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
+      }
+    }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-seg-guide" d="M 90.00 240.00 L 240.00 240.00 L 390.00 240.00" data-ref="/ E B /" />
+    <path class="geom-seg-guide" d="M 240.00 90.00 L 240.00 240.00 L 240.00 390.00" data-ref="/ F f /" />
+  </g>
+  <g id="graphics">
+    <circle class="geom-arc-solid" cx="240.00" cy="240.00" r="150.00" data-ref="( A B )" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+  </g>
+  <g id="points">
+    <circle class="geom-point" cx="240.00" cy="240.00" r="3.8" data-ref="A" />
+    <circle class="geom-point" cx="390.00" cy="240.00" r="3.8" data-ref="B" />
+    <circle class="geom-point" cx="346.07" cy="133.93" r="3.8" data-ref="O" />
+    <circle class="geom-point" cx="315.00" cy="110.10" r="3.8" data-ref="C" />
+    <circle class="geom-point" cx="240.00" cy="90.00" r="3.8" data-ref="F" />
+    <circle class="geom-point" cx="213.95" cy="92.28" r="3.8" data-ref="L" />
+    <circle class="geom-point" cx="165.00" cy="110.10" r="3.8" data-ref="D" />
+    <circle class="geom-point" cx="117.13" cy="153.96" r="3.8" data-ref="S" />
+    <circle class="geom-point" cx="90.00" cy="240.00" r="3.8" data-ref="E" />
+    <circle class="geom-point" cx="133.93" cy="346.07" r="3.8" data-ref="e" />
+    <circle class="geom-point" cx="165.00" cy="369.90" r="3.8" data-ref="d" />
+    <circle class="geom-point" cx="201.18" cy="384.89" r="3.8" data-ref="i" />
+    <circle class="geom-point" cx="346.07" cy="346.07" r="3.8" data-ref="g" />
+    <circle class="geom-point" cx="240.00" cy="35.00" r="3.8" data-ref="a" />
+    <circle class="geom-point" cx="240.00" cy="445.00" r="3.8" data-ref="a1" />
+    <circle class="geom-point" cx="200.00" cy="60.00" r="3.8" data-ref="N" />
+    <circle class="geom-point" cx="280.00" cy="60.00" r="3.8" data-ref="M" />
+    <circle class="geom-point" cx="205.00" cy="420.00" r="3.8" data-ref="n" />
+    <circle class="geom-point" cx="285.00" cy="420.00" r="3.8" data-ref="m" />
+    <circle class="geom-point" cx="385.00" cy="105.00" r="3.8" data-ref="I" />
+    <circle class="geom-point" cx="465.00" cy="240.00" r="3.8" data-ref="H" />
+    <circle class="geom-point" cx="390.00" cy="375.00" r="3.8" data-ref="v" />
+    <circle class="geom-point" cx="200.00" cy="155.00" r="3.8" data-ref="Q" />
+    <circle class="geom-point" cx="280.00" cy="155.00" r="3.8" data-ref="P" />
+    <circle class="geom-point" cx="165.00" cy="240.00" r="3.8" data-ref="R" />
+    <circle class="geom-point" cx="315.00" cy="240.00" r="3.8" data-ref="T" />
+    <circle class="geom-point" cx="205.00" cy="325.00" r="3.8" data-ref="q" />
+    <circle class="geom-point" cx="280.00" cy="325.00" r="3.8" data-ref="p" />
+  </g>
+  <g id="labels">
+    <text class="geom-label" x="234.0" y="228.0" data-ref="A">A</text>
+    <text class="geom-label" x="403.0" y="245.0" data-ref="B">B</text>
+    <text class="geom-label" x="353.8" y="126.2" data-ref="O">O</text>
+    <text class="geom-label" x="319.0" y="99.5" data-ref="C">C</text>
+    <text class="geom-label" x="235.0" y="77.0" data-ref="F">F</text>
+    <text class="geom-label" x="205.8" y="79.6" data-ref="L">L</text>
+    <text class="geom-label" x="151.0" y="99.5" data-ref="D">D</text>
+    <text class="geom-label" x="97.4" y="148.6" data-ref="S">S</text>
+    <text class="geom-label" x="67.0" y="245.0" data-ref="E">E</text>
+    <text class="geom-label" x="116.2" y="363.8" data-ref="e">e</text>
+    <text class="geom-label" x="151.0" y="390.5" data-ref="d">d</text>
+    <text class="geom-label" x="191.5" y="407.3" data-ref="i">i</text>
+    <text class="geom-label" x="353.8" y="363.8" data-ref="g">g</text>
+    <text class="geom-label" x="235.0" y="25.0" data-ref="a">a</text>
+    <text class="geom-label" x="235.0" y="435.0" data-ref="a1">a'</text>
+    <text class="geom-label" x="195.0" y="50.0" data-ref="N">N</text>
+    <text class="geom-label" x="275.0" y="50.0" data-ref="M">M</text>
+    <text class="geom-label" x="200.0" y="410.0" data-ref="n">n</text>
+    <text class="geom-label" x="280.0" y="410.0" data-ref="m">m</text>
+    <text class="geom-label" x="380.0" y="95.0" data-ref="I">I</text>
+    <text class="geom-label" x="460.0" y="230.0" data-ref="H">H</text>
+    <text class="geom-label" x="385.0" y="365.0" data-ref="v">v</text>
+    <text class="geom-label" x="195.0" y="145.0" data-ref="Q">Q</text>
+    <text class="geom-label" x="275.0" y="145.0" data-ref="P">P</text>
+    <text class="geom-label" x="160.0" y="230.0" data-ref="R">R</text>
+    <text class="geom-label" x="310.0" y="230.0" data-ref="T">T</text>
+    <text class="geom-label" x="200.0" y="315.0" data-ref="q">q</text>
+    <text class="geom-label" x="275.0" y="315.0" data-ref="p">p</text>
+    <text class="geom-caption" x="16" y="464">Book VI, § 104 (Fig. 45): Circle (A, AB) with interior and exterior radical loci</text>
+  </g>
+</svg>

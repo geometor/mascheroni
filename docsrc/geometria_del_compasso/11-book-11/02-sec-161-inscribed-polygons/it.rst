@@ -23,6 +23,9 @@
 Col centro :math:`E`, col raggio :math:`EC` si descriva un arco, che tagli il dato lato :math:`AB` in :math:`e`. Col centro :math:`A`, e col raggio :math:`Be` si descriva un arco, che tagli lo stesso lato in :math:`b`. Coi centri :math:`b` e :math:`e` e col raggio :math:`eb` si descrivano due archi,
 che taglino i lati :math:`AC` in :math:`d` e :math:`CB` in :math:`c`. Sarà :math:`becd` il quadrato iscritto.
 
+.. picture:: 0115.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 161 (Fig. 79): Square Inscribed in Triangle
+
 .. picture:: 0115.g1.png
    :alt: Archival Fig. 79 (folio 0115, p. 90): Inscribing a square inside an equilateral triangle (§ 161)
 
@@ -119,6 +122,9 @@ Ma si ha :math:`cd = BL - Ld - Bc = BL - 2Ld = 1 - 2 + \sqrt{2} = \sqrt{2} - 1`.
 
 Dunque :math:`cd = de`. Istessamente si dimostrerà, che sono eguali tra loro tutti i lati dell'ottagono. Essendo poi eguali tra loro in tutto i triangoli :math:`Lde`, :math:`Bbc`, :math:`Aah`, :math:`Ffg` (4, lib. I);
 saranno eguali i loro angoli ai punti :math:`a`, :math:`b`, :math:`c`, :math:`d`, :math:`e`, :math:`f`, :math:`g`, :math:`h`; quindi saranno eguali anche i loro supplementi ai due retti, cioè gli angoli dell'ottagono (13, lib. I).
+
+.. picture:: 0120.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 167 (Fig. 83): Three Tangent Circles in a Circle
 
 .. picture:: 0120.g1.png
    :alt: Archival Fig. 83 (folio 0120, p. 95): Master multi-circle figure for octagon doubling and tripling (§ 165)

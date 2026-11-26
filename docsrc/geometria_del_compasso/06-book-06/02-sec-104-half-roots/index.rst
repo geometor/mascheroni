@@ -21,6 +21,9 @@
 *Solution.* Taking the radius :math:`AB` equal to one, with center :math:`A` describe the circle :math:`BDd`, and along its circumference make :math:`AB = BC = CD = DE = Ed`.
 With center :math:`B` and radius :math:`BD`, describe an arc passing through the points :math:`a, N, D, d, n, \alpha`. With the same radius and center :math:`E`, describe an arc passing through the points :math:`a, M, C, m, \alpha`. With radius :math:`Aa` and center :math:`B`, describe an arc passing through the points :math:`M, F, Q, q, m`.
 
+.. picture:: 0078.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VI § 104 (Fig. 45): Half-Roots and Derived Radical Loci
+
 .. picture:: 0078.g1.png
    :alt: Archival Fig. 45 (folio 0078, p. 53): Compact compass lattice producing all 25 half-roots ½√1–½√25
 

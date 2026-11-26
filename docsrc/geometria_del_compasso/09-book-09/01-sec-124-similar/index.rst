@@ -26,6 +26,9 @@
 
 **126.** *Problem. To construct a figure similar to a given one (fig. 58)* :math:`ABCEFD`, *having a given ratio of area to it.*
 
+.. picture:: 0093.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 124 (Fig. 58): Similar Polygons by Triangulation & Proportional Compass
+
 .. picture:: 0093.g1.png
    :alt: Archival Fig. 58 (folio 0093, p. 68): Scaling a polygon to a prescribed area ratio via concentric circles
 

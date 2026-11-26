@@ -20,6 +20,9 @@
 
 *Solution.* Make chords :math:`BC, CD, DE` equal to radius :math:`AB`; make :math:`BD = Ba = Ea`, and chords :math:`BF, Bf` equal to :math:`Aa`. With radius :math:`AB` and center :math:`a`, cut the circle at :math:`G`, and make chord :math:`Gg` equal to :math:`Aa`.
 
+.. picture:: 0138.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 186 (Fig. 96): Five-Square Greek Cross Tessellation
+
 .. picture:: 0138.g1.png
    :alt: Archival Fig. 96 (folio 0138, p. 113): Greek cross of five equal squares inscribed in a circle (§ 186)
 
@@ -90,6 +93,9 @@ Likewise :math:`Dm = ml`, so :math:`Bl = \frac{1}{3}BD = \frac{1}{3}\sqrt{3}` (s
 
 *Solution.* Along the circumference of the given circle make :math:`AB = BC = CD = DE = Ed`; then :math:`DB = DV = dV`. With radius :math:`CV` and centers :math:`C, A`, mark two arcs intersecting at :math:`P`; with the same radius :math:`PC` and center :math:`P`, cut the given circumference at :math:`\delta`.
 Then :math:`d\delta` will be the side of the hexagons to be inscribed, which are easily placed one beside another: with this same side :math:`d\delta` as radius and centers :math:`d, \delta`, mark two arcs intersecting at :math:`\alpha`; with the same radius and center :math:`\alpha`, describe a circle in which inscribe a regular hexagon (IV.15) :math:`d\delta mnpq`. With the same radius and center :math:`A`, describe a circle, which
+
+.. picture:: 0143.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 188 (Fig. 100): Seven-Hexagon Honeycomb Tessellation
 
 .. picture:: 0143.g1.png
    :alt: Archival Fig. 100 (folio 0143, p. 118): Flower of seven equal regular hexagons inscribed in a circle (§ 191)

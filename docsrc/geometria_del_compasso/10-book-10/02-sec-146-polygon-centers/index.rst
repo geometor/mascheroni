@@ -23,6 +23,9 @@ With radius :math:`BD` and centers :math:`B` and :math:`A`, mark two arcs inters
 
 Bisect :math:`QE` at :math:`m` (§ 66). With radius :math:`Qm` and the same center :math:`O`, describe another circle. It will be inscribed in the triangle.
 
+.. picture:: 0108.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book X § 146 (Fig. 72): Center of Equilateral Triangle
+
 .. picture:: 0108.g1.png
    :alt: Archival Fig. 72 (folio 0108, p. 83): Circumscribing and inscribing circles to an equilateral triangle (§ 146)
 
@@ -37,6 +40,9 @@ In figure 59, wherein the circle :math:`DBd` is inscribed in triangle :math:`NLM
 
 *Solution.* Let the four given vertices of the square be :math:`A`, :math:`B`, :math:`T`, :math:`P`. Make :math:`AB = AE`, and :math:`PB = PE`. With the same radius :math:`BP` and center :math:`B`, mark an arc passing through :math:`Q` and :math:`q`. With center :math:`E` and radius :math:`EA`, cut this arc at :math:`Q` and :math:`q`.
 With the same radius :math:`AE` and centers :math:`Q` and :math:`q`, mark two arcs intersecting at :math:`M`. With radius :math:`AQ` and centers :math:`A` and :math:`B`, mark two arcs intersecting at :math:`O`. With the same radius :math:`OB` and center :math:`O`, describe a circle. It will be circumscribed to the square. With the same center :math:`O` and radius :math:`OM`, describe another circle. It will be inscribed in the square.
+
+.. picture:: 0109.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book X § 147 (Fig. 73): Center of Square
 
 .. picture:: 0109.g1.png
    :alt: Archival Fig. 73 (folio 0109, p. 84): Circumscribing and inscribing circles to a square (§ 147)
@@ -57,6 +63,9 @@ Let :math:`B`, :math:`A`, :math:`M` be three vertices of this regular polygon, o
 With center :math:`L` and the same radius :math:`LA`, cut the semicircle :math:`BCDE` at :math:`Q`. :math:`BQ` will be the radius of the circumscribed circle. Therefore, taking as centers two vertices of the polygon, for instance :math:`B` and :math:`A`, and with radius :math:`BQ` marking two arcs intersecting at :math:`O`, :math:`O` will be the center.
 
 If :math:`AB` is a side of the polygon, bisect it at :math:`T` (§ 66). :math:`OT` will be the radius of the inscribed circle, which is described with the same center :math:`O`. If any other :math:`Ab` were one of the sides of the polygon, bisect :math:`Ab` at :math:`t`. :math:`Ot` will be the radius of the circle to be inscribed with the same center.
+
+.. picture:: 0110.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book X § 148 (Fig. 74): Center of Regular Polygon by Compass
 
 .. picture:: 0110.g1.png
    :alt: Archival Fig. 74 (folio 0110, p. 85): Circumscribing and inscribing circles to any regular polygon (§ 148)

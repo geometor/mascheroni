@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 330" width="600" height="330" class="euclid-graphic" data-graphic-id="0063.g1" data-folio="0063" data-graphic="g1">
+  <title>Mascheroni Book III § 70 (Fig. 22): Division into n Equal Parts (Extended Array)</title>
+  <style>
+    :root {
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
+      }
+    }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-arc" d="M 135.00 250.00 A 80.00 80.00 0 0 0 57.79 170.05" data-ref="( B A )" />
+    <path class="geom-arc" d="M 132.21 170.05 A 80.00 80.00 0 0 0 55.00 250.00" data-ref="( A B )" />
+    <path class="geom-arc" d="M 532.21 170.05 A 80.00 80.00 0 0 0 455.00 250.00" data-ref="( H G )" />
+    <path class="geom-arc" d="M 535.00 250.00 A 80.00 80.00 0 0 0 457.79 170.05" data-ref="( G H )" />
+    <path class="geom-seg-guide" d="M 55.00 250.00 L 295.00 250.00 L 535.00 250.00" data-ref="/ B H /" />
+  </g>
+  <g id="graphics">
+    <path class="geom-seg" d="M 55.00 250.00 L 95.00 250.00 L 135.00 250.00" data-ref="/ B A /" />
+    <path class="geom-seg" d="M 455.00 250.00 L 495.00 250.00 L 535.00 250.00" data-ref="/ G H /" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path class="geom-seg-hl" d="M 55.00 250.00 L 63.00 250.00 L 71.00 250.00" data-ref="/ B Q /" marker-mid="url(#geom-tick-1)" />
+    <path class="geom-seg-hl" d="M 519.00 250.00 L 527.00 250.00 L 535.00 250.00" data-ref="/ q H /" marker-mid="url(#geom-tick-1)" />
+  </g>
+  <g id="points">
+    <circle class="geom-point" cx="55.00" cy="250.00" r="3.8" data-ref="B" />
+    <circle class="geom-point-hl" cx="71.00" cy="250.00" r="4.6" data-ref="Q" />
+    <circle class="geom-point" cx="135.00" cy="250.00" r="3.8" data-ref="A" />
+    <circle class="geom-point" cx="66.13" cy="170.78" r="3.8" data-ref="C" />
+    <circle class="geom-point" cx="215.00" cy="250.00" r="3.8" data-ref="P1" />
+    <circle class="geom-point" cx="295.00" cy="250.00" r="3.8" data-ref="P2" />
+    <circle class="geom-point" cx="375.00" cy="250.00" r="3.8" data-ref="P3" />
+    <circle class="geom-point" cx="455.00" cy="250.00" r="3.8" data-ref="G" />
+    <circle class="geom-point-hl" cx="519.00" cy="250.00" r="4.6" data-ref="q" />
+    <circle class="geom-point" cx="535.00" cy="250.00" r="3.8" data-ref="H" />
+    <circle class="geom-point" cx="523.87" cy="170.78" r="3.8" data-ref="I" />
+  </g>
+  <g id="labels">
+    <text class="geom-label" x="39.0" y="268.0" data-ref="B">B</text>
+    <text class="geom-label-hl" x="67.0" y="270.0" data-ref="Q">Q</text>
+    <text class="geom-label" x="141.0" y="268.0" data-ref="A">A</text>
+    <text class="geom-label" x="60.1" y="158.8" data-ref="C">C</text>
+    <text class="geom-label" x="439.0" y="268.0" data-ref="G">G</text>
+    <text class="geom-label-hl" x="515.0" y="238.0" data-ref="q">q</text>
+    <text class="geom-label" x="543.0" y="268.0" data-ref="H">H</text>
+    <text class="geom-label" x="527.9" y="158.8" data-ref="I">I</text>
+    <text class="geom-caption" x="16" y="314">Book III, § 70 (Fig. 22): Extended collinear multiples for n-division of AB</text>
+  </g>
+</svg>

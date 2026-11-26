@@ -41,6 +41,9 @@ In tutte due le Figure adunque nei due triangoli :math:`cBd, CBD`, che hanno due
 .. picture:: 0087.g1.png
    :alt: Archival Fig. 49 (folio 0087, p. 62): Mascheroni's intersection of two virtual lines via reflection and fourth proportional
 
+.. picture:: 0087.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VII § 112 Note (Fig. 50): Conic Projection & Line Intersection
+
 .. picture:: 0087.g2.png
    :alt: Archival Fig. 50 (folio 0087, p. 62): Companion case of line–line intersection
 

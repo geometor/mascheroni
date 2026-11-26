@@ -23,6 +23,9 @@
 
 the arc :math:`BG` be an eighth part of the circumference, the square of its chord :math:`BG` will be :math:`(BG)^2 = 2 - \sqrt{2}` (fig. 10).
 
+.. picture:: 0051.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book II § 36 (Fig. 10): Chord and Projection on Diameter
+
 .. picture:: 0051.g1.png
    :alt: Archival Fig. 10 (folio 0051, p. 22): Half-angle chord relation
 
@@ -34,6 +37,9 @@ Thus :math:`\sqrt{2} = 2AP`; :math:`AP = \frac{1}{2}\sqrt{2}`; :math:`BP = AB - 
 *Dem.* Since :math:`(BE)^2 = (GE)^2 + (BG)^2` (I.47); while :math:`(BE)^2 = 4` and :math:`(BG)^2 = 2 - \sqrt{2}` (§ 36). Therefore :math:`4 = (GE)^2 + 2 - \sqrt{2}`, and subtracting :math:`2` and adding :math:`\sqrt{2}`, we get :math:`2 + \sqrt{2} = (GE)^2`.
 
 **38.** *Prob.* The circumference having already been divided into twenty-four equal parts (§ 32), to subdivide it into forty-eight.
+
+.. picture:: 0051.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book II § 36 (Fig. 11): Division of the Circumference into 48 Parts
 
 .. picture:: 0051.g2.png
    :alt: Archival Fig. 11 (folio 0051, p. 22): Exact 48-part division of the circle

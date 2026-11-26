@@ -46,6 +46,9 @@ ma sarebbero più complicate, e però più soggette ad errore.
 *Dim.* Se nell'equazione (4) s'introduce :math:`A' = 90^\circ`, del quale arco è corda la :math:`aL`; risulterà :math:`BL = A = 20^\circ 42' \frac{786}{1721}`. Essendo poi :math:`OM = bF` corda della quinta parte della circonferenza (§ 40), cioè di :math:`72^\circ`, ed essendo l'arco :math:`FO = 60^\circ`; sarà l'arco :math:`FM = 12^\circ`.
 Quindi l'arco :math:`LM = BF - BL - FM = 57^\circ 17' \frac{1035}{2721} = 57^\circ 17' 43''+`. Si ha poi l'arco eguale al raggio, come è noto :math:`= 57^\circ 17' 44''`. Dunque ecc.
 
+.. picture:: 0169.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 267 (Fig. 102): Circle Rectification Points
+
 .. picture:: 0169.g1.png
    :alt: Archival Fig. 102 (folio 0169, p. 144): Constructing the 1-radian arc ≈ 57° 17' 43" (§ 269)
 
@@ -53,6 +56,9 @@ Quindi l'arco :math:`LM = BF - BL - FM = 57^\circ 17' \frac{1035}{2721} = 57^\ci
 
 *Sol.* Si faccia nella circonferenza :math:`BPCQDRE` ad :math:`AB = BC = CD = DE`, e collo stesso raggio :math:`BA`, e coi centri :math:`B` ed :math:`E` si descrivano i due archi :math:`ALc`, :math:`AMd`.
 Coi centri :math:`C` e :math:`D`, e col raggio :math:`DB` si descrivano gli archi :math:`cNM`, :math:`dNL`. Si faccia ad :math:`AN = BP = PQ`; quindi ad :math:`LM = QR`. Sarà :math:`BR` il lato cercato.
+
+.. picture:: 0169.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 269 (Fig. 103): Circle Squaring & Quadrature Arcs
 
 .. picture:: 0169.g2.png
    :alt: Archival Fig. 103 (folio 0169, p. 144): Compass squaring of the circle — side √π ≈ 1.77266 (§ 270)
@@ -72,6 +78,9 @@ Ora posto il raggio :math:`= 1`; si ha l'area del cerchio :math:`= 3{,}1415926`,
 
 *Dim.* Se si guidi la :math:`dL` e la :math:`Dp` alla sua metà in :math:`p`; sarà :math:`\operatorname{sen} LDp = \frac{Lp}{DL}`. Ma l'angolo :math:`LDp = \frac{1}{2} LDd = \frac{1}{2}(BDd - BDL) = 30^\circ - BDn`.
 Dunque (§ 155) :math:`\operatorname{sen} LDp = \frac{1}{2}\cos BDn - \frac{1}{2}\sqrt{3} \times \operatorname{sen} BDn = \frac{1}{2} \cdot \frac{1}{6}\sqrt{33} - \frac{1}{2}\sqrt{3} \times \frac{1}{6}\sqrt{3}`. Quindi :math:`Lp = DL \cdot \operatorname{sen} LDp = \frac{1}{4}\sqrt{11} - \frac{1}{4}\sqrt{3}` ed :math:`Ld = \frac{1}{2}\sqrt{11} - \frac{1}{2}\sqrt{3} = AN`.
+
+.. picture:: 0170.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 271 (Fig. 104): Circumference Approximation via Arc DNd
 
 .. picture:: 0170.g1.png
    :alt: Archival Fig. 104 (folio 0170, p. 145): Alternative chord proof for circle squaring (§ 271)

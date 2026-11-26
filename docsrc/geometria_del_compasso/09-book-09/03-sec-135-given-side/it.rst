@@ -29,6 +29,9 @@ Quindi anche gli angoli :math:`BTF, AFT` saranno retti (27, lib. I), e :math:`AB
 
 **137.** *Prob. Sopra un dato lato* :math:`AB` *costruire un pentagono regolare (Fig. 63).*
 
+.. picture:: 0099.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 135 (Fig. 63): Regular Pentagon on Given Side AB
+
 .. picture:: 0099.g1.png
    :alt: Archival Fig. 63 (folio 0099, p. 74): Regular pentagon constructed on a given side AB (§ 137)
 
@@ -70,6 +73,9 @@ e ciascuno degli angoli alla base duplo dell'angolo al vertice (11, lib. IV). Sa
 
 **138.** *Prob. Sopra un dato lato* :math:`AB` *costruire un esagono regolare (Fig. 65).*
 
+.. picture:: 0101.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 137 (Fig. 65): Regular Hexagon on Given Side
+
 .. picture:: 0101.g1.png
    :alt: Archival Fig. 65 (folio 0101, p. 76): Regular hexagon constructed on a given side AB (§ 138)
 
@@ -79,6 +85,9 @@ e nella sua circonferenza si faccia ad :math:`AB = BC = CD = DE = EF`. Sarà :ma
 Per la Dimostrazione vedi la 15, lib. IV.
 
 **139.** *Prob. Sopra un dato lato* :math:`AB` *costruire un ottangolo regolare (Fig. 66).*
+
+.. picture:: 0101.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 138 (Fig. 66): Regular Octagon on Given Side AB
 
 .. picture:: 0101.g2.png
    :alt: Archival Fig. 66 (folio 0101, p. 76): Regular octagon constructed on a given side AB (§ 139)
@@ -168,6 +177,9 @@ Quindi :math:`AP : AQ :: AQ : BQ` (17, lib. VI), ossia :math:`HE : AE :: AB : BO
 Dunque anche :math:`AB` sarà lato dell'ottagono inscritto al cerchio di raggio :math:`BO`.
 
 **140.** *Prob. Sopra un dato lato* :math:`AB` *costruire un decagono regolare (Fig. 69).*
+
+.. picture:: 0105.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 141 (Fig. 69): Regular Decagon on Given Side AB
 
 .. picture:: 0105.g1.png
    :alt: Archival Fig. 69 (folio 0105, p. 80): Regular decagon constructed on a given side AB (§ 140)

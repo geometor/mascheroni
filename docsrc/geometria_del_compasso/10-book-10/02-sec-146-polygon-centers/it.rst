@@ -24,6 +24,9 @@ Col raggio :math:`BD` e coi centri :math:`B` ed :math:`A` si segnino due archi, 
 
 Si divida per metà la :math:`QE` in :math:`m` (§ 66). Col raggio :math:`Qm` e collo stesso centro :math:`O` si descriva un altro cerchio. Esso sarà inscritto al triangolo.
 
+.. picture:: 0108.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book X § 146 (Fig. 72): Center of Equilateral Triangle
+
 .. picture:: 0108.g1.png
    :alt: Archival Fig. 72 (folio 0108, p. 83): Circumscribing and inscribing circles to an equilateral triangle (§ 146)
 
@@ -40,6 +43,9 @@ Nella figura 59, nella quale il cerchio
 *Sol.* Sieno i quattro vertici dati del quadrato :math:`A`, :math:`B`, :math:`T`, :math:`P`. Si faccia ad :math:`AB = AE`. Ad :math:`PB = PE`. Collo stesso raggio :math:`BP`, e col centro :math:`B` si segni un arco, che passi per :math:`Q` e :math:`q`. Col centro :math:`E`, e col raggio :math:`EA` si tagli quest'arco in :math:`Q` e :math:`q`.
 Collo stesso raggio :math:`AE`, e coi centri :math:`Q` e :math:`q` si segnino due archi, che si taglino in :math:`M`. Col raggio :math:`AQ`, e coi centri :math:`A` e :math:`B` si segnino due archi, che si taglino in :math:`O`. Collo stesso raggio :math:`OB`, e col centro :math:`O` si descriva un cerchio.
 Esso sarà circoscritto al quadrato. Collo stesso centro :math:`O`, e col raggio :math:`OM` si descriva un altro cerchio. Esso sarà inscritto al quadrato.
+
+.. picture:: 0109.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book X § 147 (Fig. 73): Center of Square
 
 .. picture:: 0109.g1.png
    :alt: Archival Fig. 73 (folio 0109, p. 84): Circumscribing and inscribing circles to a square (§ 147)
@@ -63,6 +69,9 @@ E però presi per centri due vertici del poligono, per esempio :math:`B` ed :mat
 
 Se :math:`AB` è un lato del poligono, si divida per metà in :math:`T` (§ 66).
 Sarà :math:`OT` il raggio del cerchio inscritto, che si descriverà col medesimo centro :math:`O`. Se fosse qualunque altro :math:`Ab` uno de' lati del poligono, si divida per metà :math:`Ab` in :math:`t`. Sarà :math:`Ot` il raggio del cerchio da inscriversi col medesimo centro.
+
+.. picture:: 0110.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book X § 148 (Fig. 74): Center of Regular Polygon by Compass
 
 .. picture:: 0110.g1.png
    :alt: Archival Fig. 74 (folio 0110, p. 85): Circumscribing and inscribing circles to any regular polygon (§ 148)

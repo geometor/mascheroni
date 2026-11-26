@@ -22,6 +22,9 @@
 
 With center :math:`E` and radius :math:`EC`, describe an arc cutting the given side :math:`AB` at :math:`e`. With center :math:`A` and radius :math:`Be`, describe an arc cutting the same side at :math:`b`. With centers :math:`b` and :math:`e` and radius :math:`eb`, describe two arcs cutting sides :math:`AC` at :math:`d` and :math:`CB` at :math:`c`. :math:`becd` will be the inscribed square.
 
+.. picture:: 0115.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 161 (Fig. 79): Square Inscribed in Triangle
+
 .. picture:: 0115.g1.png
    :alt: Archival Fig. 79 (folio 0115, p. 90): Inscribing a square inside an equilateral triangle (§ 161)
 
@@ -101,6 +104,9 @@ With the same radius and center :math:`L`, describe an arc passing through :math
 Likewise it will be shown that all the other points lie on the sides of the proposed square. We shall then have :math:`Ld = BL - Bd = 1 - \frac{1}{2}\sqrt{2} = Le`, and :math:`(de)^2 = (Ld)^2 + (Le)^2` (47, Book I) :math:`= 2(Ld)^2`, and hence :math:`de = Ld \times \sqrt{2} = \sqrt{2} - 1`. But we have :math:`cd = BL - Ld - Bc = BL - 2Ld = 1 - 2 + \sqrt{2} = \sqrt{2} - 1`.
 
 Therefore :math:`cd = de`. Likewise it will be shown that all the sides of the octagon are equal to one another. Since moreover triangles :math:`Lde`, :math:`Bbc`, :math:`Aah`, :math:`Ffg` are equal to one another in every respect (4, Book I), their angles at points :math:`a`, :math:`b`, :math:`c`, :math:`d`, :math:`e`, :math:`f`, :math:`g`, :math:`h` will be equal; hence their supplements to two right angles, that is, the angles of the octagon, will also be equal (13, Book I).
+
+.. picture:: 0120.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 167 (Fig. 83): Three Tangent Circles in a Circle
 
 .. picture:: 0120.g1.png
    :alt: Archival Fig. 83 (folio 0120, p. 95): Master multi-circle figure for octagon doubling and tripling (§ 165)

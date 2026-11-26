@@ -22,6 +22,9 @@
 
 *Demonstration.* Since the three points :math:`A, m`, and :math:`L` are at the same distance from the two points :math:`P` and :math:`Q`, they will lie on the same straight line (§ 13). But on the straight line :math:`mA` also lies the point :math:`n`, extremity of the diameter :math:`mn` (IV.15). Therefore, etc.
 
+.. picture:: 0086.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VII § 111 (Fig. 48): Diametral Line–Circle Intersection
+
 .. picture:: 0086.g2.png
    :alt: Archival Fig. 48 (folio 0086, p. 61): Intersecting a circle with a virtual line passing through its center
 

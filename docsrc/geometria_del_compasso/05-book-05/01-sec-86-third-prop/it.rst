@@ -22,6 +22,9 @@
 
 **86.** *Prob.* Trovare una terza proporzionale alle due distanze :math:`Qp, MN` (fig. 35), delle quali la prima :math:`Qp` è maggiore della seconda :math:`MN`.
 
+.. picture:: 0071.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book V § 86 (Fig. 35): Third Proportional (Case 1)
+
 .. picture:: 0071.g2.png
    :alt: Archival Fig. 35 (folio 0071, p. 46): Third proportional when first term exceeds half the second (§ 86)
 
@@ -38,6 +41,9 @@
 
 *Sol.* È la stessa, che la precedente applicata alla fig. 36.
 
+.. picture:: 0072.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book V § 87 (Fig. 36): Third Proportional (Case 2)
+
 .. picture:: 0072.g1.png
    :alt: Archival Fig. 36 (folio 0072, p. 47): Alternative third proportional configuration (§ 87)
 
@@ -47,6 +53,9 @@
 
 **89.** *Prob.* Trovare una terza proporzionale alle due distanze (fig. 37) :math:`Qp, MN`, delle quali la prima è minore della metà della seconda.
 
+.. picture:: 0072.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book V § 88 (Fig. 37): Repeated Third Proportional
+
 .. picture:: 0072.g2.png
    :alt: Archival Fig. 37 (folio 0072, p. 47): Third proportional by doubling Q to Q' (§ 89)
 
@@ -55,6 +64,9 @@ Col centro :math:`Q`, raggio :math:`Qp` si descriva la semicirconferenza :math:`
 Se quest'arco taglia l'arco :math:`BAS` in due punti :math:`B` ed :math:`A`; si determini la semicirconferenza :math:`BAS'` (§ 64). Col metodo dello stesso § 64 alla :math:`AS'` si aggiunga in linea retta un'eguale :math:`S'S`. Sarà :math:`AS` la terza proporzionale cercata.
 
 *Dim.* Si ha (§ 22) :math:`AS' \cdot pQ' = (Ap)^2 = (MN)^2`. Ma :math:`pQ' = 2pQ`. Dunque :math:`2AS' \cdot pQ = (MN)^2`; ossia :math:`AS \cdot pQ = (MN)^2`. Quindi (17, lib. I) :math:`pQ : MN :: MN : AS`.
+
+.. picture:: 0072.g3.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book V § 90 (Fig. 38): Concentric Circle Construction
 
 .. picture:: 0072.g3.png
    :alt: Archival Fig. 38 (folio 0072, p. 47): Iterated doubling Q, Q', Q'' for small first term (§ 90)

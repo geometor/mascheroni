@@ -26,6 +26,9 @@
 
 **126.** *Prob. Costruire una figura simile ad una data (fig. 58)* :math:`ABCEFD`, *che abbia un dato rapporto di area con essa.*
 
+.. picture:: 0093.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 124 (Fig. 58): Similar Polygons by Triangulation & Proportional Compass
+
 .. picture:: 0093.g1.png
    :alt: Archival Fig. 58 (folio 0093, p. 68): Scaling a polygon to a prescribed area ratio via concentric circles
 

@@ -22,6 +22,9 @@
 
 *Demonstration.* Since angle :math:`BAD` is double :math:`BAC` (§ 116) and likewise double :math:`BAM` (VI.33), angle :math:`BAC` will be the same as :math:`BAM`. But angle :math:`BAN` is half of :math:`BAM`. Therefore, etc.
 
+.. picture:: 0090.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 118 (Fig. 54): Arc Subdivision and Trigonometric Lines
+
 .. picture:: 0090.g1.png
    :alt: Archival Fig. 54 (folio 0090, p. 65): Bisecting angle BAC when AB ≠ AC (§ 118)
 
@@ -35,6 +38,9 @@ With centers :math:`A` and :math:`V`, and radius :math:`D\delta`, describe two a
 *Demonstration.* Line :math:`BA` cuts :math:`Cc` at right angles at its midpoint :math:`M` (§ 14). Hence :math:`CM` is the sine and :math:`MA` is the cosine of arc :math:`BC`. Line :math:`SB` is perpendicular to :math:`AB` (§ 83).
 Line :math:`D\delta` is the third proportional to :math:`AM, AC` (§ 87); hence also its equal :math:`AS`. Therefore in the two right triangles :math:`AMC, ABS` we have the proportion :math:`AM : AC :: AB : AS`, and by inversion (V.4) :math:`AC : AM :: AS : AB`. Hence (V.35) :math:`(AC)^2 : (AM)^2 :: (AS)^2 : (AB)^2`. Substituting for :math:`(AC)^2` and :math:`(AS)^2` their values drawn from I.47, we shall have :math:`(AM)^2 + (MC)^2 : (AM)^2 :: (AB)^2 + (BS)^2 : (AB)^2`.
 
+.. picture:: 0090.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 119 (Fig. 55): Sine and Cosine Segments
+
 .. picture:: 0090.g2.png
    :alt: Archival Fig. 55 (folio 0090, p. 65): Constructing sine, cosine, tangent, and secant of arc BC (§ 119)
 
@@ -47,6 +53,9 @@ If the circle described with center :math:`M` and radius :math:`MA` should not c
 
 *Another Solution for finding the tangent and the secant.* Determine the semicircumference :math:`BCE` (fig. 56) (§ 64). With radius :math:`BC` and center :math:`E`, cut this at :math:`Q`.
 With radius :math:`CQ` and centers :math:`A` and :math:`B`, mark two arcs intersecting at :math:`V`. With the same radius :math:`CQ` and center :math:`V`, cut the circumference at :math:`e`. With radius :math:`Ee` and centers :math:`A` and :math:`B`, mark two arcs intersecting at :math:`m`. With the same radius :math:`Ee` and center :math:`m`, describe the semicircumference :math:`ABS` (§ 64). Then :math:`SB` will be the tangent, and :math:`SA` the secant.
+
+.. picture:: 0091.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 120 (Fig. 56): Tangent and Secant by Compass
 
 .. picture:: 0091.g1.png
    :alt: Archival Fig. 56 (folio 0091, p. 66): Finding an arc from its given sine (§ 120)
@@ -65,6 +74,9 @@ Hence :math:`\cos BC : AB :: AB : AS` (VI.17). Therefore :math:`AS` will be the 
 at some point :math:`C` of the circumference, describe an arc cutting it at :math:`c`. Bisect arc :math:`Cc` at :math:`B` (§ 60). Then :math:`BC` will be the arc sought.
 
 *Demonstration.* By the trigonometric definition, the sine of arc :math:`BC` is half the chord of the arc double :math:`BC`. Therefore, etc.
+
+.. picture:: 0092.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 122 (Fig. 57): Right Triangle in Circle for Secant/Tangent
 
 .. picture:: 0092.g1.png
    :alt: Archival Fig. 57 (folio 0092, p. 67): Finding an arc from its given cosine (§ 121)

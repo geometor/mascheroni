@@ -20,6 +20,9 @@
 
 *Sol.* Da un esempio, o due si rileverà meglio la regola generale (fig. 21).
 
+.. picture:: 0062.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book III § 69 (Fig. 21): Division into n Equal Parts (Case n = 3)
+
 .. picture:: 0062.g1.png
    :alt: Archival Fig. 21 (folio 0062, p. 37): General n-part compass division scheme
 
@@ -35,6 +38,9 @@ Se adesso alla :math:`BQ` si aggiunge l'eguale :math:`Qq` (§ 64), quindi le alt
 
 *Es. II.* Se si vuole dividere la :math:`AB` in sette parti (fig. 22);
 
+.. picture:: 0063.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book III § 70 (Fig. 22): Division into n Equal Parts (Extended Array)
+
 .. picture:: 0063.g1.png
    :alt: Archival Fig. 22 (folio 0063, p. 38): Example II — division into 5 equal parts
 
@@ -45,6 +51,9 @@ Cogli stessi centri :math:`B` ed :math:`H`, e col raggio :math:`BH` si descrivan
 Quindi avendo i due triangoli isosceli :math:`CBQ, CBH` un angolo alla base comune in :math:`B`; saranno simili (5 e 32, lib. I; 4, lib. VI), e sarà :math:`HB : BC :: BC : BQ`, ossia :math:`HB : AB :: AB : BQ`. Quante volte dunque la :math:`HB` sarà maggiore della :math:`AB`, altrettante la :math:`AB` sarà maggiore della :math:`BQ`.
 
 *Sol. II.* Si voglia dividere la :math:`AB` per esempio in cinque parti (fig. 23).
+
+.. picture:: 0063.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book III § 70 (Fig. 23): Symmetric Arcs for n-Division
 
 .. picture:: 0063.g2.png
    :alt: Archival Fig. 23 (folio 0063, p. 38): Alternative n-section via similar chords

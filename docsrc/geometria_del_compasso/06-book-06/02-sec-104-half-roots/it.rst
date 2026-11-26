@@ -27,6 +27,9 @@ Collo stesso raggio, e col centro :math:`E` si descriva un arco, che passi pei p
 
 Col raggio :math:`Aa`, e col centro :math:`B` si descriva un arco, che passi pei punti :math:`M, F, Q, q, m`.
 
+.. picture:: 0078.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VI § 104 (Fig. 45): Half-Roots and Derived Radical Loci
+
 .. picture:: 0078.g1.png
    :alt: Archival Fig. 45 (folio 0078, p. 53): Compact compass lattice producing all 25 half-roots ½√1–½√25
 

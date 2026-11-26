@@ -22,6 +22,9 @@
 
 **86.** *Prob.* To find a third proportional to the two distances :math:`Qp, MN` (fig. 35), of which the first :math:`Qp` is greater than the second :math:`MN`.
 
+.. picture:: 0071.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book V § 86 (Fig. 35): Third Proportional (Case 1)
+
 .. picture:: 0071.g2.png
    :alt: Archival Fig. 35 (folio 0071, p. 46): Third proportional when first term exceeds half the second (§ 86)
 
@@ -38,6 +41,9 @@
 
 *Sol.* It is the same as the preceding, applied to fig. 36.
 
+.. picture:: 0072.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book V § 87 (Fig. 36): Third Proportional (Case 2)
+
 .. picture:: 0072.g1.png
    :alt: Archival Fig. 36 (folio 0072, p. 47): Alternative third proportional configuration (§ 87)
 
@@ -47,6 +53,9 @@
 
 **89.** *Prob.* To find a third proportional to the two distances (fig. 37) :math:`Qp, MN`, of which the first is less than half the second.
 
+.. picture:: 0072.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book V § 88 (Fig. 37): Repeated Third Proportional
+
 .. picture:: 0072.g2.png
    :alt: Archival Fig. 37 (folio 0072, p. 47): Third proportional by doubling Q to Q' (§ 89)
 
@@ -54,6 +63,9 @@
 If this arc cuts the arc :math:`BAS` at two points :math:`B` and :math:`A`, determine the semicircumference :math:`BAS'` (§ 64). By the method of the same § 64, add to :math:`AS'` in a straight line an equal :math:`S'S`. Then :math:`AS` will be the required third proportional.
 
 *Dem.* We have (§ 22) :math:`AS' \cdot pQ' = (Ap)^2 = (MN)^2`. But :math:`pQ' = 2pQ`. Therefore :math:`2AS' \cdot pQ = (MN)^2`; that is, :math:`AS \cdot pQ = (MN)^2`. Hence (I.17) :math:`pQ : MN :: MN : AS`.
+
+.. picture:: 0072.g3.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book V § 90 (Fig. 38): Concentric Circle Construction
 
 .. picture:: 0072.g3.png
    :alt: Archival Fig. 38 (folio 0072, p. 47): Iterated doubling Q, Q', Q'' for small first term (§ 90)

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 430" width="540" height="430" class="euclid-graphic" data-graphic-id="0143.g1" data-folio="0143" data-graphic="g1">
+  <title>Mascheroni Book XI § 188 (Fig. 100): Seven-Hexagon Honeycomb Tessellation</title>
+  <style>
+    :root {
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
+      }
+    }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-seg-guide" d="M 280.00 225.00 L 236.70 225.00 L 193.40 225.00" data-ref="/ A v /" />
+  </g>
+  <g id="graphics">
+    <circle class="geom-arc-solid" cx="280.00" cy="225.00" r="132.29" data-ref="( A B )" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path class="geom-poly" d="M 323.30 200.00 L 280.00 175.00 L 236.70 200.00 L 236.70 250.00 L 280.00 275.00 L 323.30 250.00 Z" data-ref="&lt; hex 0 &gt;" />
+    <path class="geom-poly" d="M 409.90 200.00 L 366.60 175.00 L 323.30 200.00 L 323.30 250.00 L 366.60 275.00 L 409.90 250.00 Z" data-ref="&lt; hex 1 &gt;" />
+    <path class="geom-poly" d="M 366.60 125.00 L 323.30 100.00 L 280.00 125.00 L 280.00 175.00 L 323.30 200.00 L 366.60 175.00 Z" data-ref="&lt; hex 2 &gt;" />
+    <path class="geom-poly" d="M 280.00 125.00 L 236.70 100.00 L 193.40 125.00 L 193.40 175.00 L 236.70 200.00 L 280.00 175.00 Z" data-ref="&lt; hex 3 &gt;" />
+    <path class="geom-poly" d="M 236.70 200.00 L 193.40 175.00 L 150.10 200.00 L 150.10 250.00 L 193.40 275.00 L 236.70 250.00 Z" data-ref="&lt; hex 4 &gt;" />
+    <path class="geom-poly" d="M 280.00 275.00 L 236.70 250.00 L 193.40 275.00 L 193.40 325.00 L 236.70 350.00 L 280.00 325.00 Z" data-ref="&lt; hex 5 &gt;" />
+    <path class="geom-poly" d="M 366.60 275.00 L 323.30 250.00 L 280.00 275.00 L 280.00 325.00 L 323.30 350.00 L 366.60 325.00 Z" data-ref="&lt; hex 6 &gt;" />
+  </g>
+  <g id="points">
+    <circle class="geom-point-hl" cx="280.00" cy="225.00" r="4.6" data-ref="A" />
+  </g>
+  <g id="labels">
+    <text class="geom-label-hl" x="288.0" y="231.0" data-ref="A">A</text>
+    <text class="geom-caption" x="16" y="414">Book XI, § 188 (Fig. 100): Central regular hexagon surrounded by six congruent hexagons in circle (A)</text>
+  </g>
+</svg>

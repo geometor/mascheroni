@@ -26,6 +26,9 @@ but only that it may be seen that there can be no Problem of Elementary Geometry
 
 **72.** *Prob.* From the distance :math:`AB` to cut off a distance equal to :math:`CD` (fig. 24).
 
+.. picture:: 0065.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 71 (Fig. 24): Addition and Subtraction of Segments
+
 .. picture:: 0065.g1.png
    :alt: Archival Fig. 24 (folio 0065, p. 40): Collinear addition and subtraction of distances AB ± CD
 
@@ -47,6 +50,9 @@ Therefore angle :math:`EBG` is equal to :math:`EBA`. Hence point :math:`G` lies 
 But the sum of all these four angles is equal to four right angles (I.13). Therefore their half, for example :math:`EBH + EBA`, will be equal to two right angles, and hence :math:`HBA` will be a straight line (I.14). Moreover :math:`BH = CD`. Therefore :math:`AH = AB + CD`.
 
 **74.** *Prob.* Upon :math:`AB` from :math:`A` toward :math:`B` to lay off :math:`CD`, greater than :math:`AB` (fig. 25).
+
+.. picture:: 0066.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 73 (Fig. 25): Adding Segment CD along Line AB
 
 .. picture:: 0066.g1.png
    :alt: Archival Fig. 25 (folio 0066, p. 41): Laying off a larger distance CD along ray AB

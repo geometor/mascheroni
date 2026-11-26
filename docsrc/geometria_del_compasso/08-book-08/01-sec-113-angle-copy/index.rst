@@ -24,6 +24,9 @@
 *if one should then wish to draw a straight line through two of them* :math:`a, b`, *and another straight line through one of these two* :math:`b` *and through the third* :math:`c`, *one would have an angle* :math:`abc` *of the desired magnitude.*
 Although the angle :math:`abc` is not truly constructed until the straight lines :math:`ab, bc` have actually been drawn—for drawing which the compass alone cannot suffice—nevertheless for brevity we shall often use the first phrase, intending it to be equivalent in meaning to the second.
 
+.. picture:: 0088.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 113 (Fig. 51): Copying an Angle by Compass
+
 .. picture:: 0088.g1.png
    :alt: Archival Fig. 51 (folio 0088, p. 63): Copying an angle BAC given only by three points (§§ 113–115)
 
@@ -53,6 +56,9 @@ To quadruple it, one could also make :math:`BD = DF`.
 
 *Demonstration.* Since triangles :math:`BAC, CAD, DAE, EAF`, etc. have all their sides respectively equal, angles :math:`BAC, CAD, DAE, EAF`, etc. will be equal (I.8). Therefore, etc. Hence since angle :math:`BAD = DAF`, we shall also have :math:`BD = DF` (I.4).
 
+.. picture:: 0089.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 114 (Fig. 52): Angle Transfer on Concentric Arcs
+
 .. picture:: 0089.g1.png
    :alt: Archival Fig. 52 (folio 0089, p. 64): Doubling, tripling, and quadrupling a given angle (§ 116)
 
@@ -62,6 +68,9 @@ To quadruple it, one could also make :math:`BD = DF`.
 If :math:`BF` is less or greater than :math:`FE`, angle :math:`BAG` will be less or greater than half a right angle.
 
 *Demonstration.* Since angle :math:`BAF` is double angle :math:`BAG` (§ 116), if angle :math:`BAG` is half a right angle, :math:`BAF` will be right; hence :math:`BF = FE` (§ 83). Otherwise if :math:`BAG` is less or greater than half a
+
+.. picture:: 0089.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 115 (Fig. 53): Angle Addition on Semicircle
 
 .. picture:: 0089.g2.png
    :alt: Archival Fig. 53 (folio 0089, p. 64): Testing whether an angle BAG is half a right angle (§ 117)

@@ -66,6 +66,9 @@ and setting :math:`(PQ)^2 = 16`, we obtain the others from 16 down to 10.
 
 In the cited example we have :math:`(PQ)^2 - (AQ)^2 = 36 - 7 = (AP)^2 = 29`. Therefore :math:`AP = \sqrt{29}`.
 
+.. picture:: 0077.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VI § 102 (Fig. 44): Square Roots via Semicircle OLR
+
 .. picture:: 0077.g1.png
    :alt: Archival Fig. 44 (folio 0077, p. 52): Extending square roots from √11 through √36 by Pythagorean difference
 

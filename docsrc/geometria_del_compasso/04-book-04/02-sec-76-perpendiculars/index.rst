@@ -19,6 +19,9 @@
 
 **76.** *Prob.* Given the two points :math:`A` and :math:`B`, to find a point :math:`H` such that the straight line :math:`BH` is perpendicular to :math:`AB` at :math:`B` and equal to a given distance :math:`CD` (fig. 26).
 
+.. picture:: 0067.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 76 (Fig. 26): Erecting a Perpendicular at Endpoint B
+
 .. picture:: 0067.g1.png
    :alt: Archival Fig. 26 (folio 0067, p. 42): Erecting a perpendicular at endpoint B via semicircle doubling
 
@@ -38,6 +41,9 @@ If :math:`AB` should be too much less than :math:`CD`, double or triple it, etc.
    :page: 43
 
 with it and with the two centers :math:`A` and :math:`B`, describe two arcs intersecting at :math:`C`. With this same radius and center :math:`C`, describe the semicircumference :math:`BAD` (§ 64). Then :math:`D` will be the point sought.
+
+.. picture:: 0068.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 77 (Fig. 27): Perpendicular via Circular Arc DAB
 
 .. picture:: 0068.g1.png
    :alt: Archival Fig. 27 (folio 0068, p. 43): Perpendicular of prescribed length at an endpoint

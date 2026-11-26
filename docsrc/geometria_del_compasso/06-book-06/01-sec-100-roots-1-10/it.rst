@@ -71,6 +71,9 @@ Posto :math:`(PQ)^2 = 25`, si avranno collo stesso metodo le radici dal 25 in gi
 
 Nell'esempio addotto si avrà :math:`(PQ)^2 - (AQ)^2 = 36 - 7 = (AP)^2 = 29`. Quindi :math:`AP = \sqrt{29}`.
 
+.. picture:: 0077.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VI § 102 (Fig. 44): Square Roots via Semicircle OLR
+
 .. picture:: 0077.g1.png
    :alt: Archival Fig. 44 (folio 0077, p. 52): Extending square roots from √11 through √36 by Pythagorean difference
 

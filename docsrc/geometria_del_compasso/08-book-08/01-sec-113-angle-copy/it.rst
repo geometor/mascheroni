@@ -24,6 +24,9 @@
 *trovare col compasso tre punti* :math:`a, b, c`; *ovvero dato alcuno di essi, trovare gli altri in guisa che volendo poi guidare per due di essi* :math:`a, b` *una retta, e per uno di essi due* :math:`b` *e pel terzo* :math:`c` *un'altra retta; si abbia un angolo* :math:`abc` *della quantità che si vuole.*
 Benchè l'angolo :math:`abc` non sia veramente costrutto, se non quando si sono guidate attualmente le rette :math:`ab, bc`, per tirare le quali non può bastare il compasso solo; non ostante per brevità adopreremo spesso la prima frase, intendendo, che equivalga nel sentimento alla seconda.
 
+.. picture:: 0088.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 113 (Fig. 51): Copying an Angle by Compass
+
 .. picture:: 0088.g1.png
    :alt: Archival Fig. 51 (folio 0088, p. 63): Copying an angle BAC given only by three points (§§ 113–115)
 
@@ -52,6 +55,9 @@ Per quadruplicarlo si poteva ancora fare a :math:`BD = DF`.
 
 *Dim.* Avendo i triangoli :math:`BAC, CAD, DAE, EAF`, ecc. tutti i lati rispettivamente eguali, saranno eguali gli angoli :math:`BAC, CAD, DAE, EAF`, ecc. (8, lib. I). Dunque ecc. Quindi essendo l'angolo :math:`BAD = DAF`, sarà anche :math:`BD = DF` (4, lib. I).
 
+.. picture:: 0089.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 114 (Fig. 52): Angle Transfer on Concentric Arcs
+
 .. picture:: 0089.g1.png
    :alt: Archival Fig. 52 (folio 0089, p. 64): Doubling, tripling, and quadrupling a given angle (§ 116)
 
@@ -61,6 +67,9 @@ Per quadruplicarlo si poteva ancora fare a :math:`BD = DF`.
 Se sarà :math:`BF` minore o maggiore di :math:`FE`; l'angolo :math:`BAG` sarà minore o maggiore di un semiretto.
 
 *Dim.* Poichè l'angolo :math:`BAF` è duplo dell'angolo :math:`BAG` (§ 116); se l'angolo :math:`BAG` è semiretto, sarà retto :math:`BAF`; quindi :math:`BF = FE` (§ 83). Altrimenti se :math:`BAG` è minore o maggiore di un semi-
+
+.. picture:: 0089.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VIII § 115 (Fig. 53): Angle Addition on Semicircle
 
 .. picture:: 0089.g2.png
    :alt: Archival Fig. 53 (folio 0089, p. 64): Testing whether an angle BAG is half a right angle (§ 117)

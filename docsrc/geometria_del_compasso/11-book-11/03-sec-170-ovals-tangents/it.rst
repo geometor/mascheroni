@@ -51,6 +51,9 @@ Col centro :math:`B`, e col raggio :math:`BD` si tagli l'asse :math:`BA` in :mat
 Con un raggio arbitrario, e coi centri :math:`d` ed :math:`e` si tagli l'arco :math:`BDE` in :math:`\delta` ed :math:`\varepsilon`. Col raggio :math:`\delta\varepsilon`, e col centro :math:`A` si tagli l'asse :math:`BE` in :math:`P` e :math:`Q`. Coi centri :math:`P` e :math:`Q`, e col raggio :math:`PB = QE` si descrivano gli archi :math:`FBf, GEg`,
 e si faccia a :math:`PB = BF = Bf = EG = Eg`. Quindi si faccia a :math:`PQ = PR = Pr = QR = Qr`. Quindi col centro :math:`R`, e col raggio :math:`RF` si descriva l'arco :math:`FG`, che passerà per :math:`M`. Collo stesso raggio :math:`RF = rf`, e col centro :math:`r` si descriva l'arco :math:`fg`, che passerà per :math:`N`, e sarà fatto quanto volevasi.
 
+.. picture:: 0126.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 170 (Fig. 86): Ellipse Construction by Compass
+
 .. picture:: 0126.g1.png
    :alt: Archival Fig. 86 (folio 0126, p. 101): Four-center basket-handle oval constructed on prescribed axes (§ 172)
 
@@ -84,6 +87,9 @@ Sulla semicirconferenza si notino i punti :math:`H, I, K`, facendo alla stessa :
 Col raggio :math:`AP`, e coi centri :math:`E` ed :math:`H` si segnino due archi, che si taglino in :math:`L` ed :math:`M`. Sarà :math:`LM = \sqrt{\sqrt{2}}`.
 
 Col raggio :math:`AB`, e coi centri :math:`a` e :math:`K` si segnino due archi, che si taglino in :math:`Q` ed :math:`R`. Sarà :math:`QR = \sqrt{\sqrt{3}}`.
+
+.. picture:: 0128.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 174 (Fig. 88): Tangent to an Arc at a Given Point
 
 .. picture:: 0128.g1.png
    :alt: Archival Fig. 88 (folio 0128, p. 103): Tangent-arc curve and curvature transition

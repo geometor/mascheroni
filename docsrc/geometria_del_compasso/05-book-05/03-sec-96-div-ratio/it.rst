@@ -21,6 +21,9 @@
 *Sol.* Alla :math:`PQ` si aggiunga in linea retta la :math:`QV` eguale alla :math:`RS` (§ 73).
 Alle tre :math:`PV, MN, PQ` si trovi la quarta proporzionale (§ 93), la quale si collochi sulla :math:`MN` in :math:`MP`, il che si fa sottraendola dalla :math:`MN` (§ 72). Sarà fatto.
 
+.. picture:: 0074.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book V § 96 (Fig. 40): Dividing a Segment in a Given Ratio
+
 .. picture:: 0074.g1.png
    :alt: Archival Fig. 40 (folio 0074, p. 49): Dividing segment PQ in the ratio MP : PN
 

@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 430" width="520" height="430" class="euclid-graphic" data-graphic-id="0138.g1" data-folio="0138" data-graphic="g1">
+  <title>Mascheroni Book XI § 186 (Fig. 96): Five-Square Greek Cross Tessellation</title>
+  <style>
+    :root {
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
+      }
+    }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-arc" d="M 514.30 233.88 A 185.00 185.00 0 0 0 387.17 74.05" data-ref="( a P )" />
+  </g>
+  <g id="graphics">
+    <circle class="geom-arc-solid" cx="260.00" cy="225.00" r="110.68" data-ref="( A B )" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path class="geom-seg-hl" d="M 155.00 190.00 L 260.00 190.00 L 365.00 190.00" data-ref="/ B m /" />
+    <path class="geom-seg-hl" d="M 155.00 260.00 L 260.00 260.00 L 365.00 260.00" data-ref="/ q E /" />
+    <path class="geom-seg-hl" d="M 225.00 120.00 L 225.00 225.00 L 225.00 330.00" data-ref="/ l f /" />
+    <path class="geom-seg-hl" d="M 295.00 120.00 L 295.00 225.00 L 295.00 330.00" data-ref="/ F n /" />
+    <path class="geom-seg-hl" d="M 225.00 120.00 L 260.00 120.00 L 295.00 120.00" data-ref="/ l F /" />
+    <path class="geom-seg-hl" d="M 225.00 330.00 L 260.00 330.00 L 295.00 330.00" data-ref="/ f n /" />
+    <path class="geom-seg-hl" d="M 155.00 190.00 L 155.00 225.00 L 155.00 260.00" data-ref="/ B q /" />
+    <path class="geom-seg-hl" d="M 365.00 190.00 L 365.00 225.00 L 365.00 260.00" data-ref="/ m E /" />
+  </g>
+  <g id="points">
+    <circle class="geom-point" cx="260.00" cy="225.00" r="3.8" data-ref="A" />
+    <circle class="geom-point" cx="225.00" cy="190.00" r="3.8" data-ref="L" />
+    <circle class="geom-point" cx="295.00" cy="190.00" r="3.8" data-ref="M" />
+    <circle class="geom-point" cx="295.00" cy="260.00" r="3.8" data-ref="N" />
+    <circle class="geom-point" cx="225.00" cy="260.00" r="3.8" data-ref="Q" />
+    <circle class="geom-point-hl" cx="155.00" cy="190.00" r="4.6" data-ref="B" />
+    <circle class="geom-point-hl" cx="365.00" cy="260.00" r="4.6" data-ref="E" />
+    <circle class="geom-point-hl" cx="295.00" cy="120.00" r="4.6" data-ref="F" />
+    <circle class="geom-point-hl" cx="225.00" cy="120.00" r="4.6" data-ref="l" />
+    <circle class="geom-point-hl" cx="365.00" cy="190.00" r="4.6" data-ref="m" />
+    <circle class="geom-point-hl" cx="295.00" cy="330.00" r="4.6" data-ref="n" />
+    <circle class="geom-point-hl" cx="225.00" cy="330.00" r="4.6" data-ref="f" />
+    <circle class="geom-point-hl" cx="155.00" cy="260.00" r="4.6" data-ref="q" />
+  </g>
+  <g id="labels">
+    <text class="geom-label" x="242.0" y="219.0" data-ref="A">A</text>
+    <text class="geom-label" x="209.0" y="180.0" data-ref="L">L</text>
+    <text class="geom-label" x="303.0" y="180.0" data-ref="M">M</text>
+    <text class="geom-label" x="303.0" y="278.0" data-ref="N">N</text>
+    <text class="geom-label" x="207.0" y="278.0" data-ref="Q">Q</text>
+    <text class="geom-label-hl" x="133.0" y="194.0" data-ref="B">B</text>
+    <text class="geom-label-hl" x="375.0" y="274.0" data-ref="E">E</text>
+    <text class="geom-label-hl" x="301.0" y="108.0" data-ref="F">F</text>
+    <text class="geom-label-hl" x="211.0" y="108.0" data-ref="l">l</text>
+    <text class="geom-label-hl" x="375.0" y="186.0" data-ref="m">m</text>
+    <text class="geom-label-hl" x="301.0" y="350.0" data-ref="n">n</text>
+    <text class="geom-label-hl" x="213.0" y="350.0" data-ref="f">f</text>
+    <text class="geom-label-hl" x="135.0" y="274.0" data-ref="q">q</text>
+    <text class="geom-caption" x="16" y="414">Book XI, § 186 (Fig. 96): Five congruent squares (Greek cross) inscribed in circle (A, B)</text>
+  </g>
+</svg>

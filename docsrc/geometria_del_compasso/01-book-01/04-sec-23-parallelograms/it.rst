@@ -26,6 +26,9 @@ Si ha poi :math:`AB \cdot AE + AB \cdot BE = (AB)^2` (2, lib. II). Quindi ad :ma
 **24.** *Lemma.* Se nel cerchio :math:`B\mu G` al raggio :math:`AB` si alzi nel centro :math:`A` la normale :math:`Ae` eguale alla corda :math:`BG` dell'arco :math:`B\mu G`;
 e fatto centro in :math:`e` col raggio :math:`AB` si descriva un arco, che tagli la circonferenza in :math:`\mu`; sarà l'arco :math:`B\mu` eguale alla metà dell'arco :math:`B\mu G`.
 
+.. picture:: 0046.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book I § 23 (Fig. 6): Arc Locus and Parallelogram Relation
+
 .. picture:: 0046.g2.png
    :alt: Archival Fig. 6 (folio 0046, p. 17): Halving a circular arc with compass alone
 
@@ -39,6 +42,9 @@ quindi :math:`\mu M` normale alla :math:`Ae` (13, lib. I), e quindi parallela al
 **25.** Se nel parallelogrammo :math:`ABMN` sarà la diagonale :math:`MA` eguale ai lati opposti :math:`MB`, :math:`AN`;
 sarà il quadrato dell'altra diagonale :math:`BN` eguale al quadrato della prima aggiuntivi i due quadrati degli altri due lati.
 
+.. picture:: 0047.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book I § 25 (Fig. 7): Parallelogram BMNA and Projections
+
 .. picture:: 0047.g1.png
    :alt: Archival Fig. 7 (folio 0047, p. 18): Parallelogram diagonal sum of squares
 
@@ -47,6 +53,9 @@ Quindi :math:`(BN)^2 = (AB)^2 + (AN)^2 + 2AB \cdot An` (12, lib. II). Ma :math:`
 
 **26.** Se in qualunque triangolo :math:`BPE` si tagli in due egualmente la base :math:`BE` in :math:`A`, e dall'angolo opposto :math:`P` si guidi la :math:`PA` (fig. 8);
 sarà la somma de' quadrati dei lati :math:`BP` e :math:`PE` eguale alla somma de' quadrati eguali dei due segmenti, aggiuntovi il doppio quadrato della :math:`AP`.
+
+.. picture:: 0047.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book I § 26 (Fig. 8): Triangle Metric Relation about Altitude PR
 
 .. picture:: 0047.g2.png
    :alt: Archival Fig. 8 (folio 0047, p. 18): Apollonius median identity

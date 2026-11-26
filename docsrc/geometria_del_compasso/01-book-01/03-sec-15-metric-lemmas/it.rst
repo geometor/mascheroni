@@ -55,6 +55,9 @@ termini eguali :math:`(AQ)^2`, :math:`(pQ)^2`, e aggiungendo d'ambe le parti :ma
 
 **20.** *Lemma.* Stanti le stesse cose (§ 13), se sia retto l'angolo :math:`RpQ`; sia poi l'angolo :math:`RpS = RpA`; e :math:`pS = pR = pA`; sarà :math:`AS` parallela ed eguale alla :math:`Pp`: e sarà :math:`(AQ)^2 = (RQ)^2 - AS \cdot pQ`.
 
+.. picture:: 0045.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book I § 15 (Fig. 4): Metric Relations on Perpendiculars
+
 .. picture:: 0045.g1.png
    :alt: Archival Fig. 3 (folio 0045, p. 16): Collinear cevian and Stewart-type distance identity
 
@@ -85,6 +88,9 @@ Sarà poi l'angolo :math:`ApB`, che è la somma dei due, eguale anche alla somma
 tra loro per essere isoscele il triangolo :math:`ApS` (5, lib. I);
 sarà ciascuno d'essi eguale all'angolo :math:`ApQ = pAQ` (5, lib. I). Sarà dunque il triangolo :math:`pAS` simile al triangolo :math:`QpA` (32, lib. I, 4, lib. VI);
 e quindi :math:`pQ : Ap :: Ap : AS`, e :math:`AS \cdot pQ = (Ap)^2` (17, lib. VI).
+
+.. picture:: 0046.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book I § 21 (Fig. 5): Metric Lemma on Quadrilateral ABCD
 
 .. picture:: 0046.g1.png
    :alt: Archival Fig. 4 (folio 0046, p. 17): Isosceles secant-chord proportion

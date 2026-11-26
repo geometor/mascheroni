@@ -21,6 +21,9 @@
 *Sol.* On :math:`AB` add to it :math:`CD` from :math:`B` to :math:`H` (§ 73). Divide :math:`AH` in half at :math:`f` (§ 66).
 To :math:`Bf` add in a straight line the equal :math:`BF` (§ 64). With centers :math:`F, f`, and with radius :math:`fA`, describe two circles intersecting at :math:`M`. Then :math:`BM` will be the mean proportional.
 
+.. picture:: 0075.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book V § 99 (Fig. 42): Mean Proportional by Compass
+
 .. picture:: 0075.g2.png
    :alt: Archival Fig. 42 (folio 0075, p. 50): Mean proportional BM = sqrt(AB · CD)
 

@@ -23,6 +23,9 @@
 *Solution.* Make :math:`AB = Ba`, :math:`DA = Da` (§ 11). Transfer onto scale :math:`LS` the distances :math:`Aa` and :math:`BD` taken with the compass,
 and suppose them to be, for example, :math:`Aa = 7`, :math:`BD = 8`. Multiply these two numbers together, and take the fourth part of the product :math:`= 14`. This number will express the area of triangle :math:`ABD`.
 
+.. picture:: 0111.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 152 (Fig. 76): Trigonometric Scale & Triangle Solution
+
 .. picture:: 0111.g2.png
    :alt: Archival Fig. 76 (folio 0111, p. 86): Opening trigonometric circle figure of Book XI (§ 151)
 
@@ -39,6 +42,9 @@ Likewise the area of triangle :math:`BCD` equals one-fourth the product of :math
 **153.** *Problem. Given the triangular planes (fig. 77) bounding a tetrahedral pyramid, to find in its base the point where the perpendicular from the vertex falls, and to find its altitude.*
 
 *Solution.* Let triangle :math:`ABC` be the base of this tetrahedral pyramid, and let :math:`AEC`, :math:`BDC`, :math:`AFB` be the triangular planes meeting at its vertex.
+
+.. picture:: 0112.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 155 (Fig. 77): Dihedral & Spherical Angle Construction
 
 .. picture:: 0112.g1.png
    :alt: Archival Fig. 77 (folio 0112, p. 87): Sine and cosine sum/difference diagram (§§ 154–155)
@@ -58,6 +64,9 @@ But in Figure 77, in which points :math:`D` and :math:`E` represent point :math:
 
 Moreover, since the two triangles :math:`CPS` (fig. 78), :math:`CpE` (fig. 77) are right-angled at :math:`P` and :math:`p`, the first by supposition and the second by 31, Book III, and since :math:`CS` is the same as :math:`CE` and :math:`CP = Cp`, we shall also have :math:`PS = pE`.
 For (Fig. 78) :math:`(CS)^2 - (CP)^2 = (PS)^2` (47, Book I). Equally (Fig. 77) :math:`(CE)^2 - (Cp)^2 = (pE)^2`. But :math:`(CS)^2 - (CP)^2 = (CE)^2 - (Cp)^2`. Therefore :math:`(PS)^2 = (pE)^2`. Hence :math:`PS = pE`. Thus :math:`pE` is the altitude of the pyramid.
+
+.. picture:: 0113.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 158 (Fig. 78): Tetrahedral Altitude & Spherical Triangle
 
 .. picture:: 0113.g1.png
    :alt: Archival Fig. 78 (folio 0113, p. 88): Half-angle and chord conversion lemmas (§§ 156–160)

@@ -22,5 +22,8 @@
 
 *Dim.* Essendo nella stessa distanza dai due punti :math:`P` e :math:`Q` i tre punti :math:`A, m` ed :math:`L`, saranno nella stessa retta (§ 13). Ma nella retta :math:`mA` si trova anche il punto :math:`n` estremo del diametro :math:`mn` (15, lib. IV). Dunque ecc.
 
+.. picture:: 0086.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VII § 111 (Fig. 48): Diametral Line–Circle Intersection
+
 .. picture:: 0086.g2.png
    :alt: Archival Fig. 48 (folio 0086, p. 61): Intersecting a circle with a virtual line passing through its center
