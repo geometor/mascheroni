@@ -46,6 +46,9 @@ Reasoning by the same method, we shall have :math:`(QE)^2 + (QB)^2 = 2(AB)^2 + 2
 
 *Sol. III.* With center :math:`A` and radius :math:`AB` having described the semicircumference :math:`BCDE` (§ 64) (fig. 19), with the same radius :math:`AB` and centers :math:`B` and :math:`E` having described the indefinite arcs :math:`CP, Dp`, and with the same centers :math:`B` and :math:`E` and radius :math:`BE` the arcs :math:`Epqr, BPQR`, point :math:`M` can be found by making :math:`PM = PB` and :math:`EM = Pp` (Sol. II, § 66).
 
+.. picture:: 0060.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book III § 67 (Fig. 19): Binary Subdivision of a Segment
+
 .. picture:: 0060.g1.png
    :alt: Archival Fig. 19 (folio 0060, p. 35): Repeated binary subdivision into 2^k equal parts
 

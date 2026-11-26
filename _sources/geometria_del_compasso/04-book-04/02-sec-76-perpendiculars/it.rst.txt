@@ -19,6 +19,9 @@
 
 **76.** *Prob.* Dati i due punti :math:`A` e :math:`B`; trovare un punto :math:`H` tale, che la retta :math:`BH` sia perpendicolare alla :math:`AB` in :math:`B` ed eguale ad una data :math:`CD` (fig. 26).
 
+.. picture:: 0067.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 76 (Fig. 26): Erecting a Perpendicular at Endpoint B
+
 .. picture:: 0067.g1.png
    :alt: Archival Fig. 26 (folio 0067, p. 42): Erecting a perpendicular at endpoint B via semicircle doubling
 
@@ -38,6 +41,9 @@ Se la :math:`AB` fosse troppo minore della :math:`CD`; si duplichi, o si triplic
    :page: 43
 
 con esso, e coi due centri :math:`A` e :math:`B` si descrivano due archi, che si taglino in :math:`C`. Con questo stesso raggio, e col centro :math:`C` si descriva la semicirconferenza :math:`BAD` (§ 64). Sarà :math:`D` il punto cercato.
+
+.. picture:: 0068.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 77 (Fig. 27): Perpendicular via Circular Arc DAB
 
 .. picture:: 0068.g1.png
    :alt: Archival Fig. 27 (folio 0068, p. 43): Perpendicular of prescribed length at an endpoint

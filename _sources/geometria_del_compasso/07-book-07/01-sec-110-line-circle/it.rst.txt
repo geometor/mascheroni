@@ -41,5 +41,8 @@ Se il cerchio :math:`EFG` descritto col raggio :math:`AB` (fig. 47) e col centro
 divisa per metà la :math:`CF` in :math:`m`; sarà :math:`Vm = mA`. Dunque la :math:`LM` taglierà perpendicolarmente la :math:`VA` in :math:`m` (§ 14) fuori del cerchio :math:`BCD`. Se si piglia un qualunque altro punto :math:`P` nella retta :math:`LM`;
 nel triangolo rettangolo :math:`PmA` si avrà il lato :math:`PA` maggiore di :math:`mA`, perchè opposto ad un angolo maggiore (32 e 18, lib. I). Sarà dunque molto più fuori del circolo il punto :math:`P` del punto :math:`m`. Dunque in nessun punto la retta :math:`LM` taglierà il circolo :math:`BCD`.
 
+.. picture:: 0086.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book VII § 110 (Fig. 47): Line–Circle Intersection (Reflected Circle)
+
 .. picture:: 0086.g1.png
    :alt: Archival Fig. 47 (folio 0086, p. 61): Auxiliary configuration for non-diametral line–circle intersection

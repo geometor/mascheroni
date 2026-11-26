@@ -21,6 +21,9 @@
 *Sol.* Sulla :math:`AB` si aggiunga ad essa la :math:`CD` da :math:`B` in :math:`H` (§ 73). Si divida per metà la :math:`AH` in :math:`f` (§ 66).
 Alla :math:`Bf` si aggiunga in linea retta l'eguale :math:`BF` (§ 64). Coi centri :math:`F, f`, e col raggio :math:`fA` si descrivano due cerchj, che si taglino in :math:`M`. Sarà :math:`BM` la media proporzionale.
 
+.. picture:: 0075.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book V § 99 (Fig. 42): Mean Proportional by Compass
+
 .. picture:: 0075.g2.png
    :alt: Archival Fig. 42 (folio 0075, p. 50): Mean proportional BM = sqrt(AB · CD)
 

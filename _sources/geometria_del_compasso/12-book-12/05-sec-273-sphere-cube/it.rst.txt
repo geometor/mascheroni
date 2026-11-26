@@ -29,6 +29,9 @@ Col centro :math:`B`, raggio :math:`BD` si segni l'arco :math:`aDNd`. Collo stes
 *Dim.* Poichè sarà (§ 272) :math:`CN` corda di :math:`92^\circ 26' \frac{804}{2013}`. Sarà poi :math:`GC = 15^\circ` (§ 32). Quindi :math:`PG = 107^\circ 26' \frac{804}{2013}`, del quale arco la corda si trova essere eguale a :math:`1{,}6122696`, supponendo :math:`AB = 1`.
 Ora nella stessa supposizione, e supposto il rapporto della circonferenza al diametro :math:`= \pi`; si ha la solidità della sfera :math:`= \frac{4}{3}\pi`, e il suo logaritmo :math:`= \log 4 + \log \pi - \log 3 = 0{,}6220886`, il di cui terzo :math:`0{,}2073628` si trova essere logaritmo di :math:`1{,}611991`. Laonde l'errore che si commette, non arriva a :math:`0{,}0003`.
 
+.. picture:: 0172.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 273 (Fig. 105): Sphere and Cube Inscribed Relation
+
 .. picture:: 0172.g1.png
    :alt: Archival Fig. 105 (folio 0172, p. 147): Edge of a cube equal in volume to a given sphere (§ 273)
 
@@ -36,6 +39,9 @@ Ora nella stessa supposizione, e supposto il rapporto della circonferenza al dia
 
 *Sol.* Col raggio :math:`AB`, centro :math:`A` si descriva la circonferenza :math:`BLCMFDE`. Si faccia ad :math:`AB = BC = CD = DE`.
 Quindi a :math:`BD = Ba = Ea`; quindi ad :math:`Aa = BF`; quindi ad :math:`Fa = FM`, ad :math:`FA = FL`. Sarà :math:`LM` il raggio cercato.
+
+.. picture:: 0172.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 274 (Fig. 105): Cube-Sphere Arc Construction
 
 .. picture:: 0172.g2.png
    :alt: Archival Fig. 106 (folio 0172, p. 147): Radius of a sphere equal in volume to a given cube (§ 274)
@@ -62,6 +68,9 @@ quindi ad :math:`Aa = BF`; quindi ad :math:`FA = FN`; sarà :math:`aN` prossimam
 
 *Dim.* Sarà l'arco :math:`BN` una duodecima della circonferenza (§ 31) :math:`= 30^\circ`. Se s'introduce quest'arco :math:`BN = A` nell'equazione (1); l'arco :math:`A'`, del quale è corda la :math:`aN`, risulterà :math:`= 78^\circ 2' \frac{2358}{2846}`.
 Si ha dunque (posto :math:`AB = 1`) :math:`aN = 2\operatorname{sen} 39^\circ 1' \frac{1179}{2846} = 1{,}2592800`. Si ha poi :math:`\sqrt[3]{2} = 1{,}2599209`. Non commette dunque un difetto di :math:`0{,}0007`.
+
+.. picture:: 0173.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 276 (Fig. 107): Sphere and Equal-Volume Cube
 
 .. picture:: 0173.g1.png
    :alt: Archival Fig. 107 (folio 0173, p. 148): Duplication of the cube ∛2 to two millionths accuracy (§ 276)
@@ -99,6 +108,9 @@ Si faccia ad :math:`Aa = BF`; quindi ad :math:`AB = FO = aG = GL`; quindi ad :ma
      - lato del cubo settuplo
    * - :math:`BE`
      - lato del cubo ottuplo.
+
+.. picture:: 0174.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 278 (Fig. 108): Compound Arc Intersection for Solid Problems
 
 .. picture:: 0174.g1.png
    :alt: Archival Fig. 108 (folio 0174, p. 149): Unified figure for cube roots ∛2 through ∛8 (§ 277)

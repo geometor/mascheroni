@@ -51,6 +51,9 @@ as if in the figure of § 11 I should name the straight line :math:`AB`, or :mat
 
 **13.** *Lemma.* If with the two centers :math:`A` and :math:`B`, and with radii :math:`AP` and :math:`AQ`, arcs are described which cut each other at :math:`P` and :math:`p`; :math:`Q` and :math:`q`; the points :math:`Q, P, p, q` will lie on the same straight line (fig. 3).
 
+.. picture:: 0043.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book I § 6 (Fig. 3): Symmetric Loci on Perpendicular Bisector
+
 .. picture:: 0043.g1.png
    :alt: Archival Fig. 2 (folio 0043, p. 14): Equidistant symmetry and perpendicular bisector criterion
 

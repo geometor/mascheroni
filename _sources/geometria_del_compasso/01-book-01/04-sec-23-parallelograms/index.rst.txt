@@ -25,6 +25,9 @@ Hence substituting :math:`(AD)^2` for :math:`AB \cdot AE`, and :math:`DC` for :m
 
 **24.** *Lemma.* If in the circle :math:`B\mu G` with radius :math:`AB` we erect at the center :math:`A` the perpendicular :math:`Ae` equal to the chord :math:`BG` of the arc :math:`B\mu G`; and with center :math:`e` and radius :math:`AB` we describe an arc cutting the circumference at :math:`\mu`; the arc :math:`B\mu` will be equal to half of the arc :math:`B\mu G`.
 
+.. picture:: 0046.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book I § 23 (Fig. 6): Arc Locus and Parallelogram Relation
+
 .. picture:: 0046.g2.png
    :alt: Archival Fig. 6 (folio 0046, p. 17): Halving a circular arc with compass alone
 
@@ -36,6 +39,9 @@ therefore :math:`\mu M` is perpendicular to :math:`Ae` (I.13), and hence paralle
 
 **25.** If in the parallelogram :math:`ABMN` the diagonal :math:`MA` be equal to the opposite sides :math:`MB`, :math:`AN`; the square on the other diagonal :math:`BN` will be equal to the square on the first increased by the two squares on the other two sides.
 
+.. picture:: 0047.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book I § 25 (Fig. 7): Parallelogram BMNA and Projections
+
 .. picture:: 0047.g1.png
    :alt: Archival Fig. 7 (folio 0047, p. 18): Parallelogram diagonal sum of squares
 
@@ -43,6 +49,9 @@ therefore :math:`\mu M` is perpendicular to :math:`Ae` (I.13), and hence paralle
 Therefore :math:`(BN)^2 = (AB)^2 + (AN)^2 + 2AB \cdot An` (II.12). But :math:`An = \frac{1}{2} AB`. Therefore :math:`(NB)^2 = (AN)^2 + 2(AB)^2 = (AN)^2 + (AB)^2 + (MN)^2`.
 
 **26.** If in any triangle :math:`BPE` the base :math:`BE` be cut into two equal parts at :math:`A`, and from the opposite angle :math:`P` the straight line :math:`PA` be drawn (fig. 8); the sum of the squares on the sides :math:`BP` and :math:`PE` will be equal to the sum of the equal squares on the two segments, increased by twice the square on :math:`AP`.
+
+.. picture:: 0047.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book I § 26 (Fig. 8): Triangle Metric Relation about Altitude PR
 
 .. picture:: 0047.g2.png
    :alt: Archival Fig. 8 (folio 0047, p. 18): Apollonius median identity

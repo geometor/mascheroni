@@ -55,6 +55,9 @@ Ciò faremo quando non vi sarà pericolo d'oscurità, per conservar nitida la fi
 
 **13.** *Lemma.* Se co' due centri :math:`A`, e :math:`B`, e co' raggi :math:`AP` ed :math:`AQ` si descrivano degli archi, che si taglino in :math:`P` e :math:`p`; :math:`Q` e :math:`q`; i punti :math:`Q, P, p, q` saranno nella stessa retta (fig. 3).
 
+.. picture:: 0043.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book I § 6 (Fig. 3): Symmetric Loci on Perpendicular Bisector
+
 .. picture:: 0043.g1.png
    :alt: Archival Fig. 2 (folio 0043, p. 14): Equidistant symmetry and perpendicular bisector criterion
 

@@ -51,6 +51,9 @@ Quindi pure :math:`\frac{9}{4}(AB)^2 = (AQ)^2 = (ER)^2 = EO \cdot EB = 2\,AB \cd
 *Sol. III.* Col centro :math:`A`, raggio :math:`AB` descritta la semicirconferenza :math:`BCDE` (§ 64) (fig. 19),
 collo stesso raggio :math:`AB`, e coi centri :math:`B` ed :math:`E` descritti gli archi :math:`CP, Dp` indefiniti; cogli stessi centri :math:`B` ed :math:`E`, e col raggio :math:`BE` descritti gli archi :math:`Epqr, BPQR`; si sarà potuto trovare il punto :math:`M` col fare :math:`PM = PB`; :math:`EM = Pp` (Soluz. II, § 66).
 
+.. picture:: 0060.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book III § 67 (Fig. 19): Binary Subdivision of a Segment
+
 .. picture:: 0060.g1.png
    :alt: Archival Fig. 19 (folio 0060, p. 35): Repeated binary subdivision into 2^k equal parts
 

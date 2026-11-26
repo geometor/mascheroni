@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 410" width="540" height="410" class="euclid-graphic" data-graphic-id="0109.g1" data-folio="0109" data-graphic="g1">
+  <title>Mascheroni Book X § 147 (Fig. 73): Center of Square</title>
+  <style>
+    :root {
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
+      }
+    }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-seg-guide" d="M 315.00 210.00 L 298.68 254.85 L 282.35 299.70" data-ref="/ O M /" />
+  </g>
+  <g id="graphics">
+    <circle class="geom-arc-solid" cx="315.00" cy="210.00" r="135.00" data-ref="( O A )" />
+    <circle class="geom-arc-solid" cx="315.00" cy="210.00" r="95.46" data-ref="( O M )" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path class="geom-seg-hl" d="M 192.65 267.05 L 282.35 299.70 L 372.05 332.35" data-ref="/ A B /" marker-mid="url(#geom-tick-1)" />
+    <path class="geom-seg-hl" d="M 372.05 332.35 L 404.70 242.65 L 437.35 152.95" data-ref="/ B R /" marker-mid="url(#geom-tick-1)" />
+    <path class="geom-seg-hl" d="M 437.35 152.95 L 347.65 120.30 L 257.95 87.65" data-ref="/ R P /" marker-mid="url(#geom-tick-1)" />
+    <path class="geom-seg-hl" d="M 257.95 87.65 L 225.30 177.35 L 192.65 267.05" data-ref="/ P A /" marker-mid="url(#geom-tick-1)" />
+  </g>
+  <g id="points">
+    <circle class="geom-point-hl" cx="315.00" cy="210.00" r="4.6" data-ref="O" />
+    <circle class="geom-point" cx="188.14" cy="163.83" r="3.8" data-ref="Q" />
+    <circle class="geom-point" cx="282.35" cy="299.70" r="3.8" data-ref="M" />
+    <circle class="geom-point" cx="110.00" cy="175.00" r="3.8" data-ref="E" />
+    <circle class="geom-point" cx="165.00" cy="340.00" r="3.8" data-ref="q" />
+    <circle class="geom-point" cx="192.65" cy="267.05" r="3.8" data-ref="A" />
+    <circle class="geom-point" cx="372.05" cy="332.35" r="3.8" data-ref="B" />
+    <circle class="geom-point" cx="437.35" cy="152.95" r="3.8" data-ref="R" />
+    <circle class="geom-point" cx="257.95" cy="87.65" r="3.8" data-ref="P" />
+  </g>
+  <g id="labels">
+    <text class="geom-label-hl" x="309.0" y="196.0" data-ref="O">O</text>
+    <text class="geom-label" x="166.1" y="159.8" data-ref="Q">Q</text>
+    <text class="geom-label" x="290.4" y="291.7" data-ref="M">M</text>
+    <text class="geom-label" x="90.0" y="181.0" data-ref="E">E</text>
+    <text class="geom-label" x="149.0" y="346.0" data-ref="q">q</text>
+    <text class="geom-label" x="170.6" y="279.1" data-ref="A">A</text>
+    <text class="geom-label" x="382.1" y="348.4" data-ref="B">B</text>
+    <text class="geom-label" x="447.4" y="146.9" data-ref="R">R</text>
+    <text class="geom-label" x="251.9" y="73.6" data-ref="P">P</text>
+    <text class="geom-caption" x="16" y="394">Book X, § 147 (Fig. 73): Center O, circumcircle, and incircle of square ABRP</text>
+  </g>
+</svg>

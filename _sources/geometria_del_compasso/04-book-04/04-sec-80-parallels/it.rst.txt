@@ -36,6 +36,9 @@ l'angolo :math:`DCB` è eguale all'angolo :math:`CBA` (8, lib. I). Dunque :math:
 
 :math:`C` fuori di essa; collocare a questo punto :math:`C` una distanza :math:`CE` (fig. 30); cosicchè la retta :math:`CE` sia parallela alla :math:`AB`, e sia eguale ad una data :math:`MN`.
 
+.. picture:: 0069.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 81 (Fig. 30): Parallel Lines and Equal Segments
+
 .. picture:: 0069.g1.png
    :alt: Archival Fig. 30 (folio 0069, p. 44): Parallel at a prescribed length
 

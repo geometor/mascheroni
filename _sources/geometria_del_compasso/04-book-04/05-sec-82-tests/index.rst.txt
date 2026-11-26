@@ -18,6 +18,9 @@
 
 **82.** *Prob.* To examine whether the three points :math:`A, B, C` lie in a straight line (fig. 31).
 
+.. picture:: 0069.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 82 (Fig. 31): Collinearity Test by Compass
+
 .. picture:: 0069.g2.png
    :alt: Archival Fig. 31 (folio 0069, p. 44): Testing whether three points A, B, C are collinear (§ 82)
 
@@ -33,6 +36,9 @@ to half the angle :math:`DAE`. Therefore the three points :math:`A, B, C` cannot
 
 **83.** *Prob.* Given the three points :math:`A, B, D`, to examine whether :math:`DA` is perpendicular to :math:`AB` (fig. 32).
 
+.. picture:: 0070.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 83 (Fig. 32): Right-Angle Test on Semicircle
+
 .. picture:: 0070.g1.png
    :alt: Archival Fig. 32 (folio 0070, p. 45): Testing whether angle DAB is right (§ 83)
 
@@ -42,6 +48,9 @@ to half the angle :math:`DAE`. Therefore the three points :math:`A, B, C` cannot
 Then in the two triangles :math:`DAE, DAB`, which have sides :math:`AE, AB` mutually equal and side :math:`AD` common, if side :math:`DE` be equal to side :math:`DB`, angle :math:`DAE` will also be equal to angle :math:`DAB` (I.8), and therefore both right angles. If however :math:`DE` be greater or less than :math:`DB`, angle :math:`DAE` will also be greater or less than angle :math:`DAB`; hence one will be acute and the other obtuse (I.25).
 
 **84.** *Prob.* To examine whether the straight line passing through two given points :math:`D, F` (fig. 33) is perpendicular to the straight line passing through two other given points :math:`A, B`.
+
+.. picture:: 0070.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 84 (Fig. 33): Perpendicularity Test
 
 .. picture:: 0070.g2.png
    :alt: Archival Fig. 33 (folio 0070, p. 45): Testing perpendicularity of two point-pairs (§ 84)
@@ -58,6 +67,9 @@ Then in the two triangles :math:`DAE, DAB`, which have sides :math:`AE, AB` mutu
    :page: 46
 
 if so, they will be parallel; if not, they will converge toward the lesser side.
+
+.. picture:: 0071.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 85 (Fig. 34): Parallelism Test via Equal Perpendiculars
 
 .. picture:: 0071.g1.png
    :alt: Archival Fig. 34 (folio 0071, p. 46): Testing parallelism of two virtual lines (§ 85)

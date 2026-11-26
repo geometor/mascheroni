@@ -28,6 +28,9 @@
 
 **137.** *Prob. Upon a given side* :math:`AB` *to construct a regular pentagon (Fig. 63).*
 
+.. picture:: 0099.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 135 (Fig. 63): Regular Pentagon on Given Side AB
+
 .. picture:: 0099.g1.png
    :alt: Archival Fig. 63 (folio 0099, p. 74): Regular pentagon constructed on a given side AB (§ 137)
 
@@ -57,6 +60,9 @@ Moreover :math:`BN` being subtended by the two sides :math:`BA, AN` of the regul
 
 **138.** *Prob. Upon a given side* :math:`AB` *to construct a regular hexagon (Fig. 65).*
 
+.. picture:: 0101.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 137 (Fig. 65): Regular Hexagon on Given Side
+
 .. picture:: 0101.g1.png
    :alt: Archival Fig. 65 (folio 0101, p. 76): Regular hexagon constructed on a given side AB (§ 138)
 
@@ -66,6 +72,9 @@ With the same radius, and center :math:`O`, let a circle be described, and in it
 For the Demonstration see IV.15.
 
 **139.** *Prob. Upon a given side* :math:`AB` *to construct a regular octagon (Fig. 66).*
+
+.. picture:: 0101.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 138 (Fig. 66): Regular Octagon on Given Side AB
 
 .. picture:: 0101.g2.png
    :alt: Archival Fig. 66 (folio 0101, p. 76): Regular octagon constructed on a given side AB (§ 139)
@@ -131,6 +140,9 @@ Now with center :math:`O`, and the same radius :math:`OH`, let a circle be descr
 But :math:`HE` is a side of the octagon inscribed in the circle of radius :math:`AE`. Therefore :math:`AB` also will be a side of the octagon inscribed in the circle of radius :math:`BO`.
 
 **140.** *Prob. Upon a given side* :math:`AB` *to construct a regular decagon (Fig. 69).*
+
+.. picture:: 0105.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 141 (Fig. 69): Regular Decagon on Given Side AB
 
 .. picture:: 0105.g1.png
    :alt: Archival Fig. 69 (folio 0105, p. 80): Regular decagon constructed on a given side AB (§ 140)

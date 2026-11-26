@@ -82,6 +82,9 @@ Dunque posto il lato dell'icosaedro :math:`= 1`, sarà :math:`BD` (Fig. 92) :mat
 Quindi si faccia a :math:`BD = Ba = B\alpha = E\alpha = Ea`. Col centro :math:`\alpha`, e col raggio :math:`\alpha a` si descriva l'arco :math:`aP`. Collo stesso centro :math:`\alpha`, e col raggio :math:`\alpha B` si descriva l'arco :math:`Bpqs`. Collo stesso centro :math:`\alpha`, e col raggio :math:`AB` si descriva l'arco :math:`grt`.
 Collo stesso centro :math:`\alpha`, e col raggio :math:`BE` si descriva l'arco :math:`MQRST`. Col raggio :math:`Aa`, e coi centri :math:`D, d` si descrivano due archi, che si taglino in :math:`b`. Col raggio :math:`Ab`, e col centro :math:`E` si tagli la circonferenza in :math:`L`. Si faccia ad :math:`AB = aP = MQ`, quindi
 
+.. picture:: 0134.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 183 (Fig. 93): Platonic Polyhedra & Spherical Subdivisions
+
 .. picture:: 0134.g1.png
    :alt: Archival Fig. 93 (folio 0134, p. 109): Compass construction of Platonic polyhedron sphere radii (§§ 182–185)
 

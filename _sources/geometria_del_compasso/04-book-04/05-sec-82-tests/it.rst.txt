@@ -18,6 +18,9 @@
 
 **82.** *Prob.* Esaminare se i tre punti :math:`A, B, C` sono in linea retta (fig. 31).
 
+.. picture:: 0069.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 82 (Fig. 31): Collinearity Test by Compass
+
 .. picture:: 0069.g2.png
    :alt: Archival Fig. 31 (folio 0069, p. 44): Testing whether three points A, B, C are collinear (§ 82)
 
@@ -35,6 +38,9 @@ alla metà dell'angolo :math:`DAE`. Dunque i tre punti :math:`A, B, C` non potra
 
 **83.** *Prob.* Dati i tre punti :math:`A, B, D` esaminare se la :math:`DA` sia perpendicolare ad :math:`AB` (fig. 32).
 
+.. picture:: 0070.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 83 (Fig. 32): Right-Angle Test on Semicircle
+
 .. picture:: 0070.g1.png
    :alt: Archival Fig. 32 (folio 0070, p. 45): Testing whether angle DAB is right (§ 83)
 
@@ -45,6 +51,9 @@ Ne' due triangoli poi :math:`DAE, DAB`, che hanno i lati :math:`AE, AB` eguali f
 Se poi :math:`DE` sarà maggiore, o minore di :math:`DB`; anche l'angolo :math:`DAE` sarà maggiore o minore dell'angolo :math:`DAB`; quindi uno sarà acuto, e l'altro ottuso (25, lib. I).
 
 **84.** *Prob.* Esaminare se la retta, che passa per due punti dati :math:`D, F` (fig. 33), sia perpendicolare alla retta, che passa per altri due punti dati :math:`A, B`.
+
+.. picture:: 0070.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 84 (Fig. 33): Perpendicularity Test
 
 .. picture:: 0070.g2.png
    :alt: Archival Fig. 33 (folio 0070, p. 45): Testing perpendicularity of two point-pairs (§ 84)
@@ -61,6 +70,9 @@ Se poi :math:`DE` sarà maggiore, o minore di :math:`DB`; anche l'angolo :math:`
    :page: 46
 
 se ciò è; saranno parallele; se no; convergeranno dalla parte della minore.
+
+.. picture:: 0071.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 85 (Fig. 34): Parallelism Test via Equal Perpendiculars
 
 .. picture:: 0071.g1.png
    :alt: Archival Fig. 34 (folio 0071, p. 46): Testing parallelism of two virtual lines (§ 85)

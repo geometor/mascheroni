@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 370" width="540" height="370" class="euclid-graphic" data-graphic-id="0091.g1" data-folio="0091" data-graphic="g1">
+  <title>Mascheroni Book VIII § 120 (Fig. 56): Tangent and Secant by Compass</title>
+  <style>
+    :root {
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
+      }
+    }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-seg-guide" d="M 280.00 275.00 L 192.50 275.00 L 105.00 275.00" data-ref="/ A B /" />
+    <path class="geom-seg-guide" d="M 280.00 275.00 L 208.32 224.81 L 136.65 174.62" data-ref="/ A S /" />
+    <path class="geom-seg-guide" d="M 105.00 275.00 L 120.82 224.81 L 136.65 174.62" data-ref="/ B S /" />
+  </g>
+  <g id="graphics">
+    <path class="geom-arc-solid" d="M 455.00 275.00 A 175.00 175.00 0 0 0 105.00 275.00" data-ref="( A B )" />
+    <path class="geom-arc-solid" d="M 115.90 160.72 A 100.00 100.00 0 0 0 263.21 295.71" data-ref="( m B )" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path class="geom-seg-hl" d="M 280.00 275.00 L 244.16 249.91 L 208.32 224.81" data-ref="/ A m /" />
+  </g>
+  <g id="points">
+    <circle class="geom-point" cx="280.00" cy="275.00" r="3.8" data-ref="A" />
+    <circle class="geom-point" cx="105.00" cy="275.00" r="3.8" data-ref="B" />
+    <circle class="geom-point" cx="455.00" cy="275.00" r="3.8" data-ref="E" />
+    <circle class="geom-point" cx="280.00" cy="100.00" r="3.8" data-ref="F" />
+    <circle class="geom-point" cx="438.60" cy="201.04" r="3.8" data-ref="Q" />
+    <circle class="geom-point-hl" cx="136.65" cy="174.62" r="4.6" data-ref="S" />
+    <circle class="geom-point-hl" cx="208.32" cy="224.81" r="4.6" data-ref="m" />
+    <circle class="geom-point" cx="210.00" cy="55.00" r="3.8" data-ref="V" />
+  </g>
+  <g id="labels">
+    <text class="geom-label" x="290.0" y="281.0" data-ref="A">A</text>
+    <text class="geom-label" x="83.0" y="281.0" data-ref="B">B</text>
+    <text class="geom-label" x="465.0" y="281.0" data-ref="E">E</text>
+    <text class="geom-label" x="274.0" y="86.0" data-ref="F">F</text>
+    <text class="geom-label" x="448.6" y="197.0" data-ref="Q">Q</text>
+    <text class="geom-label-hl" x="122.6" y="162.6" data-ref="S">S</text>
+    <text class="geom-label-hl" x="216.3" y="216.8" data-ref="m">m</text>
+    <text class="geom-label" x="204.0" y="43.0" data-ref="V">V</text>
+    <text class="geom-caption" x="16" y="354">Book VIII, § 120 (Fig. 56): Semicircle BFQE centered at A with auxiliary arc BSA</text>
+  </g>
+</svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 430" width="540" height="430" class="euclid-graphic" data-graphic-id="0172.g2" data-folio="0172" data-graphic="g2">
+  <title>Mascheroni Book XII § 274 (Fig. 105): Cube-Sphere Arc Construction</title>
+  <style>
+    :root {
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
+      }
+    }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-seg-guide" d="M 120.00 225.00 L 270.00 225.00 L 420.00 225.00" data-ref="/ B E /" />
+  </g>
+  <g id="graphics">
+    <circle class="geom-arc-solid" cx="270.00" cy="225.00" r="150.00" data-ref="( A B )" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+  </g>
+  <g id="points">
+    <circle class="geom-point-hl" cx="270.00" cy="225.00" r="4.6" data-ref="A" />
+    <circle class="geom-point" cx="270.00" cy="35.00" r="3.8" data-ref="a" />
+    <circle class="geom-point" cx="120.00" cy="225.00" r="3.8" data-ref="B" />
+    <circle class="geom-point" cx="134.05" cy="161.61" r="3.8" data-ref="L" />
+    <circle class="geom-point" cx="183.96" cy="102.13" r="3.8" data-ref="C" />
+    <circle class="geom-point" cx="206.61" cy="89.05" r="3.8" data-ref="M" />
+    <circle class="geom-point" cx="270.00" cy="75.00" r="3.8" data-ref="F" />
+    <circle class="geom-point" cx="345.00" cy="95.10" r="3.8" data-ref="D" />
+    <circle class="geom-point" cx="420.00" cy="225.00" r="3.8" data-ref="E" />
+  </g>
+  <g id="labels">
+    <text class="geom-label-hl" x="264.0" y="213.0" data-ref="A">A</text>
+    <text class="geom-label" x="264.0" y="25.0" data-ref="a">a</text>
+    <text class="geom-label" x="97.0" y="230.0" data-ref="B">B</text>
+    <text class="geom-label" x="112.7" y="159.0" data-ref="L">L</text>
+    <text class="geom-label" x="168.6" y="92.4" data-ref="C">C</text>
+    <text class="geom-label" x="194.0" y="77.7" data-ref="M">M</text>
+    <text class="geom-label" x="265.0" y="62.0" data-ref="F">F</text>
+    <text class="geom-label" x="349.0" y="84.5" data-ref="D">D</text>
+    <text class="geom-label" x="433.0" y="230.0" data-ref="E">E</text>
+    <text class="geom-caption" x="16" y="414">Book XII, § 274 (Fig. 105): Circle (A, AB) with subdivision points L, M, C, F, D</text>
+  </g>
+</svg>

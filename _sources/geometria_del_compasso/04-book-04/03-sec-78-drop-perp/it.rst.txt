@@ -18,6 +18,9 @@
 
 **78.** *Prob.* Dati i due estremi d'una retta :math:`AB` e un punto :math:`D` fuori di essa, trovare un altro punto :math:`E` (fig. 28), che determini la posizione della :math:`DE` perpendicolare alla :math:`AB`, e il punto :math:`M`, dove la taglia.
 
+.. picture:: 0068.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 78 (Fig. 28): Dropping a Perpendicular from D onto AB
+
 .. picture:: 0068.g2.png
    :alt: Archival Fig. 28 (folio 0068, p. 43): Reflecting point P across virtual line (A, B) to locate perpendicular foot
 

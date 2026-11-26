@@ -48,6 +48,9 @@ semicircle :math:`BDE`, and make :math:`EA = ED`.
 With center :math:`B` and radius :math:`BD`, cut axis :math:`BA` at :math:`d`. With center :math:`A` and radius :math:`AM`, cut semi-axis :math:`AE` at :math:`m`. With the same center :math:`A` and radius :math:`Ad`, describe arc :math:`de`, and make :math:`Em = de`. With an arbitrary radius and centers :math:`d` and :math:`e`, cut arc :math:`BDE` at :math:`\delta` and :math:`\varepsilon`.
 With radius :math:`\delta\varepsilon` and center :math:`A`, cut axis :math:`BE` at :math:`P` and :math:`Q`. With centers :math:`P` and :math:`Q` and radius :math:`PB = QE`, describe arcs :math:`FBf, GEg`, and make :math:`PB = BF = Bf = EG = Eg`. Next make :math:`PQ = PR = Pr = QR = Qr`. Then with center :math:`R` and radius :math:`RF`, describe arc :math:`FG`, which will pass through :math:`M`. With the same radius :math:`RF = rf` and center :math:`r`, describe arc :math:`fg`, which will pass through :math:`N`, and what was desired will be done.
 
+.. picture:: 0126.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 170 (Fig. 86): Ellipse Construction by Compass
+
 .. picture:: 0126.g1.png
    :alt: Archival Fig. 86 (folio 0126, p. 101): Four-center basket-handle oval constructed on prescribed axes (§ 172)
 
@@ -80,6 +83,9 @@ This Problem needs no demonstration.
 With radius :math:`AP` and centers :math:`E` and :math:`H`, mark two arcs intersecting at :math:`L` and :math:`M`. Then :math:`LM = \sqrt{\sqrt{2}}`.
 
 With radius :math:`AB` and centers :math:`a` and :math:`K`, mark two arcs intersecting at :math:`Q` and :math:`R`. Then :math:`QR = \sqrt{\sqrt{3}}`.
+
+.. picture:: 0128.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 174 (Fig. 88): Tangent to an Arc at a Given Point
 
 .. picture:: 0128.g1.png
    :alt: Archival Fig. 88 (folio 0128, p. 103): Tangent-arc curve and curvature transition

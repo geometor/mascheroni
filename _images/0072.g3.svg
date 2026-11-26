@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 390" width="540" height="390" class="euclid-graphic" data-graphic-id="0072.g3" data-folio="0072" data-graphic="g3">
+  <title>Mascheroni Book V § 90 (Fig. 38): Concentric Circle Construction</title>
+  <style>
+    :root {
+      --geom-fg: #1b222c;
+      --geom-bg: transparent;
+      --geom-muted: #6c7788;
+      --geom-accent: #1d5fa7;
+      --geom-assert: #b83b24;
+      --geom-gold: #b07d1a;
+      --geom-point-fill: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #e6edf3;
+        --geom-bg: transparent;
+        --geom-muted: #8b949e;
+        --geom-accent: #68b0ff;
+        --geom-assert: #ff7b63;
+        --geom-gold: #f0b849;
+        --geom-point-fill: #0d1117;
+      }
+    }
+    .geom-arc { fill: none; stroke: var(--geom-accent); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.72; }
+    .geom-arc-solid { fill: none; stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-arc-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.2; }
+    .geom-seg-guide { fill: none; stroke: var(--geom-muted); stroke-width: 1.3; stroke-dasharray: 4 4; }
+    .geom-seg { fill: none; stroke: var(--geom-fg); stroke-width: 2; stroke-linecap: round; }
+    .geom-seg-hl { fill: none; stroke: var(--geom-assert); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-seg-gold { fill: none; stroke: var(--geom-gold); stroke-width: 2.6; stroke-linecap: round; }
+    .geom-poly { fill: var(--geom-accent); fill-opacity: 0.08; stroke: var(--geom-fg); stroke-width: 1.9; stroke-linejoin: round; }
+    .geom-point { fill: var(--geom-point-fill); stroke: var(--geom-fg); stroke-width: 2; }
+    .geom-point-hl { fill: var(--geom-assert); stroke: var(--geom-fg); stroke-width: 1.8; }
+    .geom-label { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-size: 16px; fill: var(--geom-fg); user-select: none; }
+    .geom-label-hl { font-family: Georgia, "Times New Roman", serif; font-style: italic; font-weight: bold; font-size: 17px; fill: var(--geom-assert); user-select: none; }
+    .geom-caption { font-family: Georgia, "Times New Roman", serif; font-size: 12.5px; fill: var(--geom-muted); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -5 L 0 5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2.2 -5 L -2.2 5 M 2.2 -5 L 2.2 5" stroke="currentColor" stroke-width="1.5" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -4 -5 L -4 5 M 0 -5 L 0 5 M 4 -5 L 4 5" stroke="currentColor" stroke-width="1.4" fill="none" />
+    </marker>
+  </defs>
+  <g id="elements">
+    <path class="geom-seg-guide" d="M 85.00 200.00 L 85.00 277.50 L 85.00 355.00" data-ref="/ S Sp /" />
+    <path class="geom-arc" d="M 80.41 62.50 A 115.00 115.00 0 0 0 98.68 201.32" data-ref="( Q S )" />
+  </g>
+  <g id="graphics">
+    <circle class="geom-arc-solid" cx="280.00" cy="115.00" r="55.00" data-ref="( Q P )" />
+    <circle class="geom-arc-solid" cx="280.00" cy="115.00" r="85.00" data-ref="( Q P1 )" />
+    <path class="geom-arc-solid" d="M 124.36 118.98 A 190.00 190.00 0 0 0 435.64 118.98" data-ref="( Qp A )" />
+    <path class="geom-seg" d="M 210.00 265.00 L 310.00 265.00 L 410.00 265.00" data-ref="/ M N /" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path class="geom-seg-hl" d="M 280.00 115.00 L 280.00 157.50 L 280.00 200.00" data-ref="/ Q P /" />
+  </g>
+  <g id="points">
+    <circle class="geom-point" cx="280.00" cy="115.00" r="3.8" data-ref="Q" />
+    <circle class="geom-point-hl" cx="280.00" cy="200.00" r="4.6" data-ref="P" />
+    <circle class="geom-point" cx="85.00" cy="200.00" r="3.8" data-ref="S" />
+    <circle class="geom-point" cx="85.00" cy="355.00" r="3.8" data-ref="S'" />
+    <circle class="geom-point" cx="210.00" cy="265.00" r="3.8" data-ref="M" />
+    <circle class="geom-point" cx="410.00" cy="265.00" r="3.8" data-ref="N" />
+  </g>
+  <g id="labels">
+    <text class="geom-label" x="262.0" y="121.0" data-ref="Q">Q</text>
+    <text class="geom-label-hl" x="274.0" y="222.0" data-ref="P">P</text>
+    <text class="geom-label" x="63.0" y="206.0" data-ref="S">S</text>
+    <text class="geom-label" x="63.0" y="361.0" data-ref="S'">S'</text>
+    <text class="geom-label" x="204.0" y="253.0" data-ref="M">M</text>
+    <text class="geom-label" x="404.0" y="253.0" data-ref="N">N</text>
+    <text class="geom-caption" x="16" y="374">Book V, § 90 (Fig. 38): Nested circles about Q with auxiliary segment MN and line SS'</text>
+  </g>
+</svg>

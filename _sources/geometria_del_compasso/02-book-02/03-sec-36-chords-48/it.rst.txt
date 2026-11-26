@@ -23,6 +23,9 @@
 
 poi l'arco :math:`BG` un'ottava parte della circonferenza; sarà il quadrato della sua corda :math:`BG`, ossia :math:`(BG)^2 = 2 - \sqrt{2}` (fig. 10).
 
+.. picture:: 0051.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book II § 36 (Fig. 10): Chord and Projection on Diameter
+
 .. picture:: 0051.g1.png
    :alt: Archival Fig. 10 (folio 0051, p. 22): Half-angle chord relation
 
@@ -35,6 +38,9 @@ Si ha poi, essendo retto l'angolo :math:`BGE` (31, lib. III), :math:`BP : BG :: 
 *Dim.* Poichè sarà :math:`(BE)^2 = (GE)^2 + (BG)^2` (47, lib. I). Ma :math:`(BE)^2 = 4`; :math:`(BG)^2 = 2 - \sqrt{2}` (§ 36). Dunque :math:`4 = (GE)^2 + 2 - \sqrt{2}`, e togliendo 2, aggiungendo :math:`\sqrt{2}`, si avrà :math:`2 + \sqrt{2} = (GE)^2`.
 
 **38.** *Prob.* Essendosi già divisa la circonferenza in ventiquattro parti (§ 32) eguali; suddividerla in quarantotto.
+
+.. picture:: 0051.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book II § 36 (Fig. 11): Division of the Circumference into 48 Parts
 
 .. picture:: 0051.g2.png
    :alt: Archival Fig. 11 (folio 0051, p. 22): Exact 48-part division of the circle

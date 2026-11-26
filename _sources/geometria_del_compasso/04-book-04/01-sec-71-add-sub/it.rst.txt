@@ -28,6 +28,9 @@ più rigorosamente a suo luogo, e perchè non manchi alcuno degli Elementi di qu
 
 **72.** *Prob.* Dalla distanza :math:`AB` togliere una distanza eguale a :math:`CD` (fig. 24).
 
+.. picture:: 0065.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 71 (Fig. 24): Addition and Subtraction of Segments
+
 .. picture:: 0065.g1.png
    :alt: Archival Fig. 24 (folio 0065, p. 40): Collinear addition and subtraction of distances AB ± CD
 
@@ -55,6 +58,9 @@ Ma la somma di tutti questi quattro angoli è eguale a quattro retti (13, lib. I
 e quindi la :math:`HBA` sarà una retta (14, lib. I). È poi :math:`BH = CD`. Dunque :math:`AH = AB + CD`.
 
 **74.** *Prob.* Sulla :math:`AB` da :math:`A` verso :math:`B` collocare la :math:`CD` maggiore della :math:`AB` (fig. 25).
+
+.. picture:: 0066.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IV § 73 (Fig. 25): Adding Segment CD along Line AB
 
 .. picture:: 0066.g1.png
    :alt: Archival Fig. 25 (folio 0066, p. 41): Laying off a larger distance CD along ray AB

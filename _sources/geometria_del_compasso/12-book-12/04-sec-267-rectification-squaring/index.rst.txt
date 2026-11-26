@@ -41,12 +41,18 @@
 
 *Demonstration.* If in equation (4) we introduce :math:`A' = 90^\circ`, of which arc :math:`aL` is chord, there will result :math:`BL = A = 20^\circ 42' \frac{786}{1721}`. Then since :math:`OM = bF` is chord of the fifth part of the circumference (§ 40), that is, of :math:`72^\circ`, and since arc :math:`FO = 60^\circ`, arc :math:`FM` will be :math:`= 12^\circ`. Hence arc :math:`LM = BF - BL - FM = 57^\circ 17' \frac{1035}{2721} = 57^\circ 17' 43''+`. Now the arc equal to the radius is, as is known, :math:`= 57^\circ 17' 44''`. Therefore, etc.
 
+.. picture:: 0169.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 267 (Fig. 102): Circle Rectification Points
+
 .. picture:: 0169.g1.png
    :alt: Archival Fig. 102 (folio 0169, p. 144): Constructing the 1-radian arc ≈ 57° 17' 43" (§ 269)
 
 **270. Problem.** To find (Fig. 103) the side of a square that may be approximately equal in area to a circle of given radius :math:`AB`.
 
 *Sol.* In the circumference :math:`BPCQDRE` make :math:`AB = BC = CD = DE`, and with the same radius :math:`BA`, and centers :math:`B` and :math:`E`, describe the two arcs :math:`ALc`, :math:`AMd`. With centers :math:`C` and :math:`D`, and radius :math:`DB`, describe the arcs :math:`cNM`, :math:`dNL`. Make :math:`AN = BP = PQ`; then :math:`LM = QR`. :math:`BR` will be the side sought.
+
+.. picture:: 0169.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 269 (Fig. 103): Circle Squaring & Quadrature Arcs
 
 .. picture:: 0169.g2.png
    :alt: Archival Fig. 103 (folio 0169, p. 144): Compass squaring of the circle — side √π ≈ 1.77266 (§ 270)
@@ -64,6 +70,9 @@ Therefore :math:`Al = AB - Bl = \frac{1}{12}(9 - \sqrt{33})`, and hence :math:`l
 **271.** Instead of :math:`AN`, one could have used :math:`dL` or :math:`cM`, which must be found equal to the same :math:`AN`.
 
 *Demonstration.* If :math:`dL` be drawn, and :math:`Dp` to its midpoint at :math:`p`, we shall have :math:`\sin LDp = \frac{Lp}{DL}`. But the angle :math:`LDp = \frac{1}{2} LDd = \frac{1}{2}(BDd - BDL) = 30^\circ - BDn`. Therefore (§ 155) :math:`\sin LDp = \frac{1}{2}\cos BDn - \frac{1}{2}\sqrt{3} \times \sin BDn = \frac{1}{2} \cdot \frac{1}{6}\sqrt{33} - \frac{1}{2}\sqrt{3} \times \frac{1}{6}\sqrt{3}`. Hence :math:`Lp = DL \cdot \sin LDp = \frac{1}{4}\sqrt{11} - \frac{1}{4}\sqrt{3}` and :math:`Ld = \frac{1}{2}\sqrt{11} - \frac{1}{2}\sqrt{3} = AN`.
+
+.. picture:: 0170.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 271 (Fig. 104): Circumference Approximation via Arc DNd
 
 .. picture:: 0170.g1.png
    :alt: Archival Fig. 104 (folio 0170, p. 145): Alternative chord proof for circle squaring (§ 271)

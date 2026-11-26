@@ -54,6 +54,9 @@ ognuno di questi archi eguali avrà per corda un lato del poligono di sedici lat
 
 I tre punti :math:`L, M, N` saranno i vertici del triangolo equilatero circoscritto al cerchio.
 
+.. picture:: 0097.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 128 (Fig. 59): Circumscribed Equilateral Triangle
+
 .. picture:: 0097.g1.png
    :alt: Archival Fig. 59 (folio 0097, p. 72): Circumscribing an equilateral triangle about a circle (§ 131)
 
@@ -74,6 +77,9 @@ Dunque il triangolo :math:`NLM` è equilatero circoscritto al cerchio (def. 2ª,
 
 *Sol.* Si divida la sua circonferenza in quattro parti eguali nei punti :math:`B, F, E, f` (§ 27). Con questi punti presi per centri,
 e col raggio :math:`AB` si segnino degli archi, che si taglino in :math:`R, S, T, V`. Saranno questi ultimi quattro punti i vertici del quadrato circoscritto al cerchio.
+
+.. picture:: 0097.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 129 (Fig. 60): Circumscribed Square
 
 .. picture:: 0097.g2.png
    :alt: Archival Fig. 60 (folio 0097, p. 72): Circumscribing a square about a circle (§ 132)
@@ -97,10 +103,16 @@ Saranno questi ultimi punti i vertici degli angoli del pentagono circoscritto al
 
 Per dimostrazione di questo Problema servirà la dimostrazione del seguente.
 
+.. picture:: 0098.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 130 (Fig. 61): Circumscribed Regular Pentagon
+
 .. picture:: 0098.g1.png
    :alt: Archival Fig. 61 (folio 0098, p. 73): Circumscribing a regular hexagon or octagon (§ 133)
 
 **134.** *Prob. Dati i vertici d'un poligono regolare iscritto al cerchio (fig. 62); trovare i vertici d'un simile poligono regolare circoscritto.*
+
+.. picture:: 0098.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 131 (Fig. 62): Circumscribed Regular Hexagon
 
 .. picture:: 0098.g2.png
    :alt: Archival Fig. 62 (folio 0098, p. 73): General regular polygon circumscribed about a circle (§ 134)

@@ -44,6 +44,9 @@ the circumference then being divided into 48 parts (§ 38), triple 16, one will 
 
 *Solution.* Make equal to the radius of this circle :math:`AB = BC = CD`; and equal to :math:`BD = BL = DL = Dd = DN = dN = dM = BM`. The three points :math:`L, M, N` will be the vertices of the equilateral triangle circumscribed about the circle.
 
+.. picture:: 0097.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 128 (Fig. 59): Circumscribed Equilateral Triangle
+
 .. picture:: 0097.g1.png
    :alt: Archival Fig. 59 (folio 0097, p. 72): Circumscribing an equilateral triangle about a circle (§ 131)
 
@@ -60,6 +63,9 @@ The same will be proved of the two :math:`NL`, :math:`NM`. Therefore triangle :m
 
 *Solution.* Divide its circumference into four equal parts at points :math:`B, F, E, f` (§ 27).
 With these points taken as centers and with radius :math:`AB`, mark arcs intersecting at :math:`R, S, T, V`. These last four points will be the vertices of the square circumscribed about the circle.
+
+.. picture:: 0097.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 129 (Fig. 60): Circumscribed Square
 
 .. picture:: 0097.g2.png
    :alt: Archival Fig. 60 (folio 0097, p. 72): Circumscribing a square about a circle (§ 132)
@@ -78,12 +84,18 @@ Furthermore, since triangle :math:`BFT` has its sides equal respectively to the 
 *Solution.* Let circle :math:`BDE` be described with radius :math:`AB` (fig. 61). Divide its circumference into five equal parts (§ 40) at points :math:`B, C, D, E, F`. With center at one of these points :math:`C` and radius :math:`CB`, describe the semicircle :math:`BDP` (§ 64).
 Taking as center point :math:`E` opposite arc :math:`CB`, with radius :math:`EC` cut arc :math:`BDP` at :math:`p`. With radius :math:`Pp` and centers :math:`B, C, D, E, F`, mark arcs intersecting at :math:`b, c, d, e, f`. These last points will be the vertices of the angles of the pentagon circumscribed about the circle.
 
+.. picture:: 0098.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 130 (Fig. 61): Circumscribed Regular Pentagon
+
 .. picture:: 0098.g1.png
    :alt: Archival Fig. 61 (folio 0098, p. 73): Circumscribing a regular hexagon or octagon (§ 133)
 
 For the demonstration of this Problem, the demonstration of the following will serve.
 
 **134.** *Problem. Given the vertices of a regular polygon inscribed in the circle (fig. 62); to find the vertices of a similar regular circumscribed polygon.*
+
+.. picture:: 0098.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book IX § 131 (Fig. 62): Circumscribed Regular Hexagon
 
 .. picture:: 0098.g2.png
    :alt: Archival Fig. 62 (folio 0098, p. 73): General regular polygon circumscribed about a circle (§ 134)

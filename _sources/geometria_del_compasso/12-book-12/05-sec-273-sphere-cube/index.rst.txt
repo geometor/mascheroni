@@ -27,12 +27,18 @@ the side of a cube approximately equal in volume to the same.
 
 *Demonstration.* Since (§ 272) :math:`CN` will be the chord of :math:`92^\circ 26' \frac{804}{2013}`. Then :math:`GC` will be :math:`= 15^\circ` (§ 32). Hence :math:`PG = 107^\circ 26' \frac{804}{2013}`, the chord of which arc is found to be equal to :math:`1.6122696`, supposing :math:`AB = 1`. Now in the same supposition, and supposing the ratio of the circumference to the diameter :math:`= \pi`, we have the volume of the sphere :math:`= \frac{4}{3}\pi`, and its logarithm :math:`= \log 4 + \log \pi - \log 3 = 0.6220886`, whose third :math:`0.2073628` is found to be the logarithm of :math:`1.611991`. Wherefore the error committed does not reach :math:`0.0003`.
 
+.. picture:: 0172.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 273 (Fig. 105): Sphere and Cube Inscribed Relation
+
 .. picture:: 0172.g1.png
    :alt: Archival Fig. 105 (folio 0172, p. 147): Edge of a cube equal in volume to a given sphere (§ 273)
 
 **274. Problem.** Given (Fig. 106) the side :math:`AB` of a cube, to find the radius of a sphere that is approximately equal to it in volume.
 
 *Sol.* With radius :math:`AB`, center :math:`A`, describe the circumference :math:`BLCMFDE`. Make :math:`AB = BC = CD = DE`. Then :math:`BD = Ba = Ea`; then :math:`Aa = BF`; then :math:`Fa = FM`, :math:`FA = FL`. :math:`LM` will be the radius sought.
+
+.. picture:: 0172.g2.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 274 (Fig. 105): Cube-Sphere Arc Construction
 
 .. picture:: 0172.g2.png
    :alt: Archival Fig. 106 (folio 0172, p. 147): Radius of a sphere equal in volume to a given cube (§ 274)
@@ -53,6 +59,9 @@ Whoever should wish for more accurate ones will have nothing else to do than to 
 *Sol. I.* Let (Fig. 107) :math:`AB` be the side of the cube which it is desired to duplicate. With center :math:`A` and radius :math:`AB`, describe the circumference :math:`BQMNCFPDEdc`, and make in it :math:`AB = BC = CD = DE`; then :math:`BD = Ba = Ea`; then :math:`Aa = BF`; then :math:`FA = FN`; :math:`aN` will be approximately the side of the doubled cube.
 
 *Demonstration.* The arc :math:`BN` will be one twelfth of the circumference (§ 31) :math:`= 30^\circ`. If this arc :math:`BN = A` is introduced into equation (1), the arc :math:`A'`, of which :math:`aN` is the chord, will turn out :math:`= 78^\circ 2' \frac{2358}{2846}`. Thus we have (putting :math:`AB = 1`) :math:`aN = 2\sin 39^\circ 1' \frac{1179}{2846} = 1.2592800`. Then we have :math:`\sqrt[3]{2} = 1.2599209`. Thus it does not commit a defect of :math:`0.0007`.
+
+.. picture:: 0173.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 276 (Fig. 107): Sphere and Equal-Volume Cube
 
 .. picture:: 0173.g1.png
    :alt: Archival Fig. 107 (folio 0173, p. 148): Duplication of the cube ∛2 to two millionths accuracy (§ 276)
@@ -87,6 +96,9 @@ With radius :math:`BD`, center :math:`B`, describe the arc :math:`d\tau\delta Da
      - side of the septupled cube
    * - :math:`BE`
      - side of the octupled cube.
+
+.. picture:: 0174.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XII § 278 (Fig. 108): Compound Arc Intersection for Solid Problems
 
 .. picture:: 0174.g1.png
    :alt: Archival Fig. 108 (folio 0174, p. 149): Unified figure for cube roots ∛2 through ∛8 (§ 277)

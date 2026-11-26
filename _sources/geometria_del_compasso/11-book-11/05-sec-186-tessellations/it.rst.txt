@@ -20,6 +20,9 @@
 
 *Sol.* Si facciano al raggio :math:`AB` eguali le corde :math:`BC, CD, DE`. Si faccia a :math:`BD = Ba = Ea`. Ad :math:`Aa` si facciano eguali le corde :math:`BF, Bf`. Col raggio :math:`AB`, e col centro :math:`a` si tagli il cerchio in :math:`G`, e si faccia ad :math:`Aa` eguale la corda :math:`Gg`.
 
+.. picture:: 0138.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 186 (Fig. 96): Five-Square Greek Cross Tessellation
+
 .. picture:: 0138.g1.png
    :alt: Archival Fig. 96 (folio 0138, p. 113): Greek cross of five equal squares inscribed in a circle (§ 186)
 
@@ -101,6 +104,9 @@ Istessamente si dimostra, che è :math:`Dm = ml`. Dunque è :math:`Bl = \frac{1}
 *Sol.* Si faccia nella circonferenza del cerchio dato ad :math:`AB = BC = CD = DE = Ed`. Quindi a :math:`DB = DV = dV`.
 Col raggio :math:`CV`, e coi centri :math:`C` ed :math:`A` si segnino due archi, che si taglino in :math:`P`. Collo stesso raggio :math:`PC`, centro :math:`P` si tagli la circonferenza del cerchio dato in :math:`\delta`. Sarà :math:`d\delta` il lato degli esagoni da inscriversi, i quali si inscriveranno facilmente uno presso l'altro.
 Poichè collo stesso lato :math:`d\delta` preso per raggio, e coi centri :math:`d, \delta` si segnino due archi, che si taglino in :math:`\alpha`. Collo stesso raggio, e col centro :math:`\alpha` si descriva un cerchio, dentro il quale si inscriva un esagono regolare (15, lib. IV) :math:`d\delta mnpq`. Collo stesso raggio, e col centro :math:`A` si descriva un cerchio, che
+
+.. picture:: 0143.g1.svg
+   :alt: Calibrated 5-layer vector diagram of Mascheroni Book XI § 188 (Fig. 100): Seven-Hexagon Honeycomb Tessellation
 
 .. picture:: 0143.g1.png
    :alt: Archival Fig. 100 (folio 0143, p. 118): Flower of seven equal regular hexagons inscribed in a circle (§ 191)
