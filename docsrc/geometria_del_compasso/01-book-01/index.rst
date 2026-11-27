@@ -1,5 +1,7 @@
 :order: 2
 :layout: book
+:type: chapter
+:excerpt: Foundations of compass-only geometry (§§ 1–26, pp. 11–18, folios ``0040``–``0047``): equilateral circle intersections, point-pair line representation, orthogonal symmetry lemmas, isosceles metric equations, and parallelogram / Apollonius median identities.
 :title: Book I: Preliminaries
 :nav_title: Book I: Preliminaries
 :breadcrumb_title: Book I: Preliminaries
@@ -21,15 +23,5 @@ Book I: Preliminaries
 .. folio:: 0040
    :page: 11
 
-Foundations of compass-only geometry (§§ 1–26, pp. 11–18, folios ``0040``–``0047``): equilateral circle intersections, point-pair line representation, orthogonal symmetry lemmas, isosceles metric equations, and parallelogram / Apollonius median identities.
-
 .. collection::
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   01-sec-01-definitions/index
-   02-sec-06-notation/index
-   03-sec-15-metric-lemmas/index
-   04-sec-23-parallelograms/index
+   :sort: order

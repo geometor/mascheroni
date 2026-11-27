@@ -1,5 +1,7 @@
 :order: 14
 :layout: book
+:type: chapter
+:excerpt: Original archival *Indice* (folio ``0177``, p. 152) and closing endpapers (``0178``–``0181``) of the 1901 Palermo Centenary Edition (:cite:`fazzari-1901`), summarizing all twelve canonical books of :person:`Lorenzo Mascheroni <mascheroni>`'s *La Geometria del Compasso*.
 :title: Index of the Twelve Books
 :nav_title: Index
 :breadcrumb_title: Index
@@ -20,12 +22,5 @@ Index of the Twelve Books
 .. folio:: 0177
    :page: 152
 
-Original archival *Indice* (folio ``0177``, p. 152) and closing endpapers (``0178``–``0181``) of the 1901 Palermo Centenary Edition (:cite:`fazzari-1901`), summarizing all twelve canonical books of :person:`Lorenzo Mascheroni <mascheroni>`'s *La Geometria del Compasso*.
-
 .. collection::
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   01-indice/index
+   :sort: order
