@@ -1,5 +1,7 @@
 :order: 5
 :layout: book
+:type: chapter
+:excerpt: Affine and orthogonal constructions by compass alone (§§ 71–85, pp. 40–46, folios ``0065``–``0071``): adding and subtracting arbitrary distances collinearly (§§ 71–75), erecting and dropping perpendiculars (§§ 76–79), constructing parallels in two circles (§§ 80–81), and pure compass tests for collinearity, orthogonality, and parallelism (§§ 82–85).
 :title: Book IV: Addition, Perpendiculars & Parallels
 :nav_title: Book IV: Perpendiculars & Parallels
 :breadcrumb_title: Book IV: Perpendiculars & Parallels
@@ -20,16 +22,5 @@ Book IV: Addition, Perpendiculars & Parallels
 .. folio:: 0065
    :page: 40
 
-Affine and orthogonal constructions by compass alone (§§ 71–85, pp. 40–46, folios ``0065``–``0071``): adding and subtracting arbitrary distances collinearly (§§ 71–75), erecting and dropping perpendiculars (§§ 76–79), constructing parallels in two circles (§§ 80–81), and pure compass tests for collinearity, orthogonality, and parallelism (§§ 82–85).
-
 .. collection::
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   01-sec-71-add-sub/index
-   02-sec-76-perpendiculars/index
-   03-sec-78-drop-perp/index
-   04-sec-80-parallels/index
-   05-sec-82-tests/index
+   :sort: order

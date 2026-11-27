@@ -45,25 +45,11 @@ The Geometry of the Compass
 
 ----
 
-Canonical Architecture (Preface, Books I–XII & Index)
------------------------------------------------------
-
-* :doc:`Preface & Dedication to Bonaparte <00-preface/index>` — *Prefazione e Dedica a Bonaparte* (6 leaves, folios ``0013``–``0039``)
-* :doc:`Book I: Preliminaries <01-book-01/index>` — *Libro Primo: Preliminare (§§ 1–26)* (4 leaves, folios ``0040``–``0047``)
-* :doc:`Book II: Division of the Circumference <02-book-02/index>` — *Libro Secondo: Della divisione della circonferenza e degli archi del cerchio (§§ 27–63)* (5 leaves, folios ``0048``–``0056``)
-* :doc:`Book III: Multiplication & Division of Straight Distances <03-book-03/index>` — *Libro Terzo: Della moltiplicazione e divisione delle distanze in linea retta (§§ 64–70)* (5 leaves, folios ``0057``–``0064``)
-* :doc:`Book IV: Addition, Perpendiculars & Parallels <04-book-04/index>` — *Libro Quarto: Dell'addizione e sottrazione delle distanze; delle perpendicolari e delle parallele (§§ 71–85)* (5 leaves, folios ``0065``–``0071``)
-* :doc:`Book V: Proportional Distances <05-book-05/index>` — *Libro Quinto: Delle distanze proporzionali (§§ 86–99)* (5 leaves, folios ``0071``–``0075``)
-* :doc:`Book VI: Square Roots <06-book-06/index>` — *Libro Sesto: Delle radici (§§ 100–109)* (3 leaves, folios ``0076``–``0085``)
-* :doc:`Book VII: Intersections of Lines & Circles <07-book-07/index>` — *Libro Settimo: Della intersezione delle rette cogli archi di cerchio e tra loro (§§ 110–112)* (3 leaves, folios ``0085``–``0088``)
-* :doc:`Book VIII: Angles & Trigonometric Lines <08-book-08/index>` — *Libro Ottavo: Della costruzione, moltiplicazione e divisione degli angoli e delle linee trigonometriche (§§ 113–123)* (2 leaves, folios ``0088``–``0093``)
-* :doc:`Book IX: Similar Figures & Regular Polygons <09-book-09/index>` — *Libro Nono: Delle figure simili e dei poligoni regolari (§§ 124–142)* (3 leaves, folios ``0093``–``0106``)
-* :doc:`Book X: Determination of Centers & Napoleon's Problem <10-book-10/index>` — *Libro Decimo: Dei centri (§§ 143–150)* (3 leaves, folios ``0107``–``0111``)
-* :doc:`Book XI: Miscellaneous Problems & Platonic Solids <11-book-11/index>` — *Libro Undecimo: Problemi varj (§§ 151–192)* (5 leaves, folios ``0111``–``0144``)
-* :doc:`Book XII: Problems by Approximation <12-book-12/index>` — *Libro Duodecimo: Problemi per approssimazione (§§ 193–280)* (5 leaves, folios ``0145``–``0176``)
-* :doc:`Index of the Twelve Books <13-index/index>` — *Indice dei Libri* (1 leaf, folios ``0177``–``0181``)
+Table of Contents
+-----------------
 
 .. collection::
+   :sort: order
 
 ----
 
@@ -75,22 +61,4 @@ Scholarly Apparatus
 * :doc:`Glossary </glossary>` — Italian, French, and English operational and structural terms in compass-only geometry.
 * :doc:`About This Edition </about/index>` — Methodological architecture of the GEOMETOR Digital Scriptorium edition.
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   00-preface/index
-   01-book-01/index
-   02-book-02/index
-   03-book-03/index
-   04-book-04/index
-   05-book-05/index
-   06-book-06/index
-   07-book-07/index
-   08-book-08/index
-   09-book-09/index
-   10-book-10/index
-   11-book-11/index
-   12-book-12/index
-   13-index/index
    title-it

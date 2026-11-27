@@ -1,5 +1,7 @@
 :order: 8
 :layout: book
+:type: chapter
+:excerpt: The theoretical climax of *La Geometria del Compasso* (§§ 110–112, pp. 60–63, folios ``0085``–``0088``): locating the intersection of a :term:`virtual line <retta-virtuale>` with a circle (§§ 110–111) and the intersection of two virtual lines (§ 112) by compass alone—completing the constructive proof of the Mohr–Mascheroni theorem.
 :title: Book VII: Intersections of Lines & Circles
 :nav_title: Book VII: Intersections
 :breadcrumb_title: Book VII: Intersections
@@ -20,14 +22,5 @@ Book VII: Intersections of Lines & Circles
 .. folio:: 0085
    :page: 60
 
-The theoretical climax of *La Geometria del Compasso* (§§ 110–112, pp. 60–63, folios ``0085``–``0088``): locating the intersection of a :term:`virtual line <retta-virtuale>` with a circle (§§ 110–111) and the intersection of two virtual lines (§ 112) by compass alone—completing the constructive proof of the Mohr–Mascheroni theorem.
-
 .. collection::
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   01-sec-110-line-circle/index
-   02-sec-111-diametral/index
-   03-sec-112-line-line/index
+   :sort: order
